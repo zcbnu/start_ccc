@@ -1,0 +1,90 @@
+
+death reaper_active01_b03.png
+size: 725,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/qiuqiu_01
+  rotate: false
+  xy: 2, 119
+  size: 25, 33
+  orig: 180, 180
+  offset: 111, 63
+  index: -1
+zhengyizhilian/qiuqiu_05
+  rotate: false
+  xy: 184, 172
+  size: 180, 164
+  orig: 180, 180
+  offset: 0, 3
+  index: -1
+zhengyizhilian/qiuqiu_09
+  rotate: false
+  xy: 366, 342
+  size: 180, 169
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+zhengyizhilian/qiuqiu_13
+  rotate: false
+  xy: 366, 171
+  size: 178, 169
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+zhengyizhilian/qiuqiu_15
+  rotate: false
+  xy: 181, 2
+  size: 180, 168
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+zhengyizhilian/qiuqiu_17
+  rotate: false
+  xy: 538, 4
+  size: 166, 165
+  orig: 180, 180
+  offset: 6, 1
+  index: -1
+zhengyizhilian/qiuqiu_19
+  rotate: true
+  xy: 548, 171
+  size: 171, 168
+  orig: 180, 180
+  offset: 6, 0
+  index: -1
+zhengyizhilian/qiuqiu_21
+  rotate: true
+  xy: 548, 344
+  size: 167, 175
+  orig: 180, 180
+  offset: 11, 0
+  index: -1
+zhengyizhilian/qiuqiu_23
+  rotate: true
+  xy: 363, 4
+  size: 165, 173
+  orig: 180, 180
+  offset: 8, 0
+  index: -1
+zhengyizhilian/qiuqiu_25
+  rotate: false
+  xy: 184, 338
+  size: 180, 173
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+zhengyizhilian/qiuqiu_27
+  rotate: false
+  xy: 2, 333
+  size: 180, 178
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+zhengyizhilian/qiuqiu_29
+  rotate: false
+  xy: 2, 154
+  size: 177, 177
+  orig: 180, 180
+  offset: 2, 0
+  index: -1

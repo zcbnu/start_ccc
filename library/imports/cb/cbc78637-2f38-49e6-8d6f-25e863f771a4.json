@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "calamity spreader_attack01_h",
+    "texture": "a9829407-9705-4e9a-a8c0-75ba583de768",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      947,
+      245
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      951,
+      249
+    ]
+  }
+}

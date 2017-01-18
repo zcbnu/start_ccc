@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "active_skill_btn_hightlight",
+    "texture": "9c88b638-86c8-42ad-b272-eb15a699d108",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      198,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      50
+    ]
+  }
+}

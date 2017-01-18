@@ -1,0 +1,76 @@
+
+death reaper_active01_s.png
+size: 757,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/daoguangguanggggg_01
+  rotate: true
+  xy: 631, 12
+  size: 187, 124
+  orig: 300, 180
+  offset: 35, 40
+  index: -1
+zhengyizhilian/daoguangguanggggg_03
+  rotate: false
+  xy: 278, 329
+  size: 196, 125
+  orig: 300, 180
+  offset: 30, 39
+  index: -1
+zhengyizhilian/daoguangguanggggg_04
+  rotate: false
+  xy: 278, 202
+  size: 196, 125
+  orig: 300, 180
+  offset: 30, 39
+  index: -1
+zhengyizhilian/daoguangguanggggg_05
+  rotate: false
+  xy: 476, 201
+  size: 196, 125
+  orig: 300, 180
+  offset: 30, 39
+  index: -1
+zhengyizhilian/daoguangguanggggg_06
+  rotate: true
+  xy: 147, 165
+  size: 289, 129
+  orig: 300, 180
+  offset: 0, 40
+  index: -1
+zhengyizhilian/daoguangguanggggg_07
+  rotate: false
+  xy: 268, 2
+  size: 234, 161
+  orig: 300, 180
+  offset: 0, 3
+  index: -1
+zhengyizhilian/daoguangguanggggg_08
+  rotate: true
+  xy: 2, 154
+  size: 300, 143
+  orig: 300, 180
+  offset: 0, 13
+  index: -1
+zhengyizhilian/daoguangguanggggg_09
+  rotate: false
+  xy: 2, 9
+  size: 264, 143
+  orig: 300, 180
+  offset: 36, 20
+  index: -1
+zhengyizhilian/daoguangguanggggg_10
+  rotate: false
+  xy: 504, 328
+  size: 250, 126
+  orig: 300, 180
+  offset: 30, 39
+  index: -1
+zhengyizhilian/daoguangguanggggg_11
+  rotate: true
+  xy: 504, 7
+  size: 192, 125
+  orig: 300, 180
+  offset: 32, 39
+  index: -1

@@ -1,0 +1,55 @@
+
+leidian_h.png
+size: 781,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leidianshoushuxiaoguo_3_a_00000
+  rotate: false
+  xy: 313, 14
+  size: 298, 299
+  orig: 300, 301
+  offset: 1, 1
+  index: -1
+leidianshoushuxiaoguo_3_a_00001
+  rotate: false
+  xy: 2, 315
+  size: 322, 323
+  orig: 324, 325
+  offset: 1, 1
+  index: -1
+leidianshoushuxiaoguo_3_a_00002
+  rotate: false
+  xy: 2, 2
+  size: 309, 311
+  orig: 311, 313
+  offset: 1, 1
+  index: -1
+leidianshoushuxiaoguo_3_a_00003
+  rotate: true
+  xy: 326, 444
+  size: 194, 195
+  orig: 196, 197
+  offset: 1, 1
+  index: -1
+leidianshoushuxiaoguo_3_a_00004
+  rotate: false
+  xy: 613, 245
+  size: 164, 195
+  orig: 166, 197
+  offset: 1, 1
+  index: -1
+leidianshoushuxiaoguo_3_a_00005
+  rotate: false
+  xy: 613, 442
+  size: 166, 196
+  orig: 168, 198
+  offset: 1, 1
+  index: -1
+leidianshoushuxiaoguo_3_a_00006
+  rotate: false
+  xy: 613, 56
+  size: 166, 187
+  orig: 168, 189
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,163 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton king_attack01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "7r0fImKZTEwLN5JFDAvS0tKKTBo",
+      "spine": "3.5.46",
+      "width": 784.54,
+      "height": 661.08,
+      "fps": 24,
+      "images": "./../../Skeleton King/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "y": 1.19
+      },
+      {
+        "name": "bone5",
+        "parent": "root",
+        "x": 159.91,
+        "y": 0.56
+      }
+    ],
+    "slots": [
+      {
+        "name": "kulouwang/daoguang_1_00",
+        "bone": "bone5",
+        "attachment": "kulouwang/daoguang_1_05"
+      }
+    ],
+    "skins": {
+      "default": {
+        "kulouwang/daoguang_1_00": {
+          "kulouwang/daoguang_1_00": {
+            "width": 500,
+            "height": 500
+          },
+          "kulouwang/daoguang_1_01": {
+            "width": 500,
+            "height": 500
+          },
+          "kulouwang/daoguang_1_02": {
+            "width": 500,
+            "height": 500
+          },
+          "kulouwang/daoguang_1_03": {
+            "width": 500,
+            "height": 500
+          },
+          "kulouwang/daoguang_1_04": {
+            "width": 500,
+            "height": 500
+          },
+          "kulouwang/daoguang_1_05": {
+            "width": 500,
+            "height": 500
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "kulouwang/daoguang_1_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "kulouwang/daoguang_1_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "kulouwang/daoguang_1_01"
+              },
+              {
+                "time": 0.1667,
+                "name": "kulouwang/daoguang_1_02"
+              },
+              {
+                "time": 0.25,
+                "name": "kulouwang/daoguang_1_03"
+              },
+              {
+                "time": 0.3333,
+                "name": "kulouwang/daoguang_1_04"
+              },
+              {
+                "time": 0.4167,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 351.6
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -130.91,
+                "y": 79.44,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0833,
+                "x": -130.91,
+                "y": 87.99
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.993,
+                "y": 0.344,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0833,
+                "x": 0.993,
+                "y": 0.232
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.1667,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nskeleton king_attack01_b.png\nsize: 964,892\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nkulouwang/daoguang_1_00\n  rotate: true\n  xy: 309, 453\n  size: 437, 317\n  orig: 500, 500\n  offset: 23, 168\n  index: -1\nkulouwang/daoguang_1_01\n  rotate: false\n  xy: 2, 444\n  size: 305, 446\n  orig: 500, 500\n  offset: 156, 32\n  index: -1\nkulouwang/daoguang_1_02\n  rotate: false\n  xy: 2, 2\n  size: 258, 440\n  orig: 500, 500\n  offset: 203, 31\n  index: -1\nkulouwang/daoguang_1_03\n  rotate: false\n  xy: 262, 4\n  size: 326, 438\n  orig: 500, 500\n  offset: 135, 27\n  index: -1\nkulouwang/daoguang_1_04\n  rotate: false\n  xy: 590, 47\n  size: 341, 404\n  orig: 500, 500\n  offset: 120, 24\n  index: -1\nkulouwang/daoguang_1_05\n  rotate: true\n  xy: 628, 549\n  size: 341, 334\n  orig: 500, 500\n  offset: 107, 24\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "031b770b-2f40-434a-902a-ea285d40e58d"
+  },
+  "textures": [
+    {
+      "__uuid__": "25d535e0-edcc-4b76-a736-586da0d084b6"
+    }
+  ],
+  "scale": 1
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "163d8b42-6964-4248-b211-9e945d03fe66",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "calamity spreader_attack02_hit_xia": {
+      "ver": "1.0.3",
+      "uuid": "05d32216-6553-4871-a10f-68f743c8e816",
+      "rawTextureUuid": "163d8b42-6964-4248-b211-9e945d03fe66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": 55,
+      "trimX": 2,
+      "trimY": 7,
+      "width": 1005,
+      "height": 900,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

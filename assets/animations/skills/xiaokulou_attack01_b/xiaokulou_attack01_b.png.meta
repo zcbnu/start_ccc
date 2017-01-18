@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f7c022fe-8982-4ebc-93e2-b6355d622f1d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "xiaokulou_attack01_b": {
+      "ver": "1.0.3",
+      "uuid": "c61df663-10e9-4967-9957-ccca9211d316",
+      "rawTextureUuid": "f7c022fe-8982-4ebc-93e2-b6355d622f1d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -107,
+      "offsetY": 32.5,
+      "trimX": 2,
+      "trimY": 5,
+      "width": 806,
+      "height": 181,
+      "rawWidth": 1024,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

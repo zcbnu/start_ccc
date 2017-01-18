@@ -1,0 +1,62 @@
+
+death reaper_tech04_s_b.png
+size: 971,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/xinhao_00
+  rotate: true
+  xy: 2, 3
+  size: 221, 244
+  orig: 300, 300
+  offset: 48, 37
+  index: -1
+zhengyizhilian/xinhao_04
+  rotate: false
+  xy: 501, 257
+  size: 232, 257
+  orig: 300, 300
+  offset: 43, 16
+  index: -1
+zhengyizhilian/xinhao_08
+  rotate: false
+  xy: 737, 23
+  size: 232, 233
+  orig: 300, 300
+  offset: 22, 37
+  index: -1
+zhengyizhilian/xinhao_12
+  rotate: false
+  xy: 735, 258
+  size: 229, 256
+  orig: 300, 300
+  offset: 39, 6
+  index: -1
+zhengyizhilian/xinhao_16
+  rotate: false
+  xy: 2, 226
+  size: 261, 288
+  orig: 300, 300
+  offset: 35, 4
+  index: -1
+zhengyizhilian/xinhao_20
+  rotate: false
+  xy: 265, 255
+  size: 234, 259
+  orig: 300, 300
+  offset: 39, 16
+  index: -1
+zhengyizhilian/xinhao_24
+  rotate: true
+  xy: 504, 12
+  size: 243, 231
+  orig: 300, 300
+  offset: 15, 26
+  index: -1
+zhengyizhilian/xinhao_28
+  rotate: false
+  xy: 265, 2
+  size: 237, 251
+  orig: 300, 300
+  offset: 39, 16
+  index: -1

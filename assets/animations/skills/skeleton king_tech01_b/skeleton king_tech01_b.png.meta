@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a1a60f58-98db-4554-9bc5-54685b2af12d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "skeleton king_tech01_b": {
+      "ver": "1.0.3",
+      "uuid": "75f27507-88b5-4dcd-b474-01214d4fdeea",
+      "rawTextureUuid": "a1a60f58-98db-4554-9bc5-54685b2af12d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 745,
+      "height": 154,
+      "rawWidth": 749,
+      "rawHeight": 158,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

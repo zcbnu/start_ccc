@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skeleton minion_attack01_b",
+    "texture": "380f744f-821d-471e-b3c0-ad2955257703",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      711,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      715,
+      104
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goblins-ffd",
+    "texture": "349c25d9-7449-43f0-b2f5-c0b7fccffb9c",
+    "atlas": "",
+    "rect": [
+      2,
+      7,
+      241,
+      499
+    ],
+    "offset": [
+      -5.5,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      512
+    ]
+  }
+}

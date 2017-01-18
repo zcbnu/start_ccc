@@ -1,0 +1,62 @@
+
+death reaper_tech03_b_b.png
+size: 952,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/dimian_00
+  rotate: false
+  xy: 805, 51
+  size: 140, 63
+  orig: 400, 150
+  offset: 131, 44
+  index: -1
+zhengyizhilian/dimian_02
+  rotate: false
+  xy: 635, 28
+  size: 168, 75
+  orig: 400, 150
+  offset: 117, 37
+  index: -1
+zhengyizhilian/dimian_04
+  rotate: false
+  xy: 207, 16
+  size: 181, 76
+  orig: 400, 150
+  offset: 110, 37
+  index: -1
+zhengyizhilian/dimian_06
+  rotate: false
+  xy: 2, 7
+  size: 203, 85
+  orig: 400, 150
+  offset: 99, 32
+  index: -1
+zhengyizhilian/dimian_08
+  rotate: false
+  xy: 390, 2
+  size: 243, 101
+  orig: 400, 150
+  offset: 79, 23
+  index: -1
+zhengyizhilian/dimian_10
+  rotate: false
+  xy: 658, 116
+  size: 292, 111
+  orig: 400, 150
+  offset: 53, 17
+  index: -1
+zhengyizhilian/dimian_12
+  rotate: false
+  xy: 346, 105
+  size: 310, 122
+  orig: 400, 150
+  offset: 45, 10
+  index: -1
+zhengyizhilian/dimian_14
+  rotate: false
+  xy: 2, 94
+  size: 342, 133
+  orig: 400, 150
+  offset: 29, 3
+  index: -1

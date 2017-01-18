@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaokulou_enter_01",
+    "texture": "1d11b8ac-aead-43c2-a3c0-e48ea8b15b1b",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      999,
+      469
+    ],
+    "offset": [
+      -8.5,
+      19.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ]
+  }
+}

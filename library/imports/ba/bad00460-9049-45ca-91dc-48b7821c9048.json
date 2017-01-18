@@ -1,0 +1,223 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "calamity spreader_active01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "CivKyw8zsJBBrQbdrg3VOi7HPLw",
+      "spine": "3.5.46",
+      "width": 0,
+      "height": 0,
+      "fps": 24,
+      "images": "./../calamity spreader/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone7",
+        "parent": "root",
+        "x": -130.91,
+        "y": 158.36
+      },
+      {
+        "name": "bone4",
+        "parent": "bone7",
+        "x": 482.49,
+        "y": -191.31
+      }
+    ],
+    "slots": [
+      {
+        "name": "fashi/kulou_00",
+        "bone": "bone4"
+      }
+    ],
+    "skins": {
+      "default": {
+        "fashi/kulou_00": {
+          "fashi/kulou_00": {
+            "width": 150,
+            "height": 150
+          },
+          "fashi/kulou_02": {
+            "width": 150,
+            "height": 150
+          },
+          "fashi/kulou_04": {
+            "width": 150,
+            "height": 150
+          },
+          "fashi/kulou_06": {
+            "width": 150,
+            "height": 150
+          },
+          "fashi/kulou_08": {
+            "width": 150,
+            "height": 150
+          },
+          "fashi/kulou_10": {
+            "width": 150,
+            "height": 150
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "fashi/kulou_00": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.125,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0833,
+                "name": "fashi/kulou_00"
+              },
+              {
+                "time": 0.125,
+                "name": "fashi/kulou_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "fashi/kulou_04"
+              },
+              {
+                "time": 0.2083,
+                "name": "fashi/kulou_06"
+              },
+              {
+                "time": 0.25,
+                "name": "fashi/kulou_08"
+              },
+              {
+                "time": 0.2917,
+                "name": "fashi/kulou_10"
+              },
+              {
+                "time": 0.3333,
+                "name": "fashi/kulou_00"
+              },
+              {
+                "time": 0.375,
+                "name": "fashi/kulou_02"
+              },
+              {
+                "time": 0.4167,
+                "name": "fashi/kulou_04"
+              },
+              {
+                "time": 0.4583,
+                "name": "fashi/kulou_06"
+              },
+              {
+                "time": 0.5,
+                "name": "fashi/kulou_08"
+              },
+              {
+                "time": 0.5417,
+                "name": "fashi/kulou_10"
+              },
+              {
+                "time": 0.5833,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -421.58,
+                "y": 252.95,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0833,
+                "x": -421.58,
+                "y": 235.1
+              },
+              {
+                "time": 0.2083,
+                "x": -421.58,
+                "y": 235.91
+              },
+              {
+                "time": 0.3333,
+                "x": -410.57,
+                "y": 234.14
+              },
+              {
+                "time": 0.4583,
+                "x": -396.71,
+                "y": 240.85
+              },
+              {
+                "time": 0.5833,
+                "x": -418.07,
+                "y": 242.28
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.8,
+                "y": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.5417,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ncalamity spreader_active01_b.png\nsize: 458,219\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfashi/kulou_00\n  rotate: false\n  xy: 306, 112\n  size: 150, 105\n  orig: 150, 150\n  offset: 0, 20\n  index: -1\nfashi/kulou_02\n  rotate: false\n  xy: 306, 5\n  size: 150, 105\n  orig: 150, 150\n  offset: 0, 20\n  index: -1\nfashi/kulou_04\n  rotate: false\n  xy: 154, 108\n  size: 150, 109\n  orig: 150, 150\n  offset: 0, 16\n  index: -1\nfashi/kulou_06\n  rotate: false\n  xy: 2, 107\n  size: 150, 110\n  orig: 150, 150\n  offset: 0, 16\n  index: -1\nfashi/kulou_08\n  rotate: false\n  xy: 2, 2\n  size: 150, 103\n  orig: 150, 150\n  offset: 0, 22\n  index: -1\nfashi/kulou_10\n  rotate: false\n  xy: 154, 2\n  size: 150, 104\n  orig: 150, 150\n  offset: 0, 21\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "e4fd7586-05a8-4a5f-bb85-a56873568ba3"
+  },
+  "textures": [
+    {
+      "__uuid__": "27307cc4-78ed-47fa-8f2e-443e687c3d5a"
+    }
+  ],
+  "scale": 1
+}

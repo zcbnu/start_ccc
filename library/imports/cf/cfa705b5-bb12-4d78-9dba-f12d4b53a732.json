@@ -1,0 +1,180 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_tech01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "RHRNB4rIqz20QVICPOF4pU6YeFU",
+      "spine": "3.5.46",
+      "width": 200,
+      "height": 200,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone16",
+        "parent": "root",
+        "x": 221.56,
+        "y": -671.58
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/zhaohuan_00",
+        "bone": "bone16",
+        "attachment": "zhengyizhilian/zhaohuan_09"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/zhaohuan_00": {
+          "zhengyizhilian/zhaohuan_00": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/zhaohuan_02": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/zhaohuan_04": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/zhaohuan_05": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/zhaohuan_06": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/zhaohuan_07": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/zhaohuan_08": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/zhaohuan_09": {
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "zhengyizhilian/zhaohuan_00": {
+            "color": [
+              {
+                "time": 0.5833,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7917,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/zhaohuan_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/zhaohuan_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/zhaohuan_04"
+              },
+              {
+                "time": 0.2917,
+                "name": "zhengyizhilian/zhaohuan_05"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/zhaohuan_06"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/zhaohuan_07"
+              },
+              {
+                "time": 0.5833,
+                "name": "zhengyizhilian/zhaohuan_08"
+              },
+              {
+                "time": 0.6667,
+                "name": "zhengyizhilian/zhaohuan_09"
+              },
+              {
+                "time": 0.75,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone16": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -197.38,
+                "y": 798.44
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.4167,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_tech01_b.png\nsize: 608,406\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/zhaohuan_00\n  rotate: false\n  xy: 406, 26\n  size: 177, 176\n  orig: 200, 200\n  offset: 15, 16\n  index: -1\nzhengyizhilian/zhaohuan_02\n  rotate: false\n  xy: 2, 204\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nzhengyizhilian/zhaohuan_04\n  rotate: false\n  xy: 2, 2\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nzhengyizhilian/zhaohuan_05\n  rotate: false\n  xy: 204, 204\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nzhengyizhilian/zhaohuan_06\n  rotate: false\n  xy: 204, 204\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nzhengyizhilian/zhaohuan_07\n  rotate: false\n  xy: 204, 2\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nzhengyizhilian/zhaohuan_08\n  rotate: false\n  xy: 204, 2\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nzhengyizhilian/zhaohuan_09\n  rotate: false\n  xy: 406, 204\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "02d0006e-f80f-4741-b2e7-98782465e5f4"
+  },
+  "textures": [
+    {
+      "__uuid__": "b03d3b94-530d-462b-910c-c9fb8493c15b"
+    }
+  ],
+  "scale": 1
+}

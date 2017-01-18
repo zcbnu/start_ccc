@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "25d535e0-edcc-4b76-a736-586da0d084b6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "skeleton king_attack01_b": {
+      "ver": "1.0.3",
+      "uuid": "adab7d66-d77a-4ecd-9452-4e69b9dc34fd",
+      "rawTextureUuid": "25d535e0-edcc-4b76-a736-586da0d084b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 960,
+      "height": 888,
+      "rawWidth": 964,
+      "rawHeight": 892,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

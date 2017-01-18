@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_delete_p",
+    "texture": "662ae124-0d47-45f5-813d-813118064ff9",
+    "atlas": "",
+    "rect": [
+      13,
+      14,
+      72,
+      73
+    ],
+    "offset": [
+      1,
+      -2.5
+    ],
+    "originalSize": [
+      96,
+      96
+    ]
+  }
+}

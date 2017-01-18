@@ -1,0 +1,111 @@
+
+calamity spreader_attack02_hit_xia.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi/didu_00
+  rotate: false
+  xy: 2, 762
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_02
+  rotate: false
+  xy: 2, 610
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_04
+  rotate: false
+  xy: 254, 762
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_06
+  rotate: false
+  xy: 2, 458
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_08
+  rotate: false
+  xy: 254, 610
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_10
+  rotate: false
+  xy: 506, 762
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_12
+  rotate: false
+  xy: 2, 306
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_14
+  rotate: false
+  xy: 254, 458
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_16
+  rotate: false
+  xy: 506, 610
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_18
+  rotate: false
+  xy: 758, 762
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_20
+  rotate: false
+  xy: 2, 154
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_22
+  rotate: false
+  xy: 254, 306
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_24
+  rotate: false
+  xy: 506, 458
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_26
+  rotate: false
+  xy: 758, 610
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+fashi/didu_28
+  rotate: false
+  xy: 2, 2
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1

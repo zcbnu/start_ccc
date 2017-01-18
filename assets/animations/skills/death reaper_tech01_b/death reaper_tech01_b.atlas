@@ -1,0 +1,62 @@
+
+death reaper_tech01_b.png
+size: 608,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/zhaohuan_00
+  rotate: false
+  xy: 406, 26
+  size: 177, 176
+  orig: 200, 200
+  offset: 15, 16
+  index: -1
+zhengyizhilian/zhaohuan_02
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+zhengyizhilian/zhaohuan_04
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+zhengyizhilian/zhaohuan_05
+  rotate: false
+  xy: 204, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+zhengyizhilian/zhaohuan_06
+  rotate: false
+  xy: 204, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+zhengyizhilian/zhaohuan_07
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+zhengyizhilian/zhaohuan_08
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+zhengyizhilian/zhaohuan_09
+  rotate: false
+  xy: 406, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

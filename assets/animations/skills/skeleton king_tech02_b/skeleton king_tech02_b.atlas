@@ -1,0 +1,48 @@
+
+skeleton king_tech02_b.png
+size: 1010,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kulouwang/zhaohuan_00
+  rotate: false
+  xy: 885, 80
+  size: 123, 122
+  orig: 200, 200
+  offset: 41, 43
+  index: -1
+kulouwang/zhaohuan_02
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+kulouwang/zhaohuan_04
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+kulouwang/zhaohuan_06
+  rotate: true
+  xy: 406, 2
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 2
+  index: -1
+kulouwang/zhaohuan_08
+  rotate: true
+  xy: 597, 40
+  size: 162, 159
+  orig: 200, 200
+  offset: 22, 17
+  index: -1
+kulouwang/zhaohuan_09
+  rotate: true
+  xy: 758, 76
+  size: 126, 125
+  orig: 200, 200
+  offset: 41, 40
+  index: -1

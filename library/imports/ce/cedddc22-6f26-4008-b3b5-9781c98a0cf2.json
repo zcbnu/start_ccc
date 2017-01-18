@@ -1,0 +1,115 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "leidian_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ohMJLL3m8vc/rcbNvSzbWFKBNeE",
+      "spine": "2.1.27",
+      "width": 114,
+      "height": 314,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "leidian_1_a_00000",
+        "bone": "bone",
+        "attachment": "leidian_1_a_00000"
+      }
+    ],
+    "skins": {
+      "default": {
+        "leidian_1_a_00000": {
+          "leidian_1_a_00000": {
+            "x": -3.26,
+            "y": -13.53,
+            "width": 57,
+            "height": 157
+          },
+          "leidian_1_a_00001": {
+            "x": -2.26,
+            "y": -12.53,
+            "width": 61,
+            "height": 181
+          },
+          "leidian_1_a_00002": {
+            "x": -1.76,
+            "y": -6.03,
+            "width": 52,
+            "height": 150
+          },
+          "leidian_1_a_00003": {
+            "x": -2.26,
+            "y": -12.53,
+            "width": 61,
+            "height": 181
+          },
+          "leidian_1_a_00004": {
+            "x": -2.26,
+            "y": -14.03,
+            "width": 57,
+            "height": 156
+          }
+        }
+      }
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "leidian_1_a_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "leidian_1_a_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "leidian_1_a_00001"
+              },
+              {
+                "time": 0.0666,
+                "name": "leidian_1_a_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "leidian_1_a_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "leidian_1_a_00004"
+              },
+              {
+                "time": 0.1666,
+                "name": "leidian_1_a_00002"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nleidian_b.png\nsize: 235,177\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nleidian_1_a_00000\n  rotate: true\n  xy: 2, 59\n  size: 55, 155\n  orig: 57, 157\n  offset: 1, 1\n  index: -1\nleidian_1_a_00001\n  rotate: true\n  xy: 2, 116\n  size: 59, 179\n  orig: 61, 181\n  offset: 1, 1\n  index: -1\nleidian_1_a_00003\n  rotate: true\n  xy: 2, 116\n  size: 59, 179\n  orig: 61, 181\n  offset: 1, 1\n  index: -1\nleidian_1_a_00002\n  rotate: false\n  xy: 183, 27\n  size: 50, 148\n  orig: 52, 150\n  offset: 1, 1\n  index: -1\nleidian_1_a_00004\n  rotate: true\n  xy: 2, 2\n  size: 55, 154\n  orig: 57, 156\n  offset: 1, 1\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "94ae9026-6ce1-4a2c-b57e-f4b3e0601a8a"
+  },
+  "textures": [
+    {
+      "__uuid__": "867f7ab8-6390-4c6d-ad5e-e779c6e56c2b"
+    }
+  ],
+  "scale": 1
+}

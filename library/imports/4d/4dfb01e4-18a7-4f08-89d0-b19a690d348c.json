@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skeleton king2",
+    "texture": "5bff136f-d286-4f11-8833-046e26fc6758",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2014,
+      1581
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2018,
+      1585
+    ]
+  }
+}

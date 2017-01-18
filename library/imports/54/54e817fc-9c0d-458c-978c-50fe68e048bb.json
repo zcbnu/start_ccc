@@ -1,0 +1,203 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_tech04_b_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "srB2cxaYXCnszxklOKQxjyB3u9g",
+      "spine": "3.5.46",
+      "width": 0,
+      "height": 0,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone15",
+        "parent": "root",
+        "x": 798.72,
+        "y": -608.33
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/xinjieguanghuan_00",
+        "bone": "bone15"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/xinjieguanghuan_00": {
+          "zhengyizhilian/xinjieguanghuan_00": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_02": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_04": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_06": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_08": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_10": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_12": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_14": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_16": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/xinjieguanghuan_18": {
+            "width": 400,
+            "height": 400
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "zhengyizhilian/xinjieguanghuan_00": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/xinjieguanghuan_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/xinjieguanghuan_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/xinjieguanghuan_04"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/xinjieguanghuan_06"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/xinjieguanghuan_08"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/xinjieguanghuan_10"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/xinjieguanghuan_12"
+              },
+              {
+                "time": 0.5833,
+                "name": "zhengyizhilian/xinjieguanghuan_14"
+              },
+              {
+                "time": 0.6667,
+                "name": "zhengyizhilian/xinjieguanghuan_16"
+              },
+              {
+                "time": 0.75,
+                "name": "zhengyizhilian/xinjieguanghuan_18"
+              },
+              {
+                "time": 0.8333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone15": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 358.6
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -800,
+                "y": 611.34
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.5,
+                "y": 0.75
+              },
+              {
+                "time": 0.75,
+                "x": 2,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.25,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_tech04_b_b.png\nsize: 1011,1018\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/xinjieguanghuan_00\n  rotate: false\n  xy: 734, 471\n  size: 258, 264\n  orig: 400, 400\n  offset: 72, 69\n  index: -1\nzhengyizhilian/xinjieguanghuan_02\n  rotate: false\n  xy: 730, 737\n  size: 279, 279\n  orig: 400, 400\n  offset: 61, 61\n  index: -1\nzhengyizhilian/xinjieguanghuan_04\n  rotate: false\n  xy: 2, 6\n  size: 306, 294\n  orig: 400, 400\n  offset: 47, 54\n  index: -1\nzhengyizhilian/xinjieguanghuan_06\n  rotate: false\n  xy: 360, 2\n  size: 330, 321\n  orig: 400, 400\n  offset: 36, 40\n  index: -1\nzhengyizhilian/xinjieguanghuan_10\n  rotate: false\n  xy: 2, 302\n  size: 356, 352\n  orig: 400, 400\n  offset: 22, 24\n  index: -1\nzhengyizhilian/xinjieguanghuan_12\n  rotate: false\n  xy: 372, 325\n  size: 360, 339\n  orig: 400, 400\n  offset: 19, 31\n  index: -1\nzhengyizhilian/xinjieguanghuan_16\n  rotate: false\n  xy: 372, 666\n  size: 356, 350\n  orig: 400, 400\n  offset: 26, 24\n  index: -1\nzhengyizhilian/xinjieguanghuan_18\n  rotate: false\n  xy: 2, 656\n  size: 368, 360\n  orig: 400, 400\n  offset: 17, 19\n  index: -1\n\ndeath reaper_tech04_b_b2.png\nsize: 674,351\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/xinjieguanghuan_08\n  rotate: true\n  xy: 342, 2\n  size: 347, 330\n  orig: 400, 400\n  offset: 28, 35\n  index: -1\nzhengyizhilian/xinjieguanghuan_14\n  rotate: false\n  xy: 2, 8\n  size: 338, 341\n  orig: 400, 400\n  offset: 34, 29\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "0df6dc43-60ef-49be-a81f-714822091cd2"
+  },
+  "textures": [
+    {
+      "__uuid__": "5b52c0cb-3706-4884-8fb4-5be667fb9796"
+    },
+    {
+      "__uuid__": "a9027b65-2d31-434f-b0f0-9a3c44895e1f"
+    }
+  ],
+  "scale": 1
+}

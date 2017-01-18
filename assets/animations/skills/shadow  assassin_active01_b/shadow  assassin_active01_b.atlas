@@ -1,0 +1,62 @@
+
+shadow  assassin_active01_b.png
+size: 816,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cike/ciji_16
+  rotate: false
+  xy: 343, 6
+  size: 111, 77
+  orig: 150, 150
+  offset: 22, 35
+  index: -1
+cike/ciji_17
+  rotate: false
+  xy: 116, 5
+  size: 111, 78
+  orig: 150, 150
+  offset: 22, 34
+  index: -1
+cike/ciji_18
+  rotate: false
+  xy: 229, 6
+  size: 112, 77
+  orig: 150, 150
+  offset: 22, 34
+  index: -1
+cike/ciji_19
+  rotate: false
+  xy: 2, 2
+  size: 112, 81
+  orig: 150, 150
+  offset: 22, 34
+  index: -1
+cike/ciji_20
+  rotate: false
+  xy: 456, 6
+  size: 108, 77
+  orig: 150, 150
+  offset: 26, 42
+  index: -1
+cike/ciji_21
+  rotate: true
+  xy: 741, 6
+  size: 77, 73
+  orig: 150, 150
+  offset: 23, 36
+  index: -1
+cike/ciji_22
+  rotate: false
+  xy: 658, 4
+  size: 81, 79
+  orig: 150, 150
+  offset: 19, 30
+  index: -1
+cike/ciji_23
+  rotate: false
+  xy: 566, 2
+  size: 90, 81
+  orig: 150, 150
+  offset: 15, 24
+  index: -1

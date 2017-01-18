@@ -1,0 +1,145 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_hit_h",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "gz2qERoGEpzLNYgKWwivdJWp9Cc",
+      "spine": "3.5.46",
+      "width": 200,
+      "height": 200,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone12",
+        "parent": "root",
+        "x": 1119.93,
+        "y": 160.07
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/shouji_00",
+        "bone": "bone12",
+        "attachment": "zhengyizhilian/shouji_05"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/shouji_00": {
+          "zhengyizhilian/shouji_00": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/shouji_01": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/shouji_02": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/shouji_03": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/shouji_04": {
+            "width": 200,
+            "height": 200
+          },
+          "zhengyizhilian/shouji_05": {
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    },
+    "animations": {
+      "hitAni": {
+        "slots": {
+          "zhengyizhilian/shouji_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/shouji_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/shouji_01"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/shouji_02"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/shouji_03"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/shouji_04"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/shouji_05"
+              },
+              {
+                "time": 0.5417,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone12": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -1127.07,
+                "y": -89.81
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.2,
+                "y": 1.2
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_hit_h.png\nsize: 968,168\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/shouji_00\n  rotate: false\n  xy: 168, 3\n  size: 163, 163\n  orig: 200, 200\n  offset: 17, 21\n  index: -1\nzhengyizhilian/shouji_01\n  rotate: false\n  xy: 333, 3\n  size: 163, 163\n  orig: 200, 200\n  offset: 21, 17\n  index: -1\nzhengyizhilian/shouji_02\n  rotate: false\n  xy: 498, 6\n  size: 165, 160\n  orig: 200, 200\n  offset: 19, 25\n  index: -1\nzhengyizhilian/shouji_03\n  rotate: false\n  xy: 2, 2\n  size: 164, 164\n  orig: 200, 200\n  offset: 15, 22\n  index: -1\nzhengyizhilian/shouji_04\n  rotate: false\n  xy: 819, 19\n  size: 147, 147\n  orig: 200, 200\n  offset: 25, 29\n  index: -1\nzhengyizhilian/shouji_05\n  rotate: false\n  xy: 665, 14\n  size: 152, 152\n  orig: 200, 200\n  offset: 24, 25\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "235732b0-f550-4448-a247-4ae821806dd6"
+  },
+  "textures": [
+    {
+      "__uuid__": "ca5a0b79-f385-4a4a-8092-df26fa24f5f7"
+    }
+  ],
+  "scale": 1
+}

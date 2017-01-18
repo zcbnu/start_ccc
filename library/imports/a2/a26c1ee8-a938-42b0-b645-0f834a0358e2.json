@@ -1,0 +1,134 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "xiaokulou_attack02_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "klxbEIqM/zou44KZ3HPXrD3ozNM",
+      "spine": "3.3.07",
+      "width": 0,
+      "height": 0,
+      "images": "./../skeleton minion/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone7",
+        "parent": "root",
+        "x": 95.45,
+        "y": 95.45
+      }
+    ],
+    "slots": [
+      {
+        "name": "texiaosucai/daoguang_1_00",
+        "bone": "bone7"
+      }
+    ],
+    "skins": {
+      "default": {
+        "texiaosucai/daoguang_1_00": {
+          "texiaosucai/daoguang_1_00": {
+            "width": 200,
+            "height": 100
+          },
+          "texiaosucai/daoguang_1_01": {
+            "width": 200,
+            "height": 100
+          },
+          "texiaosucai/daoguang_1_02": {
+            "width": 200,
+            "height": 100
+          },
+          "texiaosucai/daoguang_1_03": {
+            "width": 200,
+            "height": 100
+          }
+        }
+      }
+    },
+    "animations": {
+      "skillAni": {
+        "slots": {
+          "texiaosucai/daoguang_1_00": {
+            "color": [
+              {
+                "time": 0.4666,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3,
+                "name": "texiaosucai/daoguang_1_00"
+              },
+              {
+                "time": 0.3666,
+                "name": "texiaosucai/daoguang_1_01"
+              },
+              {
+                "time": 0.4333,
+                "name": "texiaosucai/daoguang_1_02"
+              },
+              {
+                "time": 0.4666,
+                "name": "texiaosucai/daoguang_1_03"
+              },
+              {
+                "time": 0.6333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone7": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -19.12,
+                "y": -31.15
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.2,
+                "y": 1.2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nxiaokulou_attack02_b.png\nsize: 1024,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ntexiaosucai/daoguang_1_00\n  rotate: false\n  xy: 2, 2\n  size: 200, 100\n  orig: 200, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/daoguang_1_01\n  rotate: false\n  xy: 204, 2\n  size: 200, 100\n  orig: 200, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/daoguang_1_02\n  rotate: false\n  xy: 406, 2\n  size: 200, 100\n  orig: 200, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/daoguang_1_03\n  rotate: false\n  xy: 608, 2\n  size: 200, 100\n  orig: 200, 100\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "de547f0a-2d77-4814-be97-eba65117f4a7"
+  },
+  "textures": [
+    {
+      "__uuid__": "7575edd3-eb45-49df-a9d7-d6e5b134dadf"
+    }
+  ],
+  "scale": 1
+}

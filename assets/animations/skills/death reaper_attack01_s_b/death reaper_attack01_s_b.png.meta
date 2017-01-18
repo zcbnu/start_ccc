@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8918b5dc-1bb8-42eb-b74f-cc7395987893",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "death reaper_attack01_s_b": {
+      "ver": "1.0.3",
+      "uuid": "c46f0521-f053-4b27-b426-a5e80458ea9b",
+      "rawTextureUuid": "8918b5dc-1bb8-42eb-b74f-cc7395987893",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -242.5,
+      "offsetY": 74,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 535,
+      "height": 360,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

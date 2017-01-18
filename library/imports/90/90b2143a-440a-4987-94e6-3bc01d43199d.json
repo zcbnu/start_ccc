@@ -1,0 +1,1957 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton king",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "UZBzcYkEKjCWQ/lTaC3lw/uVMg0",
+      "spine": "3.5.46",
+      "width": 0,
+      "height": 0,
+      "fps": 24,
+      "images": "./../../Skeleton King/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "y": 1.19
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "attack_01_0000",
+        "bone": "bone"
+      }
+    ],
+    "skins": {
+      "default": {
+        "attack_01_0000": {
+          "attack_01_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_01_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0025": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0026": {
+            "width": 512,
+            "height": 512
+          },
+          "attack_02_0027": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0021": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0023": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "die_0025": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0021": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0023": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0025": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0026": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0027": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0028": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0029": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0030": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0031": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0032": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0033": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0034": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0035": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0036": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0037": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0038": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0039": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0040": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0041": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0042": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0043": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0044": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0045": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0046": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0047": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0048": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0049": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0050": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0051": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0052": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0053": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0054": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0055": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0056": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0057": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0058": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0059": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0060": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0061": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0062": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0063": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0064": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0065": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0066": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0067": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0068": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0069": {
+            "width": 512,
+            "height": 512
+          },
+          "enter_0070": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0021": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0023": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0021": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0027": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0029": {
+            "width": 512,
+            "height": 512
+          },
+          "summon_0030": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0021": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0023": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0025": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0026": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0027": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0028": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0029": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0030": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0031": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0032": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0033": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0034": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0035": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0036": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0037": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0038": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0039": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0040": {
+            "width": 512,
+            "height": 512
+          },
+          "victory_0041": {
+            "width": 512,
+            "height": 512
+          }
+        }
+      }
+    },
+    "events": {
+      "skill_cast": {},
+      "skill_spell": {}
+    },
+    "animations": {
+      "active01": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "attack_02_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "attack_02_0002"
+              },
+              {
+                "time": 0.0833,
+                "name": "attack_02_0004"
+              },
+              {
+                "time": 0.125,
+                "name": "attack_02_0006"
+              },
+              {
+                "time": 0.2083,
+                "name": "attack_02_0009"
+              },
+              {
+                "time": 0.5417,
+                "name": "attack_02_0011"
+              },
+              {
+                "time": 0.5833,
+                "name": "attack_02_0012"
+              },
+              {
+                "time": 0.625,
+                "name": "attack_02_0013"
+              },
+              {
+                "time": 0.7083,
+                "name": "attack_02_0014"
+              },
+              {
+                "time": 0.75,
+                "name": "attack_02_0017"
+              },
+              {
+                "time": 0.8333,
+                "name": "attack_02_0020"
+              },
+              {
+                "time": 0.9167,
+                "name": "attack_02_0022"
+              },
+              {
+                "time": 1,
+                "name": "attack_02_0024"
+              },
+              {
+                "time": 1.0417,
+                "name": "attack_02_0025"
+              },
+              {
+                "time": 1.0833,
+                "name": "attack_02_0026"
+              },
+              {
+                "time": 1.125,
+                "name": "attack_02_0027"
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.2083,
+            "name": "skill_spell"
+          }
+        ]
+      },
+      "attack01": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "attack_01_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "attack_01_0002"
+              },
+              {
+                "time": 0.0833,
+                "name": "attack_01_0003"
+              },
+              {
+                "time": 0.125,
+                "name": "attack_01_0006"
+              },
+              {
+                "time": 0.1667,
+                "name": "attack_01_0009"
+              },
+              {
+                "time": 0.25,
+                "name": "attack_01_0011"
+              },
+              {
+                "time": 0.2917,
+                "name": "attack_01_0012"
+              },
+              {
+                "time": 0.375,
+                "name": "attack_01_0014"
+              },
+              {
+                "time": 0.4583,
+                "name": "attack_01_0017"
+              },
+              {
+                "time": 0.5417,
+                "name": "attack_01_0019"
+              },
+              {
+                "time": 0.625,
+                "name": "attack_01_0022"
+              },
+              {
+                "time": 0.7083,
+                "name": "attack_01_0024"
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.25,
+            "name": "skill_spell"
+          }
+        ]
+      },
+      "die": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "die_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "die_0001"
+              },
+              {
+                "time": 0.0833,
+                "name": "die_0002"
+              },
+              {
+                "time": 0.125,
+                "name": "die_0003"
+              },
+              {
+                "time": 0.1667,
+                "name": "die_0004"
+              },
+              {
+                "time": 0.2083,
+                "name": "die_0005"
+              },
+              {
+                "time": 0.25,
+                "name": "die_0006"
+              },
+              {
+                "time": 0.2917,
+                "name": "die_0007"
+              },
+              {
+                "time": 0.3333,
+                "name": "die_0008"
+              },
+              {
+                "time": 0.375,
+                "name": "die_0009"
+              },
+              {
+                "time": 0.4167,
+                "name": "die_0010"
+              },
+              {
+                "time": 0.4583,
+                "name": "die_0011"
+              },
+              {
+                "time": 0.5,
+                "name": "die_0012"
+              },
+              {
+                "time": 0.5417,
+                "name": "die_0013"
+              },
+              {
+                "time": 0.5833,
+                "name": "die_0014"
+              },
+              {
+                "time": 0.625,
+                "name": "die_0015"
+              },
+              {
+                "time": 0.6667,
+                "name": "die_0016"
+              },
+              {
+                "time": 0.7083,
+                "name": "die_0017"
+              },
+              {
+                "time": 0.75,
+                "name": "die_0018"
+              },
+              {
+                "time": 0.7917,
+                "name": "die_0019"
+              },
+              {
+                "time": 0.8333,
+                "name": "die_0020"
+              },
+              {
+                "time": 0.875,
+                "name": "die_0021"
+              },
+              {
+                "time": 0.9167,
+                "name": "die_0022"
+              },
+              {
+                "time": 0.9583,
+                "name": "die_0023"
+              },
+              {
+                "time": 1,
+                "name": "die_0024"
+              },
+              {
+                "time": 1.0417,
+                "name": "die_0025"
+              }
+            ]
+          }
+        }
+      },
+      "enter": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "enter_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "enter_0001"
+              },
+              {
+                "time": 0.0833,
+                "name": "enter_0002"
+              },
+              {
+                "time": 0.125,
+                "name": "enter_0003"
+              },
+              {
+                "time": 0.1667,
+                "name": "enter_0004"
+              },
+              {
+                "time": 0.2083,
+                "name": "enter_0005"
+              },
+              {
+                "time": 0.25,
+                "name": "enter_0006"
+              },
+              {
+                "time": 0.2917,
+                "name": "enter_0007"
+              },
+              {
+                "time": 0.3333,
+                "name": "enter_0008"
+              },
+              {
+                "time": 0.375,
+                "name": "enter_0009"
+              },
+              {
+                "time": 0.4167,
+                "name": "enter_0010"
+              },
+              {
+                "time": 0.4583,
+                "name": "enter_0011"
+              },
+              {
+                "time": 0.5,
+                "name": "enter_0012"
+              },
+              {
+                "time": 0.5417,
+                "name": "enter_0013"
+              },
+              {
+                "time": 0.5833,
+                "name": "enter_0014"
+              },
+              {
+                "time": 0.625,
+                "name": "enter_0015"
+              },
+              {
+                "time": 0.6667,
+                "name": "enter_0016"
+              },
+              {
+                "time": 0.7083,
+                "name": "enter_0017"
+              },
+              {
+                "time": 0.75,
+                "name": "enter_0018"
+              },
+              {
+                "time": 0.7917,
+                "name": "enter_0019"
+              },
+              {
+                "time": 0.8333,
+                "name": "enter_0020"
+              },
+              {
+                "time": 0.875,
+                "name": "enter_0021"
+              },
+              {
+                "time": 0.9167,
+                "name": "enter_0022"
+              },
+              {
+                "time": 0.9583,
+                "name": "enter_0023"
+              },
+              {
+                "time": 1,
+                "name": "enter_0024"
+              },
+              {
+                "time": 1.0417,
+                "name": "enter_0025"
+              },
+              {
+                "time": 1.0833,
+                "name": "enter_0026"
+              },
+              {
+                "time": 1.125,
+                "name": "enter_0027"
+              },
+              {
+                "time": 1.1667,
+                "name": "enter_0028"
+              },
+              {
+                "time": 1.2083,
+                "name": "enter_0029"
+              },
+              {
+                "time": 1.25,
+                "name": "enter_0030"
+              },
+              {
+                "time": 1.2917,
+                "name": "enter_0031"
+              },
+              {
+                "time": 1.3333,
+                "name": "enter_0032"
+              },
+              {
+                "time": 1.375,
+                "name": "enter_0033"
+              },
+              {
+                "time": 1.4167,
+                "name": "enter_0034"
+              },
+              {
+                "time": 1.4583,
+                "name": "enter_0035"
+              },
+              {
+                "time": 1.5,
+                "name": "enter_0036"
+              },
+              {
+                "time": 1.5417,
+                "name": "enter_0037"
+              },
+              {
+                "time": 1.5833,
+                "name": "enter_0038"
+              },
+              {
+                "time": 1.625,
+                "name": "enter_0039"
+              },
+              {
+                "time": 1.6667,
+                "name": "enter_0040"
+              },
+              {
+                "time": 1.7083,
+                "name": "enter_0041"
+              },
+              {
+                "time": 1.75,
+                "name": "enter_0042"
+              },
+              {
+                "time": 1.7917,
+                "name": "enter_0043"
+              },
+              {
+                "time": 1.8333,
+                "name": "enter_0044"
+              },
+              {
+                "time": 1.875,
+                "name": "enter_0045"
+              },
+              {
+                "time": 1.9167,
+                "name": "enter_0046"
+              },
+              {
+                "time": 1.9583,
+                "name": "enter_0047"
+              },
+              {
+                "time": 2,
+                "name": "enter_0048"
+              },
+              {
+                "time": 2.0417,
+                "name": "enter_0049"
+              },
+              {
+                "time": 2.0833,
+                "name": "enter_0050"
+              },
+              {
+                "time": 2.125,
+                "name": "enter_0051"
+              },
+              {
+                "time": 2.1667,
+                "name": "enter_0052"
+              },
+              {
+                "time": 2.2083,
+                "name": "enter_0053"
+              },
+              {
+                "time": 2.25,
+                "name": "enter_0054"
+              },
+              {
+                "time": 2.2917,
+                "name": "enter_0055"
+              },
+              {
+                "time": 2.3333,
+                "name": "enter_0056"
+              },
+              {
+                "time": 2.375,
+                "name": "enter_0057"
+              },
+              {
+                "time": 2.4167,
+                "name": "enter_0058"
+              },
+              {
+                "time": 2.4583,
+                "name": "enter_0059"
+              },
+              {
+                "time": 2.5,
+                "name": "enter_0060"
+              },
+              {
+                "time": 2.5417,
+                "name": "enter_0061"
+              },
+              {
+                "time": 2.5833,
+                "name": "enter_0062"
+              },
+              {
+                "time": 2.625,
+                "name": "enter_0063"
+              },
+              {
+                "time": 2.6667,
+                "name": "enter_0064"
+              },
+              {
+                "time": 2.7083,
+                "name": "enter_0065"
+              },
+              {
+                "time": 2.75,
+                "name": "enter_0066"
+              },
+              {
+                "time": 2.7917,
+                "name": "enter_0067"
+              },
+              {
+                "time": 2.8333,
+                "name": "enter_0068"
+              },
+              {
+                "time": 2.875,
+                "name": "enter_0069"
+              },
+              {
+                "time": 2.9167,
+                "name": "enter_0070"
+              }
+            ]
+          }
+        }
+      },
+      "hit": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "hit_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "hit_0001"
+              },
+              {
+                "time": 0.0833,
+                "name": "hit_0002"
+              },
+              {
+                "time": 0.125,
+                "name": "hit_0003"
+              },
+              {
+                "time": 0.1667,
+                "name": "hit_0004"
+              },
+              {
+                "time": 0.2083,
+                "name": "hit_0005"
+              },
+              {
+                "time": 0.25,
+                "name": "hit_0006"
+              },
+              {
+                "time": 0.2917,
+                "name": "hit_0007"
+              },
+              {
+                "time": 0.3333,
+                "name": "hit_0008"
+              },
+              {
+                "time": 0.375,
+                "name": "hit_0009"
+              },
+              {
+                "time": 0.4167,
+                "name": "hit_0010"
+              },
+              {
+                "time": 0.4583,
+                "name": "hit_0011"
+              },
+              {
+                "time": 0.5,
+                "name": "hit_0012"
+              },
+              {
+                "time": 0.5417,
+                "name": "hit_0013"
+              },
+              {
+                "time": 0.5833,
+                "name": "hit_0014"
+              },
+              {
+                "time": 0.625,
+                "name": "hit_0015"
+              },
+              {
+                "time": 0.6667,
+                "name": "hit_0016"
+              },
+              {
+                "time": 0.7083,
+                "name": "hit_0017"
+              },
+              {
+                "time": 0.75,
+                "name": "hit_0018"
+              },
+              {
+                "time": 0.7917,
+                "name": "hit_0019"
+              },
+              {
+                "time": 0.8333,
+                "name": "hit_0020"
+              }
+            ]
+          }
+        }
+      },
+      "stand": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "stand_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "stand_0001"
+              },
+              {
+                "time": 0.0833,
+                "name": "stand_0002"
+              },
+              {
+                "time": 0.125,
+                "name": "stand_0003"
+              },
+              {
+                "time": 0.1667,
+                "name": "stand_0004"
+              },
+              {
+                "time": 0.2083,
+                "name": "stand_0005"
+              },
+              {
+                "time": 0.25,
+                "name": "stand_0006"
+              },
+              {
+                "time": 0.2917,
+                "name": "stand_0007"
+              },
+              {
+                "time": 0.3333,
+                "name": "stand_0008"
+              },
+              {
+                "time": 0.375,
+                "name": "stand_0009"
+              },
+              {
+                "time": 0.4167,
+                "name": "stand_0010"
+              },
+              {
+                "time": 0.4583,
+                "name": "stand_0011"
+              },
+              {
+                "time": 0.5,
+                "name": "stand_0012"
+              },
+              {
+                "time": 0.5417,
+                "name": "stand_0013"
+              },
+              {
+                "time": 0.5833,
+                "name": "stand_0014"
+              },
+              {
+                "time": 0.625,
+                "name": "stand_0015"
+              },
+              {
+                "time": 0.6667,
+                "name": "stand_0016"
+              },
+              {
+                "time": 0.7083,
+                "name": "stand_0017"
+              },
+              {
+                "time": 0.75,
+                "name": "stand_0018"
+              },
+              {
+                "time": 0.7917,
+                "name": "stand_0019"
+              },
+              {
+                "time": 0.8333,
+                "name": "stand_0020"
+              },
+              {
+                "time": 0.875,
+                "name": "stand_0021"
+              },
+              {
+                "time": 0.9167,
+                "name": "stand_0022"
+              },
+              {
+                "time": 0.9583,
+                "name": "stand_0023"
+              },
+              {
+                "time": 1,
+                "name": "stand_0024"
+              }
+            ]
+          }
+        }
+      },
+      "tech02": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "summon_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "summon_0003"
+              },
+              {
+                "time": 0.0833,
+                "name": "summon_0006"
+              },
+              {
+                "time": 0.125,
+                "name": "summon_0008"
+              },
+              {
+                "time": 0.1667,
+                "name": "summon_0010"
+              },
+              {
+                "time": 0.2083,
+                "name": "summon_0012"
+              },
+              {
+                "time": 0.25,
+                "name": "summon_0014"
+              },
+              {
+                "time": 0.3333,
+                "name": "summon_0017"
+              },
+              {
+                "time": 0.4583,
+                "name": "summon_0018"
+              },
+              {
+                "time": 0.5417,
+                "name": "summon_0021"
+              },
+              {
+                "time": 0.625,
+                "name": "summon_0024"
+              },
+              {
+                "time": 0.7083,
+                "name": "summon_0027"
+              },
+              {
+                "time": 0.7917,
+                "name": "summon_0029"
+              },
+              {
+                "time": 0.9167,
+                "name": "summon_0030"
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.3333,
+            "name": "skill_spell"
+          }
+        ]
+      },
+      "victory": {
+        "slots": {
+          "attack_01_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "victory_0000"
+              },
+              {
+                "time": 0.0417,
+                "name": "victory_0001"
+              },
+              {
+                "time": 0.0833,
+                "name": "victory_0002"
+              },
+              {
+                "time": 0.125,
+                "name": "victory_0003"
+              },
+              {
+                "time": 0.1667,
+                "name": "victory_0004"
+              },
+              {
+                "time": 0.2083,
+                "name": "victory_0005"
+              },
+              {
+                "time": 0.25,
+                "name": "victory_0006"
+              },
+              {
+                "time": 0.2917,
+                "name": "victory_0007"
+              },
+              {
+                "time": 0.3333,
+                "name": "victory_0008"
+              },
+              {
+                "time": 0.375,
+                "name": "victory_0009"
+              },
+              {
+                "time": 0.4167,
+                "name": "victory_0010"
+              },
+              {
+                "time": 0.4583,
+                "name": "victory_0011"
+              },
+              {
+                "time": 0.5,
+                "name": "victory_0012"
+              },
+              {
+                "time": 0.5417,
+                "name": "victory_0013"
+              },
+              {
+                "time": 0.5833,
+                "name": "victory_0014"
+              },
+              {
+                "time": 0.625,
+                "name": "victory_0015"
+              },
+              {
+                "time": 0.6667,
+                "name": "victory_0016"
+              },
+              {
+                "time": 0.7083,
+                "name": "victory_0017"
+              },
+              {
+                "time": 0.75,
+                "name": "victory_0018"
+              },
+              {
+                "time": 0.7917,
+                "name": "victory_0019"
+              },
+              {
+                "time": 0.8333,
+                "name": "victory_0020"
+              },
+              {
+                "time": 0.875,
+                "name": "victory_0021"
+              },
+              {
+                "time": 0.9167,
+                "name": "victory_0022"
+              },
+              {
+                "time": 0.9583,
+                "name": "victory_0023"
+              },
+              {
+                "time": 1,
+                "name": "victory_0024"
+              },
+              {
+                "time": 1.0417,
+                "name": "victory_0025"
+              },
+              {
+                "time": 1.0833,
+                "name": "victory_0026"
+              },
+              {
+                "time": 1.125,
+                "name": "victory_0027"
+              },
+              {
+                "time": 1.1667,
+                "name": "victory_0028"
+              },
+              {
+                "time": 1.2083,
+                "name": "victory_0029"
+              },
+              {
+                "time": 1.25,
+                "name": "victory_0030"
+              },
+              {
+                "time": 1.2917,
+                "name": "victory_0031"
+              },
+              {
+                "time": 1.3333,
+                "name": "victory_0032"
+              },
+              {
+                "time": 1.375,
+                "name": "victory_0033"
+              },
+              {
+                "time": 1.4167,
+                "name": "victory_0034"
+              },
+              {
+                "time": 1.4583,
+                "name": "victory_0035"
+              },
+              {
+                "time": 1.5,
+                "name": "victory_0036"
+              },
+              {
+                "time": 1.5417,
+                "name": "victory_0037"
+              },
+              {
+                "time": 1.5833,
+                "name": "victory_0038"
+              },
+              {
+                "time": 1.625,
+                "name": "victory_0039"
+              },
+              {
+                "time": 1.6667,
+                "name": "victory_0040"
+              },
+              {
+                "time": 1.7083,
+                "name": "victory_0041"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton king.png\nsize: 2048,2048\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nattack_01_0000\n  rotate: false\n  xy: 1539, 1683\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nattack_01_0002\n  rotate: true\n  xy: 298, 959\n  size: 204, 194\n  orig: 512, 512\n  offset: 112, 245\n  index: -1\nattack_01_0003\n  rotate: false\n  xy: 478, 1542\n  size: 224, 220\n  orig: 512, 512\n  offset: 92, 245\n  index: -1\nattack_01_0006\n  rotate: false\n  xy: 127, 1419\n  size: 197, 255\n  orig: 512, 512\n  offset: 119, 245\n  index: -1\nattack_01_0009\n  rotate: false\n  xy: 675, 1186\n  size: 206, 207\n  orig: 512, 512\n  offset: 129, 244\n  index: -1\nattack_01_0011\n  rotate: false\n  xy: 1007, 1704\n  size: 266, 185\n  orig: 512, 512\n  offset: 213, 243\n  index: -1\nattack_01_0012\n  rotate: true\n  xy: 151, 756\n  size: 168, 178\n  orig: 512, 512\n  offset: 204, 243\n  index: -1\nattack_01_0014\n  rotate: false\n  xy: 1186, 1527\n  size: 191, 175\n  orig: 512, 512\n  offset: 203, 243\n  index: -1\nattack_01_0017\n  rotate: true\n  xy: 502, 1182\n  size: 238, 171\n  orig: 512, 512\n  offset: 200, 244\n  index: -1\nattack_01_0019\n  rotate: true\n  xy: 326, 1165\n  size: 247, 174\n  orig: 512, 512\n  offset: 194, 244\n  index: -1\nattack_01_0022\n  rotate: true\n  xy: 1185, 1167\n  size: 164, 188\n  orig: 512, 512\n  offset: 203, 244\n  index: -1\nattack_01_0024\n  rotate: false\n  xy: 1539, 1484\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nattack_02_0000\n  rotate: false\n  xy: 1728, 1098\n  size: 157, 198\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nattack_02_0002\n  rotate: false\n  xy: 883, 965\n  size: 154, 202\n  orig: 512, 512\n  offset: 183, 246\n  index: -1\nattack_02_0004\n  rotate: true\n  xy: 134, 1676\n  size: 112, 265\n  orig: 512, 512\n  offset: 170, 245\n  index: -1\nattack_02_0006\n  rotate: true\n  xy: 704, 1395\n  size: 155, 235\n  orig: 512, 512\n  offset: 107, 245\n  index: -1\nattack_02_0009\n  rotate: false\n  xy: 883, 1169\n  size: 149, 224\n  orig: 512, 512\n  offset: 114, 245\n  index: -1\nattack_02_0011\n  rotate: false\n  xy: 471, 1921\n  size: 302, 125\n  orig: 512, 512\n  offset: 177, 246\n  index: -1\nattack_02_0012\n  rotate: false\n  xy: 775, 1896\n  size: 289, 150\n  orig: 512, 512\n  offset: 190, 225\n  index: -1\nattack_02_0013\n  rotate: true\n  xy: 2, 169\n  size: 291, 152\n  orig: 512, 512\n  offset: 189, 227\n  index: -1\nattack_02_0014\n  rotate: false\n  xy: 1066, 1891\n  size: 288, 155\n  orig: 512, 512\n  offset: 188, 230\n  index: -1\nattack_02_0017\n  rotate: false\n  xy: 1356, 1882\n  size: 284, 164\n  orig: 512, 512\n  offset: 184, 240\n  index: -1\nattack_02_0020\n  rotate: true\n  xy: 784, 523\n  size: 193, 155\n  orig: 512, 512\n  offset: 182, 243\n  index: -1\nattack_02_0022\n  rotate: true\n  xy: 1543, 408\n  size: 156, 176\n  orig: 512, 512\n  offset: 173, 246\n  index: -1\nattack_02_0024\n  rotate: false\n  xy: 1379, 1518\n  size: 158, 186\n  orig: 512, 512\n  offset: 167, 246\n  index: -1\nattack_02_0025\n  rotate: true\n  xy: 1374, 194\n  size: 159, 190\n  orig: 512, 512\n  offset: 169, 245\n  index: -1\nattack_02_0026\n  rotate: false\n  xy: 1728, 902\n  size: 157, 194\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\ndie_0002\n  rotate: true\n  xy: 1539, 1329\n  size: 153, 191\n  orig: 512, 512\n  offset: 170, 248\n  index: -1\ndie_0003\n  rotate: false\n  xy: 1375, 1135\n  size: 168, 192\n  orig: 512, 512\n  offset: 151, 250\n  index: -1\ndie_0009\n  rotate: false\n  xy: 846, 194\n  size: 125, 117\n  orig: 512, 512\n  offset: 173, 243\n  index: -1\ndie_0010\n  rotate: false\n  xy: 268, 188\n  size: 127, 107\n  orig: 512, 512\n  offset: 175, 242\n  index: -1\ndie_0011\n  rotate: true\n  xy: 784, 398\n  size: 123, 114\n  orig: 512, 512\n  offset: 180, 224\n  index: -1\ndie_0012\n  rotate: false\n  xy: 512, 194\n  size: 120, 116\n  orig: 512, 512\n  offset: 184, 213\n  index: -1\ndie_0019\n  rotate: false\n  xy: 1728, 2\n  size: 120, 89\n  orig: 512, 512\n  offset: 184, 215\n  index: -1\ndie_0023\n  rotate: true\n  xy: 973, 190\n  size: 121, 81\n  orig: 512, 512\n  offset: 185, 213\n  index: -1\nenter_0000\n  rotate: true\n  xy: 704, 1552\n  size: 188, 227\n  orig: 512, 512\n  offset: 122, 50\n  index: -1\nenter_0001\n  rotate: false\n  xy: 142, 1172\n  size: 182, 245\n  orig: 512, 512\n  offset: 128, 41\n  index: -1\nenter_0002\n  rotate: true\n  xy: 1275, 1706\n  size: 174, 262\n  orig: 512, 512\n  offset: 136, 33\n  index: -1\nenter_0003\n  rotate: true\n  xy: 2, 2\n  size: 165, 278\n  orig: 512, 512\n  offset: 145, 26\n  index: -1\nenter_0004\n  rotate: false\n  xy: 2, 462\n  size: 156, 292\n  orig: 512, 512\n  offset: 154, 19\n  index: -1\nenter_0005\n  rotate: false\n  xy: 2, 756\n  size: 147, 305\n  orig: 512, 512\n  offset: 163, 14\n  index: -1\nenter_0006\n  rotate: false\n  xy: 2, 1063\n  size: 138, 316\n  orig: 512, 512\n  offset: 172, 10\n  index: -1\nenter_0007\n  rotate: false\n  xy: 2, 1718\n  size: 130, 328\n  orig: 512, 512\n  offset: 179, 5\n  index: -1\nenter_0008\n  rotate: false\n  xy: 2, 1381\n  size: 123, 335\n  orig: 512, 512\n  offset: 186, 1\n  index: -1\nenter_0009\n  rotate: true\n  xy: 134, 1924\n  size: 122, 335\n  orig: 512, 512\n  offset: 187, 0\n  index: -1\nenter_0010\n  rotate: true\n  xy: 134, 1790\n  size: 132, 324\n  orig: 512, 512\n  offset: 188, 3\n  index: -1\nenter_0011\n  rotate: true\n  xy: 1642, 1897\n  size: 149, 289\n  orig: 512, 512\n  offset: 189, 7\n  index: -1\nenter_0012\n  rotate: true\n  xy: 460, 1764\n  size: 155, 275\n  orig: 512, 512\n  offset: 190, 15\n  index: -1\nenter_0013\n  rotate: true\n  xy: 737, 1742\n  size: 152, 268\n  orig: 512, 512\n  offset: 191, 24\n  index: -1\nenter_0014\n  rotate: false\n  xy: 326, 1414\n  size: 150, 260\n  orig: 512, 512\n  offset: 192, 33\n  index: -1\nenter_0015\n  rotate: true\n  xy: 933, 1555\n  size: 147, 251\n  orig: 512, 512\n  offset: 194, 42\n  index: -1\nenter_0016\n  rotate: false\n  xy: 151, 926\n  size: 145, 244\n  orig: 512, 512\n  offset: 194, 51\n  index: -1\nenter_0017\n  rotate: true\n  xy: 941, 1406\n  size: 147, 242\n  orig: 512, 512\n  offset: 193, 60\n  index: -1\nenter_0018\n  rotate: false\n  xy: 160, 518\n  size: 151, 236\n  orig: 512, 512\n  offset: 190, 72\n  index: -1\nenter_0019\n  rotate: false\n  xy: 313, 524\n  size: 157, 229\n  orig: 512, 512\n  offset: 185, 87\n  index: -1\nenter_0020\n  rotate: false\n  xy: 1732, 1298\n  size: 151, 201\n  orig: 512, 512\n  offset: 192, 125\n  index: -1\nenter_0021\n  rotate: false\n  xy: 641, 330\n  size: 141, 195\n  orig: 512, 512\n  offset: 203, 143\n  index: -1\nenter_0022\n  rotate: false\n  xy: 1039, 971\n  size: 144, 210\n  orig: 512, 512\n  offset: 202, 144\n  index: -1\nenter_0023\n  rotate: false\n  xy: 1034, 1183\n  size: 149, 221\n  orig: 512, 512\n  offset: 197, 145\n  index: -1\nenter_0024\n  rotate: false\n  xy: 883, 751\n  size: 154, 212\n  orig: 512, 512\n  offset: 192, 144\n  index: -1\nenter_0026\n  rotate: false\n  xy: 331, 755\n  size: 168, 202\n  orig: 512, 512\n  offset: 187, 141\n  index: -1\nenter_0027\n  rotate: false\n  xy: 1887, 1192\n  size: 159, 218\n  orig: 512, 512\n  offset: 184, 139\n  index: -1\nenter_0028\n  rotate: false\n  xy: 501, 783\n  size: 163, 215\n  orig: 512, 512\n  offset: 179, 138\n  index: -1\nenter_0029\n  rotate: false\n  xy: 1543, 566\n  size: 176, 201\n  orig: 512, 512\n  offset: 175, 138\n  index: -1\nenter_0030\n  rotate: false\n  xy: 1185, 1333\n  size: 188, 192\n  orig: 512, 512\n  offset: 174, 139\n  index: -1\nenter_0031\n  rotate: true\n  xy: 417, 2\n  size: 190, 189\n  orig: 512, 512\n  offset: 178, 143\n  index: -1\nenter_0032\n  rotate: false\n  xy: 591, 527\n  size: 191, 189\n  orig: 512, 512\n  offset: 183, 148\n  index: -1\nenter_0033\n  rotate: false\n  xy: 1185, 979\n  size: 188, 186\n  orig: 512, 512\n  offset: 191, 154\n  index: -1\nenter_0035\n  rotate: true\n  xy: 502, 1000\n  size: 180, 171\n  orig: 512, 512\n  offset: 205, 167\n  index: -1\nenter_0036\n  rotate: true\n  xy: 1375, 771\n  size: 176, 167\n  orig: 512, 512\n  offset: 211, 173\n  index: -1\nenter_0037\n  rotate: true\n  xy: 1887, 9\n  size: 174, 157\n  orig: 512, 512\n  offset: 214, 180\n  index: -1\nenter_0039\n  rotate: true\n  xy: 282, 2\n  size: 181, 133\n  orig: 512, 512\n  offset: 208, 192\n  index: -1\nenter_0040\n  rotate: false\n  xy: 1110, 2\n  size: 186, 131\n  orig: 512, 512\n  offset: 204, 195\n  index: -1\nenter_0041\n  rotate: true\n  xy: 763, 2\n  size: 190, 135\n  orig: 512, 512\n  offset: 201, 196\n  index: -1\nenter_0049\n  rotate: false\n  xy: 666, 718\n  size: 215, 131\n  orig: 512, 512\n  offset: 179, 219\n  index: -1\nenter_0050\n  rotate: false\n  xy: 478, 1422\n  size: 224, 118\n  orig: 512, 512\n  offset: 181, 233\n  index: -1\nenter_0051\n  rotate: true\n  xy: 472, 526\n  size: 227, 117\n  orig: 512, 512\n  offset: 183, 235\n  index: -1\nenter_0052\n  rotate: true\n  xy: 1933, 1821\n  size: 225, 113\n  orig: 512, 512\n  offset: 186, 240\n  index: -1\nenter_0053\n  rotate: true\n  xy: 156, 236\n  size: 224, 110\n  orig: 512, 512\n  offset: 188, 245\n  index: -1\nenter_0054\n  rotate: true\n  xy: 941, 527\n  size: 222, 113\n  orig: 512, 512\n  offset: 190, 245\n  index: -1\nenter_0055\n  rotate: true\n  xy: 268, 297\n  size: 219, 118\n  orig: 512, 512\n  offset: 192, 245\n  index: -1\nenter_0056\n  rotate: true\n  xy: 388, 306\n  size: 216, 122\n  orig: 512, 512\n  offset: 193, 245\n  index: -1\nenter_0057\n  rotate: true\n  xy: 512, 312\n  size: 212, 127\n  orig: 512, 512\n  offset: 194, 245\n  index: -1\nenter_0058\n  rotate: false\n  xy: 900, 2\n  size: 208, 131\n  orig: 512, 512\n  offset: 195, 245\n  index: -1\nenter_0059\n  rotate: false\n  xy: 641, 194\n  size: 203, 134\n  orig: 512, 512\n  offset: 196, 245\n  index: -1\nenter_0063\n  rotate: true\n  xy: 1212, 415\n  size: 174, 160\n  orig: 512, 512\n  offset: 201, 245\n  index: -1\nenter_0067\n  rotate: false\n  xy: 1727, 712\n  size: 158, 188\n  orig: 512, 512\n  offset: 184, 245\n  index: -1\nhit_0001\n  rotate: false\n  xy: 1545, 941\n  size: 181, 186\n  orig: 512, 512\n  offset: 153, 252\n  index: -1\nhit_0002\n  rotate: false\n  xy: 1196, 800\n  size: 177, 177\n  orig: 512, 512\n  offset: 150, 252\n  index: -1\nhit_0004\n  rotate: true\n  xy: 1544, 769\n  size: 170, 181\n  orig: 512, 512\n  offset: 146, 252\n  index: -1\nhit_0005\n  rotate: false\n  xy: 1375, 949\n  size: 168, 184\n  orig: 512, 512\n  offset: 148, 252\n  index: -1\nhit_0007\n  rotate: false\n  xy: 1375, 1329\n  size: 162, 187\n  orig: 512, 512\n  offset: 154, 252\n  index: -1\nhit_0010\n  rotate: false\n  xy: 608, 2\n  size: 153, 190\n  orig: 512, 512\n  offset: 167, 252\n  index: -1\nstand_0004\n  rotate: false\n  xy: 1887, 578\n  size: 159, 197\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\nstand_0005\n  rotate: false\n  xy: 1887, 380\n  size: 159, 196\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\nstand_0006\n  rotate: false\n  xy: 1212, 217\n  size: 160, 196\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\nstand_0010\n  rotate: false\n  xy: 1566, 2\n  size: 160, 194\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0016\n  rotate: false\n  xy: 1887, 185\n  size: 159, 193\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nsummon_0017\n  rotate: false\n  xy: 1698, 1699\n  size: 185, 196\n  orig: 512, 512\n  offset: 182, 243\n  index: -1\nsummon_0018\n  rotate: false\n  xy: 1698, 1501\n  size: 185, 196\n  orig: 512, 512\n  offset: 179, 243\n  index: -1\nsummon_0027\n  rotate: false\n  xy: 1545, 1129\n  size: 181, 198\n  orig: 512, 512\n  offset: 179, 244\n  index: -1\nvictory_0003\n  rotate: false\n  xy: 1721, 509\n  size: 164, 201\n  orig: 512, 512\n  offset: 171, 247\n  index: -1\nvictory_0006\n  rotate: false\n  xy: 1885, 1615\n  size: 161, 204\n  orig: 512, 512\n  offset: 172, 248\n  index: -1\nvictory_0007\n  rotate: true\n  xy: 675, 1018\n  size: 166, 206\n  orig: 512, 512\n  offset: 171, 247\n  index: -1\nvictory_0008\n  rotate: true\n  xy: 675, 851\n  size: 165, 206\n  orig: 512, 512\n  offset: 171, 247\n  index: -1\nvictory_0011\n  rotate: false\n  xy: 1056, 343\n  size: 154, 206\n  orig: 512, 512\n  offset: 173, 247\n  index: -1\nvictory_0013\n  rotate: false\n  xy: 1728, 93\n  size: 157, 207\n  orig: 512, 512\n  offset: 172, 247\n  index: -1\nvictory_0014\n  rotate: false\n  xy: 1212, 591\n  size: 160, 207\n  orig: 512, 512\n  offset: 170, 247\n  index: -1\nvictory_0015\n  rotate: false\n  xy: 1887, 983\n  size: 159, 207\n  orig: 512, 512\n  offset: 170, 247\n  index: -1\nvictory_0018\n  rotate: false\n  xy: 1039, 761\n  size: 155, 208\n  orig: 512, 512\n  offset: 174, 247\n  index: -1\nvictory_0019\n  rotate: false\n  xy: 1056, 551\n  size: 154, 208\n  orig: 512, 512\n  offset: 175, 247\n  index: -1\nvictory_0020\n  rotate: false\n  xy: 1566, 198\n  size: 153, 208\n  orig: 512, 512\n  offset: 174, 247\n  index: -1\nvictory_0021\n  rotate: false\n  xy: 900, 313\n  size: 154, 208\n  orig: 512, 512\n  offset: 173, 247\n  index: -1\nvictory_0025\n  rotate: false\n  xy: 1056, 135\n  size: 154, 206\n  orig: 512, 512\n  offset: 173, 247\n  index: -1\nvictory_0030\n  rotate: false\n  xy: 1887, 777\n  size: 159, 204\n  orig: 512, 512\n  offset: 174, 247\n  index: -1\nvictory_0033\n  rotate: false\n  xy: 1374, 563\n  size: 167, 206\n  orig: 512, 512\n  offset: 168, 247\n  index: -1\nvictory_0034\n  rotate: true\n  xy: 1298, 22\n  size: 170, 207\n  orig: 512, 512\n  offset: 164, 247\n  index: -1\nvictory_0035\n  rotate: false\n  xy: 1374, 355\n  size: 167, 206\n  orig: 512, 512\n  offset: 165, 247\n  index: -1\nvictory_0037\n  rotate: false\n  xy: 1721, 302\n  size: 164, 205\n  orig: 512, 512\n  offset: 167, 246\n  index: -1\nvictory_0039\n  rotate: false\n  xy: 1885, 1412\n  size: 161, 201\n  orig: 512, 512\n  offset: 170, 246\n  index: -1\n\nskeleton king2.png\nsize: 2018,1585\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nattack_02_0027\n  rotate: false\n  xy: 951, 1385\n  size: 157, 198\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\ndie_0000\n  rotate: false\n  xy: 960, 174\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\ndie_0001\n  rotate: false\n  xy: 1285, 1189\n  size: 155, 196\n  orig: 512, 512\n  offset: 173, 246\n  index: -1\ndie_0004\n  rotate: true\n  xy: 125, 5\n  size: 122, 142\n  orig: 512, 512\n  offset: 173, 283\n  index: -1\ndie_0005\n  rotate: true\n  xy: 269, 6\n  size: 122, 136\n  orig: 512, 512\n  offset: 173, 277\n  index: -1\ndie_0006\n  rotate: true\n  xy: 1871, 1270\n  size: 122, 131\n  orig: 512, 512\n  offset: 173, 269\n  index: -1\ndie_0007\n  rotate: true\n  xy: 1871, 1146\n  size: 122, 127\n  orig: 512, 512\n  offset: 173, 260\n  index: -1\ndie_0008\n  rotate: false\n  xy: 2, 2\n  size: 121, 125\n  orig: 512, 512\n  offset: 173, 249\n  index: -1\ndie_0013\n  rotate: true\n  xy: 1755, 1071\n  size: 119, 109\n  orig: 512, 512\n  offset: 186, 213\n  index: -1\ndie_0014\n  rotate: false\n  xy: 1749, 1285\n  size: 120, 102\n  orig: 512, 512\n  offset: 185, 214\n  index: -1\ndie_0015\n  rotate: true\n  xy: 1755, 950\n  size: 119, 99\n  orig: 512, 512\n  offset: 185, 215\n  index: -1\ndie_0016\n  rotate: true\n  xy: 1903, 232\n  size: 119, 96\n  orig: 512, 512\n  offset: 185, 215\n  index: -1\ndie_0017\n  rotate: true\n  xy: 1903, 111\n  size: 119, 92\n  orig: 512, 512\n  offset: 185, 215\n  index: -1\ndie_0018\n  rotate: false\n  xy: 1749, 1192\n  size: 120, 91\n  orig: 512, 512\n  offset: 184, 215\n  index: -1\ndie_0020\n  rotate: false\n  xy: 1620, 1103\n  size: 121, 87\n  orig: 512, 512\n  offset: 184, 215\n  index: -1\ndie_0021\n  rotate: true\n  xy: 1928, 476\n  size: 120, 86\n  orig: 512, 512\n  offset: 185, 214\n  index: -1\ndie_0022\n  rotate: false\n  xy: 1620, 1017\n  size: 121, 84\n  orig: 512, 512\n  offset: 185, 213\n  index: -1\ndie_0024\n  rotate: true\n  xy: 1928, 353\n  size: 121, 78\n  orig: 512, 512\n  offset: 185, 213\n  index: -1\ndie_0025\n  rotate: true\n  xy: 1807, 99\n  size: 121, 73\n  orig: 512, 512\n  offset: 185, 213\n  index: -1\nenter_0025\n  rotate: false\n  xy: 637, 570\n  size: 173, 198\n  orig: 512, 512\n  offset: 188, 143\n  index: -1\nenter_0034\n  rotate: true\n  xy: 1620, 764\n  size: 184, 179\n  orig: 512, 512\n  offset: 198, 160\n  index: -1\nenter_0038\n  rotate: false\n  xy: 606, 7\n  size: 177, 140\n  orig: 512, 512\n  offset: 212, 187\n  index: -1\nenter_0042\n  rotate: true\n  xy: 1730, 1389\n  size: 194, 139\n  orig: 512, 512\n  offset: 199, 197\n  index: -1\nenter_0043\n  rotate: false\n  xy: 407, 2\n  size: 197, 144\n  orig: 512, 512\n  offset: 199, 199\n  index: -1\nenter_0044\n  rotate: true\n  xy: 328, 1380\n  size: 203, 147\n  orig: 512, 512\n  offset: 196, 203\n  index: -1\nenter_0045\n  rotate: true\n  xy: 166, 544\n  size: 204, 148\n  orig: 512, 512\n  offset: 191, 208\n  index: -1\nenter_0046\n  rotate: true\n  xy: 489, 569\n  size: 199, 146\n  orig: 512, 512\n  offset: 184, 213\n  index: -1\nenter_0047\n  rotate: true\n  xy: 1582, 1388\n  size: 195, 146\n  orig: 512, 512\n  offset: 178, 212\n  index: -1\nenter_0048\n  rotate: true\n  xy: 341, 761\n  size: 201, 145\n  orig: 512, 512\n  offset: 178, 209\n  index: -1\nenter_0060\n  rotate: true\n  xy: 1131, 389\n  size: 196, 137\n  orig: 512, 512\n  offset: 198, 245\n  index: -1\nenter_0061\n  rotate: true\n  xy: 1871, 1394\n  size: 189, 139\n  orig: 512, 512\n  offset: 200, 245\n  index: -1\nenter_0062\n  rotate: true\n  xy: 1753, 222\n  size: 183, 148\n  orig: 512, 512\n  offset: 200, 245\n  index: -1\nenter_0064\n  rotate: false\n  xy: 1152, 3\n  size: 171, 169\n  orig: 512, 512\n  offset: 197, 245\n  index: -1\nenter_0065\n  rotate: true\n  xy: 973, 3\n  size: 169, 177\n  orig: 512, 512\n  offset: 192, 245\n  index: -1\nenter_0066\n  rotate: false\n  xy: 1640, 29\n  size: 165, 183\n  orig: 512, 512\n  offset: 188, 245\n  index: -1\nenter_0068\n  rotate: false\n  xy: 1487, 14\n  size: 151, 191\n  orig: 512, 512\n  offset: 180, 245\n  index: -1\nenter_0069\n  rotate: false\n  xy: 1465, 994\n  size: 153, 194\n  orig: 512, 512\n  offset: 177, 245\n  index: -1\nenter_0070\n  rotate: false\n  xy: 972, 373\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nhit_0000\n  rotate: false\n  xy: 642, 169\n  size: 157, 198\n  orig: 512, 512\n  offset: 173, 252\n  index: -1\nhit_0003\n  rotate: false\n  xy: 1755, 419\n  size: 171, 177\n  orig: 512, 512\n  offset: 147, 252\n  index: -1\nhit_0006\n  rotate: true\n  xy: 785, 2\n  size: 165, 186\n  orig: 512, 512\n  offset: 151, 252\n  index: -1\nhit_0008\n  rotate: false\n  xy: 1856, 763\n  size: 158, 188\n  orig: 512, 512\n  offset: 158, 252\n  index: -1\nhit_0009\n  rotate: true\n  xy: 1620, 604\n  size: 157, 189\n  orig: 512, 512\n  offset: 163, 252\n  index: -1\nhit_0011\n  rotate: false\n  xy: 1602, 214\n  size: 149, 191\n  orig: 512, 512\n  offset: 171, 252\n  index: -1\nhit_0012\n  rotate: false\n  xy: 1470, 601\n  size: 148, 193\n  orig: 512, 512\n  offset: 172, 252\n  index: -1\nhit_0013\n  rotate: false\n  xy: 1601, 1192\n  size: 146, 194\n  orig: 512, 512\n  offset: 173, 252\n  index: -1\nhit_0014\n  rotate: false\n  xy: 1431, 1387\n  size: 149, 196\n  orig: 512, 512\n  offset: 174, 252\n  index: -1\nhit_0015\n  rotate: false\n  xy: 1130, 1187\n  size: 153, 197\n  orig: 512, 512\n  offset: 174, 252\n  index: -1\nhit_0016\n  rotate: false\n  xy: 485, 149\n  size: 155, 199\n  orig: 512, 512\n  offset: 174, 252\n  index: -1\nhit_0017\n  rotate: false\n  xy: 634, 1383\n  size: 157, 200\n  orig: 512, 512\n  offset: 174, 252\n  index: -1\nhit_0018\n  rotate: false\n  xy: 645, 1181\n  size: 157, 200\n  orig: 512, 512\n  offset: 174, 252\n  index: -1\nhit_0019\n  rotate: false\n  xy: 488, 770\n  size: 157, 199\n  orig: 512, 512\n  offset: 174, 252\n  index: -1\nhit_0020\n  rotate: false\n  xy: 801, 169\n  size: 157, 198\n  orig: 512, 512\n  offset: 173, 252\n  index: -1\nstand_0000\n  rotate: false\n  xy: 1119, 174\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0001\n  rotate: false\n  xy: 1139, 789\n  size: 157, 196\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0002\n  rotate: false\n  xy: 988, 587\n  size: 158, 196\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0003\n  rotate: false\n  xy: 812, 373\n  size: 158, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0007\n  rotate: false\n  xy: 1269, 1387\n  size: 160, 196\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\nstand_0008\n  rotate: false\n  xy: 1148, 592\n  size: 160, 195\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\nstand_0009\n  rotate: false\n  xy: 1298, 792\n  size: 160, 195\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0011\n  rotate: false\n  xy: 1270, 396\n  size: 160, 194\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0012\n  rotate: false\n  xy: 1278, 201\n  size: 160, 193\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0013\n  rotate: false\n  xy: 1325, 6\n  size: 160, 193\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0014\n  rotate: false\n  xy: 1440, 207\n  size: 160, 192\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0015\n  rotate: false\n  xy: 1593, 407\n  size: 160, 192\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0017\n  rotate: false\n  xy: 1432, 401\n  size: 159, 193\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0018\n  rotate: false\n  xy: 1310, 596\n  size: 158, 194\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0019\n  rotate: false\n  xy: 1460, 796\n  size: 158, 194\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0020\n  rotate: false\n  xy: 1306, 992\n  size: 157, 195\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0021\n  rotate: false\n  xy: 1442, 1190\n  size: 157, 195\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0022\n  rotate: false\n  xy: 1147, 989\n  size: 157, 196\n  orig: 512, 512\n  offset: 174, 245\n  index: -1\nstand_0023\n  rotate: false\n  xy: 821, 782\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nstand_0024\n  rotate: false\n  xy: 829, 984\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nsummon_0000\n  rotate: false\n  xy: 971, 1186\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nsummon_0003\n  rotate: false\n  xy: 1866, 953\n  size: 150, 191\n  orig: 512, 512\n  offset: 178, 245\n  index: -1\nsummon_0006\n  rotate: true\n  xy: 1811, 598\n  size: 163, 189\n  orig: 512, 512\n  offset: 194, 245\n  index: -1\nsummon_0008\n  rotate: false\n  xy: 656, 981\n  size: 171, 198\n  orig: 512, 512\n  offset: 201, 236\n  index: -1\nsummon_0010\n  rotate: false\n  xy: 316, 551\n  size: 171, 201\n  orig: 512, 512\n  offset: 195, 240\n  index: -1\nsummon_0012\n  rotate: false\n  xy: 635, 369\n  size: 175, 198\n  orig: 512, 512\n  offset: 194, 243\n  index: -1\nsummon_0014\n  rotate: false\n  xy: 812, 572\n  size: 174, 197\n  orig: 512, 512\n  offset: 196, 243\n  index: -1\nsummon_0021\n  rotate: false\n  xy: 647, 771\n  size: 172, 198\n  orig: 512, 512\n  offset: 180, 243\n  index: -1\nsummon_0024\n  rotate: false\n  xy: 480, 971\n  size: 174, 200\n  orig: 512, 512\n  offset: 185, 243\n  index: -1\nsummon_0029\n  rotate: false\n  xy: 804, 1183\n  size: 165, 198\n  orig: 512, 512\n  offset: 175, 244\n  index: -1\nsummon_0030\n  rotate: false\n  xy: 1110, 1386\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nvictory_0000\n  rotate: false\n  xy: 980, 785\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\nvictory_0001\n  rotate: false\n  xy: 327, 148\n  size: 156, 199\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\nvictory_0002\n  rotate: false\n  xy: 793, 1383\n  size: 156, 200\n  orig: 512, 512\n  offset: 171, 246\n  index: -1\nvictory_0004\n  rotate: false\n  xy: 170, 754\n  size: 169, 203\n  orig: 512, 512\n  offset: 171, 247\n  index: -1\nvictory_0005\n  rotate: false\n  xy: 159, 130\n  size: 166, 204\n  orig: 512, 512\n  offset: 171, 247\n  index: -1\nvictory_0009\n  rotate: false\n  xy: 2, 543\n  size: 162, 205\n  orig: 512, 512\n  offset: 172, 247\n  index: -1\nvictory_0010\n  rotate: false\n  xy: 161, 337\n  size: 157, 204\n  orig: 512, 512\n  offset: 173, 247\n  index: -1\nvictory_0012\n  rotate: false\n  xy: 2, 958\n  size: 153, 207\n  orig: 512, 512\n  offset: 174, 247\n  index: -1\nvictory_0016\n  rotate: false\n  xy: 2, 1167\n  size: 155, 207\n  orig: 512, 512\n  offset: 171, 247\n  index: -1\nvictory_0017\n  rotate: false\n  xy: 157, 959\n  size: 156, 206\n  orig: 512, 512\n  offset: 172, 247\n  index: -1\nvictory_0022\n  rotate: false\n  xy: 2, 1376\n  size: 157, 207\n  orig: 512, 512\n  offset: 172, 247\n  index: -1\nvictory_0023\n  rotate: false\n  xy: 2, 336\n  size: 157, 205\n  orig: 512, 512\n  offset: 172, 247\n  index: -1\nvictory_0024\n  rotate: false\n  xy: 2, 129\n  size: 155, 205\n  orig: 512, 512\n  offset: 173, 247\n  index: -1\nvictory_0026\n  rotate: false\n  xy: 326, 1173\n  size: 157, 203\n  orig: 512, 512\n  offset: 174, 247\n  index: -1\nvictory_0027\n  rotate: false\n  xy: 477, 350\n  size: 156, 199\n  orig: 512, 512\n  offset: 175, 247\n  index: -1\nvictory_0028\n  rotate: false\n  xy: 320, 349\n  size: 155, 200\n  orig: 512, 512\n  offset: 175, 247\n  index: -1\nvictory_0029\n  rotate: false\n  xy: 477, 1381\n  size: 155, 202\n  orig: 512, 512\n  offset: 175, 247\n  index: -1\nvictory_0031\n  rotate: false\n  xy: 159, 1169\n  size: 165, 205\n  orig: 512, 512\n  offset: 172, 247\n  index: -1\nvictory_0032\n  rotate: false\n  xy: 2, 750\n  size: 166, 206\n  orig: 512, 512\n  offset: 170, 247\n  index: -1\nvictory_0036\n  rotate: false\n  xy: 161, 1378\n  size: 165, 205\n  orig: 512, 512\n  offset: 166, 247\n  index: -1\nvictory_0038\n  rotate: false\n  xy: 315, 964\n  size: 163, 203\n  orig: 512, 512\n  offset: 168, 246\n  index: -1\nvictory_0040\n  rotate: false\n  xy: 485, 1179\n  size: 158, 200\n  orig: 512, 512\n  offset: 172, 245\n  index: -1\nvictory_0041\n  rotate: false\n  xy: 988, 987\n  size: 157, 197\n  orig: 512, 512\n  offset: 173, 245\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "e35f8049-7c99-4d4b-95b6-1aeac3d20644"
+  },
+  "textures": [
+    {
+      "__uuid__": "f6cd7c58-b180-4da6-9738-f9a698c1ac8c"
+    },
+    {
+      "__uuid__": "5bff136f-d286-4f11-8833-046e26fc6758"
+    }
+  ],
+  "scale": 1
+}

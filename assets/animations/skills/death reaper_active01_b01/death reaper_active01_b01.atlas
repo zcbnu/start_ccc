@@ -1,0 +1,118 @@
+
+death reaper_active01_b01.png
+size: 737,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/kukuku_00
+  rotate: false
+  xy: 672, 177
+  size: 63, 46
+  orig: 150, 150
+  offset: 43, 20
+  index: -1
+zhengyizhilian/kukuku_02
+  rotate: false
+  xy: 663, 41
+  size: 69, 87
+  orig: 150, 150
+  offset: 40, 6
+  index: -1
+zhengyizhilian/kukuku_04
+  rotate: false
+  xy: 592, 130
+  size: 78, 93
+  orig: 150, 150
+  offset: 36, 10
+  index: -1
+zhengyizhilian/kukuku_06
+  rotate: false
+  xy: 411, 125
+  size: 91, 98
+  orig: 150, 150
+  offset: 29, 16
+  index: -1
+zhengyizhilian/kukuku_08
+  rotate: false
+  xy: 2, 114
+  size: 103, 109
+  orig: 150, 150
+  offset: 21, 11
+  index: -1
+zhengyizhilian/kukuku_10
+  rotate: false
+  xy: 2, 2
+  size: 102, 110
+  orig: 150, 150
+  offset: 21, 19
+  index: -1
+zhengyizhilian/kukuku_12
+  rotate: false
+  xy: 106, 3
+  size: 102, 109
+  orig: 150, 150
+  offset: 21, 21
+  index: -1
+zhengyizhilian/kukuku_14
+  rotate: false
+  xy: 107, 118
+  size: 101, 105
+  orig: 150, 150
+  offset: 20, 34
+  index: -1
+zhengyizhilian/kukuku_16
+  rotate: true
+  xy: 210, 5
+  size: 109, 94
+  orig: 150, 150
+  offset: 18, 39
+  index: -1
+zhengyizhilian/kukuku_18
+  rotate: true
+  xy: 210, 116
+  size: 107, 99
+  orig: 150, 150
+  offset: 21, 36
+  index: -1
+zhengyizhilian/kukuku_20
+  rotate: false
+  xy: 306, 11
+  size: 98, 103
+  orig: 150, 150
+  offset: 29, 38
+  index: -1
+zhengyizhilian/kukuku_22
+  rotate: true
+  xy: 311, 123
+  size: 100, 98
+  orig: 150, 150
+  offset: 30, 46
+  index: -1
+zhengyizhilian/kukuku_24
+  rotate: true
+  xy: 406, 21
+  size: 100, 96
+  orig: 150, 150
+  offset: 30, 51
+  index: -1
+zhengyizhilian/kukuku_26
+  rotate: true
+  xy: 504, 120
+  size: 103, 86
+  orig: 150, 150
+  offset: 28, 64
+  index: -1
+zhengyizhilian/kukuku_28
+  rotate: true
+  xy: 504, 17
+  size: 101, 84
+  orig: 150, 150
+  offset: 32, 66
+  index: -1
+zhengyizhilian/kukuku_30
+  rotate: true
+  xy: 590, 15
+  size: 103, 71
+  orig: 150, 150
+  offset: 30, 78
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fa674a7f-297f-44f1-a9d7-3094755f6588",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "wild soldier2": {
+      "ver": "1.0.3",
+      "uuid": "e10de766-38fb-42ef-b2af-70c6711d2faf",
+      "rawTextureUuid": "fa674a7f-297f-44f1-a9d7-3094755f6588",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1748,
+      "height": 417,
+      "rawWidth": 1752,
+      "rawHeight": 421,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

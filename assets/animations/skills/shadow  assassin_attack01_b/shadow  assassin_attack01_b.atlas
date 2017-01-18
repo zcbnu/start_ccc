@@ -1,0 +1,41 @@
+
+shadow  assassin_attack01_b.png
+size: 386,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cike/daoguang_00
+  rotate: false
+  xy: 2, 7
+  size: 179, 66
+  orig: 200, 100
+  offset: 0, 5
+  index: -1
+cike/daoguang_01
+  rotate: false
+  xy: 2, 75
+  size: 178, 93
+  orig: 200, 100
+  offset: 12, 2
+  index: -1
+cike/daoguang_02
+  rotate: true
+  xy: 289, 2
+  size: 166, 95
+  orig: 200, 100
+  offset: 32, 0
+  index: -1
+cike/daoguang_03
+  rotate: false
+  xy: 182, 104
+  size: 105, 64
+  orig: 200, 100
+  offset: 91, 31
+  index: -1
+cike/daoguang_04
+  rotate: true
+  xy: 183, 3
+  size: 99, 48
+  orig: 200, 100
+  offset: 97, 47
+  index: -1

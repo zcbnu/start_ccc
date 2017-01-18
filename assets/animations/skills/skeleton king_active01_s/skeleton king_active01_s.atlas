@@ -1,0 +1,97 @@
+
+skeleton king_active01_s.png
+size: 825,779
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kulouwang/daoguang_5_00
+  rotate: true
+  xy: 290, 83
+  size: 300, 265
+  orig: 300, 300
+  offset: 0, 17
+  index: -1
+kulouwang/daoguang_5_01
+  rotate: true
+  xy: 557, 477
+  size: 300, 262
+  orig: 300, 300
+  offset: 0, 17
+  index: -1
+kulouwang/daoguang_5_02
+  rotate: false
+  xy: 299, 522
+  size: 256, 255
+  orig: 300, 300
+  offset: 44, 17
+  index: -1
+kulouwang/daoguang_5_03
+  rotate: true
+  xy: 592, 66
+  size: 142, 231
+  orig: 300, 300
+  offset: 158, 17
+  index: -1
+kulouwang/daoguang_5_04
+  rotate: true
+  xy: 290, 25
+  size: 56, 185
+  orig: 300, 300
+  offset: 238, 17
+  index: -1
+kulouwang/jian_00
+  rotate: false
+  xy: 647, 427
+  size: 132, 48
+  orig: 150, 150
+  offset: 13, 57
+  index: -1
+kulouwang/jian_01
+  rotate: false
+  xy: 514, 426
+  size: 131, 49
+  orig: 150, 150
+  offset: 14, 43
+  index: -1
+kulouwang/jian_02
+  rotate: true
+  xy: 463, 388
+  size: 132, 49
+  orig: 150, 150
+  offset: 14, 46
+  index: -1
+kulouwang/jian_1_00
+  rotate: true
+  xy: 477, 11
+  size: 70, 113
+  orig: 120, 120
+  offset: 21, 2
+  index: -1
+kulouwang/xushi_01
+  rotate: false
+  xy: 2, 385
+  size: 295, 392
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+kulouwang/xushi_02
+  rotate: false
+  xy: 2, 2
+  size: 286, 381
+  orig: 300, 400
+  offset: 4, 11
+  index: -1
+kulouwang/xushi_03
+  rotate: true
+  xy: 557, 210
+  size: 214, 265
+  orig: 300, 400
+  offset: 41, 81
+  index: -1
+kulouwang/xushi_04
+  rotate: true
+  xy: 299, 397
+  size: 123, 162
+  orig: 300, 400
+  offset: 88, 143
+  index: -1

@@ -1,0 +1,329 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "calamity spreader_attack01_hit",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "obxElArC42dtN0k5K/ALmDtGCGQ",
+      "spine": "3.3.07",
+      "width": 200,
+      "height": 200,
+      "images": "./../../calamity spreader/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root",
+        "x": -65.17,
+        "y": -63.63
+      },
+      {
+        "name": "bone6",
+        "parent": "root",
+        "x": 223.29,
+        "y": 0.52
+      }
+    ],
+    "slots": [
+      {
+        "name": "fashi/shoujidu_00",
+        "bone": "bone5"
+      },
+      {
+        "name": "fashi/dufang_00",
+        "bone": "bone6",
+        "attachment": "fashi/dufang_10"
+      }
+    ],
+    "skins": {
+      "default": {
+        "fashi/dufang_00": {
+          "fashi/dufang_00": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_01": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_02": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_03": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_04": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_05": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_06": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_07": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_08": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_09": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_10": {
+            "width": 200,
+            "height": 200
+          }
+        },
+        "fashi/shoujidu_00": {
+          "fashi/shoujidu_00": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_02": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_04": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_06": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_08": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_10": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_12": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_14": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_16": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_18": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_20": {
+            "width": 100,
+            "height": 100
+          }
+        }
+      }
+    },
+    "animations": {
+      "hit": {
+        "slots": {
+          "fashi/dufang_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0666,
+                "name": "fashi/dufang_00"
+              },
+              {
+                "time": 0.1333,
+                "name": "fashi/dufang_01"
+              },
+              {
+                "time": 0.2,
+                "name": "fashi/dufang_02"
+              },
+              {
+                "time": 0.2333,
+                "name": "fashi/dufang_03"
+              },
+              {
+                "time": 0.2666,
+                "name": "fashi/dufang_04"
+              },
+              {
+                "time": 0.3,
+                "name": "fashi/dufang_05"
+              },
+              {
+                "time": 0.3333,
+                "name": "fashi/dufang_06"
+              },
+              {
+                "time": 0.3666,
+                "name": "fashi/dufang_07"
+              },
+              {
+                "time": 0.4,
+                "name": "fashi/dufang_08"
+              },
+              {
+                "time": 0.4333,
+                "name": "fashi/dufang_09"
+              },
+              {
+                "time": 0.4666,
+                "name": "fashi/dufang_10"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "fashi/shoujidu_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0666,
+                "name": "fashi/shoujidu_00"
+              },
+              {
+                "time": 0.1333,
+                "name": "fashi/shoujidu_02"
+              },
+              {
+                "time": 0.2,
+                "name": "fashi/shoujidu_04"
+              },
+              {
+                "time": 0.2666,
+                "name": "fashi/shoujidu_06"
+              },
+              {
+                "time": 0.3333,
+                "name": "fashi/shoujidu_08"
+              },
+              {
+                "time": 0.4,
+                "name": "fashi/shoujidu_10"
+              },
+              {
+                "time": 0.4666,
+                "name": "fashi/shoujidu_12"
+              },
+              {
+                "time": 0.5333,
+                "name": "fashi/shoujidu_14"
+              },
+              {
+                "time": 0.6,
+                "name": "fashi/shoujidu_16"
+              },
+              {
+                "time": 0.6666,
+                "name": "fashi/shoujidu_18"
+              },
+              {
+                "time": 0.7333,
+                "name": "fashi/shoujidu_20"
+              },
+              {
+                "time": 0.7666,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone6": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -228.01,
+                "y": 59.24
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 13.2
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 70.93,
+                "y": 121.37
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ncalamity spreader_attack01_hit.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfashi/dufang_00\n  rotate: false\n  xy: 2, 810\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_01\n  rotate: false\n  xy: 2, 608\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_02\n  rotate: false\n  xy: 204, 810\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_03\n  rotate: false\n  xy: 2, 406\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_04\n  rotate: false\n  xy: 204, 608\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_05\n  rotate: false\n  xy: 406, 810\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_06\n  rotate: false\n  xy: 2, 204\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_07\n  rotate: false\n  xy: 204, 406\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_08\n  rotate: false\n  xy: 406, 608\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_09\n  rotate: false\n  xy: 608, 810\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/dufang_10\n  rotate: false\n  xy: 2, 2\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_00\n  rotate: false\n  xy: 204, 304\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_02\n  rotate: false\n  xy: 406, 506\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_04\n  rotate: false\n  xy: 608, 708\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_06\n  rotate: false\n  xy: 810, 910\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_08\n  rotate: false\n  xy: 204, 202\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_10\n  rotate: false\n  xy: 912, 910\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_12\n  rotate: false\n  xy: 204, 100\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_14\n  rotate: false\n  xy: 306, 304\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_16\n  rotate: false\n  xy: 306, 202\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_18\n  rotate: false\n  xy: 306, 100\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_20\n  rotate: false\n  xy: 508, 506\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "ac8efa6a-dd77-4811-96ea-675d80990e40"
+  },
+  "textures": [
+    {
+      "__uuid__": "b01e189a-e1d7-46d1-8779-f1e811a15de9"
+    }
+  ],
+  "scale": 1
+}

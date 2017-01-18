@@ -1,0 +1,34 @@
+
+skeleton minion_attack01_b.png
+size: 715,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sucai/daoguang_1_00
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+sucai/daoguang_1_01
+  rotate: false
+  xy: 204, 2
+  size: 183, 100
+  orig: 200, 100
+  offset: 17, 0
+  index: -1
+sucai/daoguang_1_02
+  rotate: false
+  xy: 389, 6
+  size: 161, 96
+  orig: 200, 100
+  offset: 39, 0
+  index: -1
+sucai/daoguang_1_03
+  rotate: false
+  xy: 552, 63
+  size: 161, 39
+  orig: 200, 100
+  offset: 39, 0
+  index: -1

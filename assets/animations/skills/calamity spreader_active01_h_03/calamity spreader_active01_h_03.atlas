@@ -1,0 +1,83 @@
+
+calamity spreader_active01_h_03.png
+size: 594,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi/shoujidu_00
+  rotate: false
+  xy: 201, 2
+  size: 100, 91
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_02
+  rotate: false
+  xy: 301, 97
+  size: 97, 92
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_04
+  rotate: false
+  xy: 400, 94
+  size: 96, 95
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_06
+  rotate: false
+  xy: 103, 93
+  size: 96, 96
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_08
+  rotate: false
+  xy: 303, 3
+  size: 95, 92
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_10
+  rotate: false
+  xy: 400, 2
+  size: 95, 90
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_12
+  rotate: false
+  xy: 498, 97
+  size: 94, 92
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+fashi/shoujidu_14
+  rotate: false
+  xy: 2, 2
+  size: 96, 89
+  orig: 100, 100
+  offset: 0, 3
+  index: -1
+fashi/shoujidu_16
+  rotate: false
+  xy: 2, 93
+  size: 99, 96
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_18
+  rotate: false
+  xy: 201, 95
+  size: 98, 94
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_20
+  rotate: false
+  xy: 100, 3
+  size: 96, 88
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

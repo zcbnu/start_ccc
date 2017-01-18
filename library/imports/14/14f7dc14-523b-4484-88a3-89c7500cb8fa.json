@@ -1,0 +1,131 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "leisheguangxian_s",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ibpe9hI8WtrbVO9+ShdANcPYOWw",
+      "spine": "2.1.27",
+      "width": 540,
+      "height": 332,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "leisheguangxian_2_a_00000",
+        "bone": "bone",
+        "attachment": "leisheguangxian_2_a_00002"
+      }
+    ],
+    "skins": {
+      "default": {
+        "leisheguangxian_2_a_00000": {
+          "leisheguangxian_2_a_00000": {
+            "x": 1.49,
+            "y": 11.99,
+            "width": 208,
+            "height": 162
+          },
+          "leisheguangxian_2_a_00001": {
+            "x": 0.99,
+            "y": 3.99,
+            "width": 297,
+            "height": 180
+          },
+          "leisheguangxian_2_a_00002": {
+            "x": -2.5,
+            "y": 3.99,
+            "width": 270,
+            "height": 166
+          },
+          "leisheguangxian_2_a_00003": {
+            "x": 5.99,
+            "y": 3.99,
+            "width": 257,
+            "height": 156
+          },
+          "leisheguangxian_2_a_00004": {
+            "x": 13.49,
+            "y": 7.99,
+            "width": 244,
+            "height": 140
+          },
+          "leisheguangxian_2_a_00005": {
+            "x": 7.99,
+            "y": 4.49,
+            "width": 173,
+            "height": 101
+          }
+        }
+      }
+    },
+    "events": {
+      "fire": {}
+    },
+    "animations": {
+      "spellAni": {
+        "slots": {
+          "leisheguangxian_2_a_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "leisheguangxian_2_a_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "leisheguangxian_2_a_00001"
+              },
+              {
+                "time": 0.0666,
+                "name": "leisheguangxian_2_a_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "leisheguangxian_2_a_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "leisheguangxian_2_a_00004"
+              },
+              {
+                "time": 0.1666,
+                "name": "leisheguangxian_2_a_00005"
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0,
+            "name": "fire",
+            "string": "fire\n"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nleisheguangxian_s.png\nsize: 731,338\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nleisheguangxian_2_a_00000\n  rotate: true\n  xy: 569, 130\n  size: 206, 160\n  orig: 208, 162\n  offset: 1, 1\n  index: -1\nleisheguangxian_2_a_00001\n  rotate: false\n  xy: 2, 158\n  size: 295, 178\n  orig: 297, 180\n  offset: 1, 1\n  index: -1\nleisheguangxian_2_a_00002\n  rotate: false\n  xy: 299, 172\n  size: 268, 164\n  orig: 270, 166\n  offset: 1, 1\n  index: -1\nleisheguangxian_2_a_00003\n  rotate: false\n  xy: 2, 2\n  size: 255, 154\n  orig: 257, 156\n  offset: 1, 1\n  index: -1\nleisheguangxian_2_a_00004\n  rotate: false\n  xy: 299, 32\n  size: 242, 138\n  orig: 244, 140\n  offset: 1, 1\n  index: -1\nleisheguangxian_2_a_00005\n  rotate: false\n  xy: 543, 29\n  size: 171, 99\n  orig: 173, 101\n  offset: 1, 1\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "a683f191-5268-487e-9712-f05e1c78b475"
+  },
+  "textures": [
+    {
+      "__uuid__": "36a0c111-b6eb-4b87-a7aa-9e1b0f48c2bd"
+    }
+  ],
+  "scale": 1
+}

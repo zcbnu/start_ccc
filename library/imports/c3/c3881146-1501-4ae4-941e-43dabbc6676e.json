@@ -1,0 +1,118 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_attack01_s_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "fl76lDsonMa9UX/KJ/FFvMxLXBI",
+      "spine": "3.5.46",
+      "width": 400,
+      "height": 400,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": 127.9,
+        "y": 63.74
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/daoguang_00",
+        "bone": "bone",
+        "attachment": "zhengyizhilian/daoguang_04"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/daoguang_00": {
+          "zhengyizhilian/daoguang_02": {
+            "width": 400,
+            "height": 400
+          },
+          "zhengyizhilian/daoguang_04": {
+            "width": 400,
+            "height": 400
+          }
+        }
+      }
+    },
+    "animations": {
+      "spellAni": {
+        "slots": {
+          "zhengyizhilian/daoguang_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/daoguang_02"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/daoguang_04"
+              },
+              {
+                "time": 0.2083,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -2.4,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0833,
+                "angle": 178.8
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -113.02,
+                "y": 28.85
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": -0.79,
+                "y": -0.33
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_attack01_s_b.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/daoguang_02\n  rotate: false\n  xy: 2, 2\n  size: 371, 360\n  orig: 400, 400\n  offset: 0, 0\n  index: -1\nzhengyizhilian/daoguang_04\n  rotate: false\n  xy: 375, 167\n  size: 162, 195\n  orig: 400, 400\n  offset: 203, 194\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "3cd22f1f-1769-4b4d-a6c0-bc0362e1e794"
+  },
+  "textures": [
+    {
+      "__uuid__": "8918b5dc-1bb8-42eb-b74f-cc7395987893"
+    }
+  ],
+  "scale": 1
+}

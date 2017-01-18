@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadow  assassin_attack01_h",
+    "texture": "86be5872-f951-4c89-9987-0e4ebb92b71c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      976,
+      829
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      980,
+      833
+    ]
+  }
+}

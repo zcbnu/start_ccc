@@ -1,0 +1,34 @@
+
+zhanji_b.png
+size: 225,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a00012
+  rotate: false
+  xy: 2, 332
+  size: 220, 196
+  orig: 222, 198
+  offset: 1, 1
+  index: -1
+a00013
+  rotate: true
+  xy: 2, 86
+  size: 244, 122
+  orig: 246, 124
+  offset: 1, 1
+  index: -1
+a00014
+  rotate: true
+  xy: 126, 110
+  size: 220, 97
+  orig: 222, 99
+  offset: 1, 1
+  index: -1
+a00015
+  rotate: false
+  xy: 2, 2
+  size: 212, 82
+  orig: 214, 84
+  offset: 1, 1
+  index: -1

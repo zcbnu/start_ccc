@@ -1,0 +1,111 @@
+
+skeleton king_tech01_b.png
+size: 749,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kulouwang/xie_00
+  rotate: false
+  xy: 669, 7
+  size: 48, 46
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_02
+  rotate: false
+  xy: 508, 2
+  size: 87, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_04
+  rotate: false
+  xy: 212, 2
+  size: 165, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_06
+  rotate: false
+  xy: 2, 54
+  size: 238, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_08
+  rotate: false
+  xy: 2, 106
+  size: 248, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_10
+  rotate: false
+  xy: 252, 106
+  size: 234, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_12
+  rotate: false
+  xy: 2, 2
+  size: 208, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_14
+  rotate: false
+  xy: 242, 54
+  size: 194, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_16
+  rotate: false
+  xy: 488, 106
+  size: 175, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_18
+  rotate: false
+  xy: 438, 54
+  size: 150, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_20
+  rotate: false
+  xy: 379, 2
+  size: 127, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_22
+  rotate: false
+  xy: 590, 55
+  size: 115, 49
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_24
+  rotate: false
+  xy: 665, 110
+  size: 82, 46
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+kulouwang/xie_26
+  rotate: false
+  xy: 597, 16
+  size: 70, 37
+  orig: 300, 50
+  offset: 0, 2
+  index: -1
+kulouwang/xie_28
+  rotate: true
+  xy: 719, 54
+  size: 54, 21
+  orig: 300, 50
+  offset: 0, 11
+  index: -1

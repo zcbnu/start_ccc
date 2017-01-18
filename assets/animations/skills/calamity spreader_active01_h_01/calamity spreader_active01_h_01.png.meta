@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cab4cb30-277c-4f51-a844-f235189bd79f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "calamity spreader_active01_h_01": {
+      "ver": "1.0.3",
+      "uuid": "57e65159-6bf0-4662-9efb-d89ecc397962",
+      "rawTextureUuid": "cab4cb30-277c-4f51-a844-f235189bd79f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 706,
+      "height": 532,
+      "rawWidth": 710,
+      "rawHeight": 536,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

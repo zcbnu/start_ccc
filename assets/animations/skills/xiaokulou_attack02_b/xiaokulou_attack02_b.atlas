@@ -1,0 +1,34 @@
+
+xiaokulou_attack02_b.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiaosucai/daoguang_1_00
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/daoguang_1_01
+  rotate: false
+  xy: 204, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/daoguang_1_02
+  rotate: false
+  xy: 406, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/daoguang_1_03
+  rotate: false
+  xy: 608, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1

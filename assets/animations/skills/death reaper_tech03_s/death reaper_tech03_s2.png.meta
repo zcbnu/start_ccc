@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f4762f2d-b4fa-499a-81f1-4d16f1e38300",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "death reaper_tech03_s2": {
+      "ver": "1.0.3",
+      "uuid": "06ac7b01-1a96-42f6-be56-a23b76690f55",
+      "rawTextureUuid": "f4762f2d-b4fa-499a-81f1-4d16f1e38300",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 363,
+      "height": 236,
+      "rawWidth": 367,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

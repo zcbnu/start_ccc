@@ -1,0 +1,48 @@
+
+calamity spreader_active01_b.png
+size: 458,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi/kulou_00
+  rotate: false
+  xy: 306, 112
+  size: 150, 105
+  orig: 150, 150
+  offset: 0, 20
+  index: -1
+fashi/kulou_02
+  rotate: false
+  xy: 306, 5
+  size: 150, 105
+  orig: 150, 150
+  offset: 0, 20
+  index: -1
+fashi/kulou_04
+  rotate: false
+  xy: 154, 108
+  size: 150, 109
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+fashi/kulou_06
+  rotate: false
+  xy: 2, 107
+  size: 150, 110
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+fashi/kulou_08
+  rotate: false
+  xy: 2, 2
+  size: 150, 103
+  orig: 150, 150
+  offset: 0, 22
+  index: -1
+fashi/kulou_10
+  rotate: false
+  xy: 154, 2
+  size: 150, 104
+  orig: 150, 150
+  offset: 0, 21
+  index: -1

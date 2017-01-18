@@ -1,0 +1,194 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_active01_s",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "eaRXX4KXZhC3uLnZEDUEs9GyCkM",
+      "spine": "3.5.46",
+      "width": 1773.64,
+      "height": 1620.23,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone17",
+        "parent": "root",
+        "x": 159.63,
+        "y": -832.56
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/daoguangguanggggg_00",
+        "bone": "bone17",
+        "attachment": "zhengyizhilian/daoguangguanggggg_12"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/daoguangguanggggg_00": {
+          "zhengyizhilian/daoguangguanggggg_01": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_03": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_04": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_05": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_06": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_07": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_08": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_09": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_10": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_11": {
+            "width": 300,
+            "height": 180
+          },
+          "zhengyizhilian/daoguangguanggggg_12": {
+            "width": 300,
+            "height": 180
+          }
+        }
+      }
+    },
+    "events": {
+      "fire": {}
+    },
+    "animations": {
+      "spellAni": {
+        "slots": {
+          "zhengyizhilian/daoguangguanggggg_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/daoguangguanggggg_01"
+              },
+              {
+                "time": 0.0417,
+                "name": "zhengyizhilian/daoguangguanggggg_03"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/daoguangguanggggg_04"
+              },
+              {
+                "time": 0.125,
+                "name": "zhengyizhilian/daoguangguanggggg_05"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/daoguangguanggggg_06"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/daoguangguanggggg_07"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/daoguangguanggggg_08"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/daoguangguanggggg_09"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/daoguangguanggggg_10"
+              },
+              {
+                "time": 0.5833,
+                "name": "zhengyizhilian/daoguangguanggggg_11"
+              },
+              {
+                "time": 0.6667,
+                "name": "zhengyizhilian/daoguangguanggggg_12"
+              },
+              {
+                "time": 0.75,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone17": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -143.94,
+                "y": 841.91
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.6,
+                "y": 1.6
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.4167,
+            "name": "fire"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_active01_s.png\nsize: 757,456\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/daoguangguanggggg_01\n  rotate: true\n  xy: 631, 12\n  size: 187, 124\n  orig: 300, 180\n  offset: 35, 40\n  index: -1\nzhengyizhilian/daoguangguanggggg_03\n  rotate: false\n  xy: 278, 329\n  size: 196, 125\n  orig: 300, 180\n  offset: 30, 39\n  index: -1\nzhengyizhilian/daoguangguanggggg_04\n  rotate: false\n  xy: 278, 202\n  size: 196, 125\n  orig: 300, 180\n  offset: 30, 39\n  index: -1\nzhengyizhilian/daoguangguanggggg_05\n  rotate: false\n  xy: 476, 201\n  size: 196, 125\n  orig: 300, 180\n  offset: 30, 39\n  index: -1\nzhengyizhilian/daoguangguanggggg_06\n  rotate: true\n  xy: 147, 165\n  size: 289, 129\n  orig: 300, 180\n  offset: 0, 40\n  index: -1\nzhengyizhilian/daoguangguanggggg_07\n  rotate: false\n  xy: 268, 2\n  size: 234, 161\n  orig: 300, 180\n  offset: 0, 3\n  index: -1\nzhengyizhilian/daoguangguanggggg_08\n  rotate: true\n  xy: 2, 154\n  size: 300, 143\n  orig: 300, 180\n  offset: 0, 13\n  index: -1\nzhengyizhilian/daoguangguanggggg_09\n  rotate: false\n  xy: 2, 9\n  size: 264, 143\n  orig: 300, 180\n  offset: 36, 20\n  index: -1\nzhengyizhilian/daoguangguanggggg_10\n  rotate: false\n  xy: 504, 328\n  size: 250, 126\n  orig: 300, 180\n  offset: 30, 39\n  index: -1\nzhengyizhilian/daoguangguanggggg_11\n  rotate: true\n  xy: 504, 7\n  size: 192, 125\n  orig: 300, 180\n  offset: 32, 39\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "4611f647-4e43-4e4d-ad5c-78883ce8029c"
+  },
+  "textures": [
+    {
+      "__uuid__": "5f3db10d-c8ab-45ba-aa04-7fa8e1b3351f"
+    }
+  ],
+  "scale": 1
+}

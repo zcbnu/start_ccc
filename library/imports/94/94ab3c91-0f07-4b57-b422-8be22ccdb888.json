@@ -1,0 +1,155 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton king_tech02_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "gp14Hl08KWMRo51n5bm0M3IUSRk",
+      "spine": "3.5.46",
+      "width": 200,
+      "height": 200,
+      "fps": 24,
+      "images": "./../../Skeleton King/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "y": 1.19
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "x": -64.3,
+        "y": 32.29
+      }
+    ],
+    "slots": [
+      {
+        "name": "kulouwang/zhaohuan_00",
+        "bone": "bone3",
+        "attachment": "kulouwang/zhaohuan_09"
+      }
+    ],
+    "skins": {
+      "default": {
+        "kulouwang/zhaohuan_00": {
+          "kulouwang/zhaohuan_00": {
+            "width": 200,
+            "height": 200
+          },
+          "kulouwang/zhaohuan_02": {
+            "width": 200,
+            "height": 200
+          },
+          "kulouwang/zhaohuan_04": {
+            "width": 200,
+            "height": 200
+          },
+          "kulouwang/zhaohuan_06": {
+            "width": 200,
+            "height": 200
+          },
+          "kulouwang/zhaohuan_08": {
+            "width": 200,
+            "height": 200
+          },
+          "kulouwang/zhaohuan_09": {
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "kulouwang/zhaohuan_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "kulouwang/zhaohuan_00"
+              },
+              {
+                "time": 0.0417,
+                "name": "kulouwang/zhaohuan_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "kulouwang/zhaohuan_04"
+              },
+              {
+                "time": 0.2917,
+                "name": "kulouwang/zhaohuan_06"
+              },
+              {
+                "time": 0.375,
+                "name": "kulouwang/zhaohuan_08"
+              },
+              {
+                "time": 0.4167,
+                "name": "kulouwang/zhaohuan_09"
+              },
+              {
+                "time": 0.4583,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 138.3,
+                "y": 117.71
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.2917,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nskeleton king_tech02_b.png\nsize: 1010,204\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nkulouwang/zhaohuan_00\n  rotate: false\n  xy: 885, 80\n  size: 123, 122\n  orig: 200, 200\n  offset: 41, 43\n  index: -1\nkulouwang/zhaohuan_02\n  rotate: false\n  xy: 2, 2\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nkulouwang/zhaohuan_04\n  rotate: false\n  xy: 204, 2\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\nkulouwang/zhaohuan_06\n  rotate: true\n  xy: 406, 2\n  size: 200, 189\n  orig: 200, 200\n  offset: 0, 2\n  index: -1\nkulouwang/zhaohuan_08\n  rotate: true\n  xy: 597, 40\n  size: 162, 159\n  orig: 200, 200\n  offset: 22, 17\n  index: -1\nkulouwang/zhaohuan_09\n  rotate: true\n  xy: 758, 76\n  size: 126, 125\n  orig: 200, 200\n  offset: 41, 40\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "c8849b51-e611-4e2e-8d6c-4e9d77718ad7"
+  },
+  "textures": [
+    {
+      "__uuid__": "c80b7d53-557b-4ede-aa56-b7867cacafe1"
+    }
+  ],
+  "scale": 1
+}

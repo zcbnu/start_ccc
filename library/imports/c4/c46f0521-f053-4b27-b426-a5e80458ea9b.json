@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "death reaper_attack01_s_b",
+    "texture": "8918b5dc-1bb8-42eb-b74f-cc7395987893",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      535,
+      360
+    ],
+    "offset": [
+      -242.5,
+      74
+    ],
+    "originalSize": [
+      1024,
+      512
+    ]
+  }
+}

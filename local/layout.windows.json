@@ -1,0 +1,93 @@
+{
+  "version": "1.1.0",
+  "windows": {
+    "main": {
+      "x": -1920,
+      "y": 23,
+      "width": 1920,
+      "height": 1057,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 481.5,
+                "type": "panel",
+                "width": 385
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 481.5,
+                "type": "panel",
+                "width": 385
+              }
+            ],
+            "height": 966,
+            "type": "dock-v",
+            "width": 385
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "active": 0,
+                    "children": [
+                      "scene"
+                    ],
+                    "height": 455,
+                    "type": "panel",
+                    "width": 823
+                  },
+                  {
+                    "active": 0,
+                    "children": [
+                      "node-library"
+                    ],
+                    "height": 455,
+                    "type": "panel",
+                    "width": 246
+                  }
+                ],
+                "height": 455,
+                "type": "dock-h",
+                "width": 1072
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 508,
+                "type": "panel",
+                "width": 1072
+              }
+            ],
+            "height": 966,
+            "type": "dock-v",
+            "width": 1072
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 966,
+            "type": "panel",
+            "width": 451
+          }
+        ],
+        "snapshot": true,
+        "type": "dock-h"
+      }
+    }
+  }
+}

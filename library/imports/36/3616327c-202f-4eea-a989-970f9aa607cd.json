@@ -1,0 +1,142 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "leidian_h",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "46VgtlLsSlQUqNhKUhub+5VDqoo",
+      "spine": "2.1.27",
+      "width": 302.4,
+      "height": 356.39,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": 13.26,
+        "scaleX": 1.8,
+        "scaleY": 1.8
+      }
+    ],
+    "slots": [
+      {
+        "name": "leidianshoushuxiaoguo_3_a_00000",
+        "bone": "bone",
+        "attachment": "leidianshoushuxiaoguo_3_a_00005"
+      }
+    ],
+    "skins": {
+      "default": {
+        "leidianshoushuxiaoguo_3_a_00000": {
+          "leidianshoushuxiaoguo_3_a_00000": {
+            "width": 300,
+            "height": 301
+          },
+          "leidianshoushuxiaoguo_3_a_00001": {
+            "x": 3.23,
+            "y": 3.4,
+            "width": 324,
+            "height": 325
+          },
+          "leidianshoushuxiaoguo_3_a_00002": {
+            "x": 2.73,
+            "y": 2.4,
+            "width": 311,
+            "height": 313
+          },
+          "leidianshoushuxiaoguo_3_a_00003": {
+            "x": 1.23,
+            "y": -1.59,
+            "width": 196,
+            "height": 197
+          },
+          "leidianshoushuxiaoguo_3_a_00004": {
+            "x": -9.76,
+            "y": 2.4,
+            "width": 166,
+            "height": 197
+          },
+          "leidianshoushuxiaoguo_3_a_00005": {
+            "x": -10.76,
+            "y": 3.9,
+            "width": 168,
+            "height": 198
+          },
+          "leidianshoushuxiaoguo_3_a_00006": {
+            "x": -10.76,
+            "y": 9.4,
+            "width": 168,
+            "height": 189
+          }
+        }
+      }
+    },
+    "events": {
+      "finish": {
+        "string": "finish\n"
+      }
+    },
+    "animations": {
+      "hitAni": {
+        "slots": {
+          "leidianshoushuxiaoguo_3_a_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "leidianshoushuxiaoguo_3_a_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "leidianshoushuxiaoguo_3_a_00001"
+              },
+              {
+                "time": 0.0666,
+                "name": "leidianshoushuxiaoguo_3_a_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "leidianshoushuxiaoguo_3_a_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "leidianshoushuxiaoguo_3_a_00004"
+              },
+              {
+                "time": 0.1666,
+                "name": "leidianshoushuxiaoguo_3_a_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "leidianshoushuxiaoguo_3_a_00006"
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.2,
+            "name": "finish",
+            "string": "finish\n\n"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nleidian_h.png\nsize: 781,640\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nleidianshoushuxiaoguo_3_a_00000\n  rotate: false\n  xy: 313, 14\n  size: 298, 299\n  orig: 300, 301\n  offset: 1, 1\n  index: -1\nleidianshoushuxiaoguo_3_a_00001\n  rotate: false\n  xy: 2, 315\n  size: 322, 323\n  orig: 324, 325\n  offset: 1, 1\n  index: -1\nleidianshoushuxiaoguo_3_a_00002\n  rotate: false\n  xy: 2, 2\n  size: 309, 311\n  orig: 311, 313\n  offset: 1, 1\n  index: -1\nleidianshoushuxiaoguo_3_a_00003\n  rotate: true\n  xy: 326, 444\n  size: 194, 195\n  orig: 196, 197\n  offset: 1, 1\n  index: -1\nleidianshoushuxiaoguo_3_a_00004\n  rotate: false\n  xy: 613, 245\n  size: 164, 195\n  orig: 166, 197\n  offset: 1, 1\n  index: -1\nleidianshoushuxiaoguo_3_a_00005\n  rotate: false\n  xy: 613, 442\n  size: 166, 196\n  orig: 168, 198\n  offset: 1, 1\n  index: -1\nleidianshoushuxiaoguo_3_a_00006\n  rotate: false\n  xy: 613, 56\n  size: 166, 187\n  orig: 168, 189\n  offset: 1, 1\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "af3a420a-47a7-4c9c-878f-aabe5359e328"
+  },
+  "textures": [
+    {
+      "__uuid__": "0fa15af2-eb4e-42dc-8839-f6b275bb47b4"
+    }
+  ],
+  "scale": 1
+}

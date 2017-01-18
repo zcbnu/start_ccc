@@ -1,0 +1,48 @@
+
+death reaper_hit_h.png
+size: 968,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/shouji_00
+  rotate: false
+  xy: 168, 3
+  size: 163, 163
+  orig: 200, 200
+  offset: 17, 21
+  index: -1
+zhengyizhilian/shouji_01
+  rotate: false
+  xy: 333, 3
+  size: 163, 163
+  orig: 200, 200
+  offset: 21, 17
+  index: -1
+zhengyizhilian/shouji_02
+  rotate: false
+  xy: 498, 6
+  size: 165, 160
+  orig: 200, 200
+  offset: 19, 25
+  index: -1
+zhengyizhilian/shouji_03
+  rotate: false
+  xy: 2, 2
+  size: 164, 164
+  orig: 200, 200
+  offset: 15, 22
+  index: -1
+zhengyizhilian/shouji_04
+  rotate: false
+  xy: 819, 19
+  size: 147, 147
+  orig: 200, 200
+  offset: 25, 29
+  index: -1
+zhengyizhilian/shouji_05
+  rotate: false
+  xy: 665, 14
+  size: 152, 152
+  orig: 200, 200
+  offset: 24, 25
+  index: -1

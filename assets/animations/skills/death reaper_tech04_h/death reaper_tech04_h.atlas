@@ -1,0 +1,104 @@
+
+death reaper_tech04_h.png
+size: 946,918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/xin_00
+  rotate: true
+  xy: 765, 494
+  size: 194, 179
+  orig: 250, 400
+  offset: 28, 181
+  index: -1
+zhengyizhilian/xin_02
+  rotate: false
+  xy: 486, 224
+  size: 200, 238
+  orig: 250, 400
+  offset: 24, 125
+  index: -1
+zhengyizhilian/xin_06
+  rotate: false
+  xy: 2, 104
+  size: 209, 274
+  orig: 250, 400
+  offset: 18, 86
+  index: -1
+zhengyizhilian/xin_10
+  rotate: true
+  xy: 515, 690
+  size: 226, 262
+  orig: 250, 400
+  offset: 14, 87
+  index: -1
+zhengyizhilian/xin_12
+  rotate: true
+  xy: 515, 471
+  size: 217, 248
+  orig: 250, 400
+  offset: 13, 94
+  index: -1
+zhengyizhilian/xin_14
+  rotate: true
+  xy: 246, 464
+  size: 219, 257
+  orig: 250, 400
+  offset: 12, 79
+  index: -1
+zhengyizhilian/xin_16
+  rotate: true
+  xy: 688, 239
+  size: 230, 226
+  orig: 250, 400
+  offset: 2, 103
+  index: -1
+zhengyizhilian/xin_18
+  rotate: false
+  xy: 2, 380
+  size: 223, 275
+  orig: 250, 400
+  offset: 9, 46
+  index: -1
+zhengyizhilian/xin_20
+  rotate: true
+  xy: 213, 4
+  size: 226, 252
+  orig: 250, 400
+  offset: 7, 62
+  index: -1
+zhengyizhilian/xin_22
+  rotate: true
+  xy: 227, 232
+  size: 230, 257
+  orig: 250, 400
+  offset: 7, 49
+  index: -1
+zhengyizhilian/xin_24
+  rotate: true
+  xy: 246, 685
+  size: 231, 267
+  orig: 250, 400
+  offset: 1, 29
+  index: -1
+zhengyizhilian/xin_26
+  rotate: false
+  xy: 2, 657
+  size: 242, 259
+  orig: 250, 400
+  offset: 0, 20
+  index: -1
+zhengyizhilian/xin_28
+  rotate: true
+  xy: 467, 2
+  size: 220, 243
+  orig: 250, 400
+  offset: 6, 18
+  index: -1
+zhengyizhilian/xin_30
+  rotate: false
+  xy: 712, 11
+  size: 225, 226
+  orig: 250, 400
+  offset: 1, 6
+  index: -1

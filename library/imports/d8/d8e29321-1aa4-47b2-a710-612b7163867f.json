@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bingqiang_s",
+    "texture": "50ece7a0-ef4e-473d-a412-52179318750f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      232,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      236,
+      138
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_tech03_b_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "MH6FoBaQUMeyeeSXMM2zS6yhagw",
+      "spine": "3.5.46",
+      "width": 400,
+      "height": 150,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone18",
+        "parent": "root",
+        "x": 511.46,
+        "y": 64.23
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/dimian_0",
+        "bone": "bone18",
+        "attachment": "zhengyizhilian/dimian_14"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/dimian_0": {
+          "zhengyizhilian/dimian_00": {
+            "width": 400,
+            "height": 150
+          },
+          "zhengyizhilian/dimian_02": {
+            "width": 400,
+            "height": 150
+          },
+          "zhengyizhilian/dimian_04": {
+            "width": 400,
+            "height": 150
+          },
+          "zhengyizhilian/dimian_06": {
+            "width": 400,
+            "height": 150
+          },
+          "zhengyizhilian/dimian_08": {
+            "width": 400,
+            "height": 150
+          },
+          "zhengyizhilian/dimian_10": {
+            "width": 400,
+            "height": 150
+          },
+          "zhengyizhilian/dimian_12": {
+            "width": 400,
+            "height": 150
+          },
+          "zhengyizhilian/dimian_14": {
+            "width": 400,
+            "height": 150
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "zhengyizhilian/dimian_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/dimian_00"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/dimian_02"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/dimian_04"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/dimian_06"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/dimian_08"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/dimian_10"
+              },
+              {
+                "time": 0.5833,
+                "name": "zhengyizhilian/dimian_12"
+              },
+              {
+                "time": 0.6667,
+                "name": "zhengyizhilian/dimian_14"
+              },
+              {
+                "time": 0.7083,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone18": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -511.46,
+                "y": -64.23
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.5,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_tech03_b_b.png\nsize: 952,229\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/dimian_00\n  rotate: false\n  xy: 805, 51\n  size: 140, 63\n  orig: 400, 150\n  offset: 131, 44\n  index: -1\nzhengyizhilian/dimian_02\n  rotate: false\n  xy: 635, 28\n  size: 168, 75\n  orig: 400, 150\n  offset: 117, 37\n  index: -1\nzhengyizhilian/dimian_04\n  rotate: false\n  xy: 207, 16\n  size: 181, 76\n  orig: 400, 150\n  offset: 110, 37\n  index: -1\nzhengyizhilian/dimian_06\n  rotate: false\n  xy: 2, 7\n  size: 203, 85\n  orig: 400, 150\n  offset: 99, 32\n  index: -1\nzhengyizhilian/dimian_08\n  rotate: false\n  xy: 390, 2\n  size: 243, 101\n  orig: 400, 150\n  offset: 79, 23\n  index: -1\nzhengyizhilian/dimian_10\n  rotate: false\n  xy: 658, 116\n  size: 292, 111\n  orig: 400, 150\n  offset: 53, 17\n  index: -1\nzhengyizhilian/dimian_12\n  rotate: false\n  xy: 346, 105\n  size: 310, 122\n  orig: 400, 150\n  offset: 45, 10\n  index: -1\nzhengyizhilian/dimian_14\n  rotate: false\n  xy: 2, 94\n  size: 342, 133\n  orig: 400, 150\n  offset: 29, 3\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "f224cd72-58c0-4429-b4e9-329742958a45"
+  },
+  "textures": [
+    {
+      "__uuid__": "af664f88-747d-4fe5-83be-22c60c29086e"
+    }
+  ],
+  "scale": 1
+}

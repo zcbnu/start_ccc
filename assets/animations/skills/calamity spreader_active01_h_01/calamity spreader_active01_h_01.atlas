@@ -1,0 +1,83 @@
+
+calamity spreader_active01_h_01.png
+size: 710,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi/toudu_00
+  rotate: false
+  xy: 385, 358
+  size: 186, 176
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+fashi/toudu_02
+  rotate: false
+  xy: 2, 358
+  size: 193, 176
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+fashi/toudu_04
+  rotate: true
+  xy: 192, 2
+  size: 174, 176
+  orig: 200, 200
+  offset: 4, 5
+  index: -1
+fashi/toudu_06
+  rotate: false
+  xy: 377, 177
+  size: 170, 176
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+fashi/toudu_08
+  rotate: false
+  xy: 549, 179
+  size: 156, 177
+  orig: 200, 200
+  offset: 19, 7
+  index: -1
+fashi/toudu_10
+  rotate: false
+  xy: 546, 3
+  size: 162, 172
+  orig: 200, 200
+  offset: 18, 9
+  index: -1
+fashi/toudu_12
+  rotate: true
+  xy: 370, 9
+  size: 166, 174
+  orig: 200, 200
+  offset: 12, 7
+  index: -1
+fashi/toudu_14
+  rotate: false
+  xy: 197, 178
+  size: 178, 175
+  orig: 200, 200
+  offset: 4, 6
+  index: -1
+fashi/toudu_16
+  rotate: false
+  xy: 2, 3
+  size: 188, 175
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+fashi/toudu_18
+  rotate: false
+  xy: 2, 180
+  size: 193, 176
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+fashi/toudu_20
+  rotate: false
+  xy: 197, 355
+  size: 186, 179
+  orig: 200, 200
+  offset: 0, 6
+  index: -1

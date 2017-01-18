@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tomb",
+    "texture": "cde1a271-c39f-470a-bf5f-a17cd3a682fe",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      46,
+      49
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      50,
+      50
+    ]
+  }
+}

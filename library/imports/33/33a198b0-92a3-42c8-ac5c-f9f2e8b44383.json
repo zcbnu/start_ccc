@@ -1,0 +1,1246 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "calamity spreader_ball",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "zA3ZmXIS7qN2bgd+oNzT1jRD0+4",
+      "spine": "3.5.46",
+      "width": 0,
+      "height": 0,
+      "images": "./../../calamity spreader_ball/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "attack01_ball_0000",
+        "bone": "bone"
+      }
+    ],
+    "skins": {
+      "default": {
+        "attack01_ball_0000": {
+          "enter01_ball_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0021": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0023": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0025": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0026": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0027": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0028": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0029": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0030": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0031": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0032": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0033": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0034": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0035": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0036": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0037": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0038": {
+            "width": 512,
+            "height": 512
+          },
+          "enter01_ball_0039": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "enter02_ball_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "hit_ball_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0000": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0001": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0002": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0003": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0004": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0005": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0006": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0007": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0008": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0009": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0013": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0014": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0015": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0016": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0017": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0018": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0019": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0020": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0021": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0022": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0023": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0024": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0025": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0026": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0027": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0028": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0029": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0030": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0031": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0032": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0033": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0034": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0035": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0036": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0037": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0038": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0039": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0040": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0041": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0042": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0043": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0044": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0045": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0046": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0047": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0048": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0049": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0050": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0051": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0052": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0053": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0054": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0055": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0056": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0057": {
+            "width": 512,
+            "height": 512
+          },
+          "stand_ball_0058": {
+            "width": 512,
+            "height": 512
+          }
+        }
+      }
+    },
+    "events": {
+      "skill_pause": {}
+    },
+    "animations": {
+      "die": {
+        "slots": {
+          "attack01_ball_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "hit_ball_0000"
+              },
+              {
+                "time": 0.0333,
+                "name": "hit_ball_0001"
+              },
+              {
+                "time": 0.0667,
+                "name": "hit_ball_0002"
+              },
+              {
+                "time": 0.1,
+                "name": "hit_ball_0003"
+              },
+              {
+                "time": 0.1333,
+                "name": "hit_ball_0004"
+              },
+              {
+                "time": 0.1667,
+                "name": "hit_ball_0005"
+              },
+              {
+                "time": 0.2,
+                "name": "hit_ball_0006"
+              },
+              {
+                "time": 0.2333,
+                "name": "hit_ball_0007"
+              },
+              {
+                "time": 0.2667,
+                "name": "hit_ball_0008"
+              },
+              {
+                "time": 0.3,
+                "name": "hit_ball_0009"
+              },
+              {
+                "time": 0.3333,
+                "name": "hit_ball_0009"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0.3333,
+                "angle": 29.54
+              },
+              {
+                "time": 0.3667,
+                "angle": 27.07
+              },
+              {
+                "time": 0.4,
+                "angle": 24.74
+              },
+              {
+                "time": 0.4667,
+                "angle": 31.94
+              },
+              {
+                "time": 0.6,
+                "angle": 60.65
+              },
+              {
+                "time": 0.7333,
+                "angle": 51.08
+              },
+              {
+                "time": 0.8667,
+                "angle": 60.65
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.3333,
+                "x": 45.65,
+                "y": -29.92
+              },
+              {
+                "time": 0.4667,
+                "x": 41.65,
+                "y": -57.1
+              },
+              {
+                "time": 0.6,
+                "x": 64.42,
+                "y": -44.9
+              },
+              {
+                "time": 0.7333,
+                "x": 54.98,
+                "y": -48.96
+              },
+              {
+                "time": 0.8667,
+                "x": 64.42,
+                "y": -44.9
+              }
+            ]
+          }
+        }
+      },
+      "enter_01": {
+        "slots": {
+          "attack01_ball_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "enter01_ball_0000"
+              },
+              {
+                "time": 0.0333,
+                "name": "enter01_ball_0001"
+              },
+              {
+                "time": 0.0667,
+                "name": "enter01_ball_0002"
+              },
+              {
+                "time": 0.1,
+                "name": "enter01_ball_0003"
+              },
+              {
+                "time": 0.1333,
+                "name": "enter01_ball_0004"
+              },
+              {
+                "time": 0.1667,
+                "name": "enter01_ball_0005"
+              },
+              {
+                "time": 0.2,
+                "name": "enter01_ball_0006"
+              },
+              {
+                "time": 0.2333,
+                "name": "enter01_ball_0007"
+              },
+              {
+                "time": 0.2667,
+                "name": "enter01_ball_0008"
+              },
+              {
+                "time": 0.3,
+                "name": "enter01_ball_0009"
+              },
+              {
+                "time": 0.3333,
+                "name": "enter01_ball_0010"
+              },
+              {
+                "time": 0.3667,
+                "name": "enter01_ball_0011"
+              },
+              {
+                "time": 0.4,
+                "name": "enter01_ball_0012"
+              },
+              {
+                "time": 0.4333,
+                "name": "enter01_ball_0013"
+              },
+              {
+                "time": 0.4667,
+                "name": "enter01_ball_0014"
+              },
+              {
+                "time": 0.5,
+                "name": "enter01_ball_0015"
+              },
+              {
+                "time": 0.5333,
+                "name": "enter01_ball_0016"
+              },
+              {
+                "time": 0.5667,
+                "name": "enter01_ball_0017"
+              },
+              {
+                "time": 0.6,
+                "name": "enter01_ball_0018"
+              },
+              {
+                "time": 0.6333,
+                "name": "enter01_ball_0019"
+              },
+              {
+                "time": 0.6667,
+                "name": "enter01_ball_0020"
+              },
+              {
+                "time": 0.7,
+                "name": "enter01_ball_0021"
+              },
+              {
+                "time": 0.7333,
+                "name": "enter01_ball_0022"
+              },
+              {
+                "time": 0.7667,
+                "name": "enter01_ball_0023"
+              },
+              {
+                "time": 0.8,
+                "name": "enter01_ball_0024"
+              },
+              {
+                "time": 0.8333,
+                "name": "enter01_ball_0025"
+              },
+              {
+                "time": 0.8667,
+                "name": "enter01_ball_0026"
+              },
+              {
+                "time": 0.9,
+                "name": "enter01_ball_0027"
+              },
+              {
+                "time": 0.9333,
+                "name": "enter01_ball_0028"
+              },
+              {
+                "time": 0.9667,
+                "name": "enter01_ball_0029"
+              },
+              {
+                "time": 1,
+                "name": "enter01_ball_0030"
+              },
+              {
+                "time": 1.0333,
+                "name": "enter01_ball_0031"
+              },
+              {
+                "time": 1.0667,
+                "name": "enter01_ball_0032"
+              },
+              {
+                "time": 1.1,
+                "name": "enter01_ball_0033"
+              },
+              {
+                "time": 1.1333,
+                "name": "enter01_ball_0034"
+              },
+              {
+                "time": 1.1667,
+                "name": "enter01_ball_0035"
+              },
+              {
+                "time": 1.2,
+                "name": "enter01_ball_0036"
+              },
+              {
+                "time": 1.2333,
+                "name": "enter01_ball_0037"
+              },
+              {
+                "time": 1.2667,
+                "name": "enter01_ball_0038"
+              },
+              {
+                "time": 1.3,
+                "name": "enter01_ball_0039"
+              }
+            ]
+          }
+        }
+      },
+      "enter_02": {
+        "slots": {
+          "attack01_ball_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "enter02_ball_0000"
+              },
+              {
+                "time": 0.0333,
+                "name": "enter02_ball_0001"
+              },
+              {
+                "time": 0.0667,
+                "name": "enter02_ball_0002"
+              },
+              {
+                "time": 0.1,
+                "name": "enter02_ball_0003"
+              },
+              {
+                "time": 0.1333,
+                "name": "enter02_ball_0004"
+              },
+              {
+                "time": 0.1667,
+                "name": "enter02_ball_0005"
+              },
+              {
+                "time": 0.2,
+                "name": "enter02_ball_0006"
+              },
+              {
+                "time": 0.2333,
+                "name": "enter02_ball_0007"
+              },
+              {
+                "time": 0.2667,
+                "name": "enter02_ball_0008"
+              },
+              {
+                "time": 0.3,
+                "name": "enter02_ball_0009"
+              },
+              {
+                "time": 0.3333,
+                "name": "enter02_ball_0010"
+              }
+            ]
+          }
+        }
+      },
+      "hit": {
+        "slots": {
+          "attack01_ball_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "hit_ball_0000"
+              },
+              {
+                "time": 0.0333,
+                "name": "hit_ball_0001"
+              },
+              {
+                "time": 0.0667,
+                "name": "hit_ball_0002"
+              },
+              {
+                "time": 0.1,
+                "name": "hit_ball_0003"
+              },
+              {
+                "time": 0.1333,
+                "name": "hit_ball_0004"
+              },
+              {
+                "time": 0.1667,
+                "name": "hit_ball_0005"
+              },
+              {
+                "time": 0.2,
+                "name": "hit_ball_0006"
+              },
+              {
+                "time": 0.2333,
+                "name": "hit_ball_0007"
+              },
+              {
+                "time": 0.2667,
+                "name": "hit_ball_0008"
+              },
+              {
+                "time": 0.3,
+                "name": "hit_ball_0009"
+              },
+              {
+                "time": 0.3333,
+                "name": "hit_ball_0010"
+              },
+              {
+                "time": 0.3667,
+                "name": "hit_ball_0011"
+              },
+              {
+                "time": 0.4,
+                "name": "hit_ball_0012"
+              },
+              {
+                "time": 0.4333,
+                "name": "hit_ball_0013"
+              },
+              {
+                "time": 0.4667,
+                "name": "hit_ball_0014"
+              },
+              {
+                "time": 0.5,
+                "name": "hit_ball_0015"
+              },
+              {
+                "time": 0.5333,
+                "name": "hit_ball_0016"
+              },
+              {
+                "time": 0.5667,
+                "name": "hit_ball_0017"
+              },
+              {
+                "time": 0.6,
+                "name": "hit_ball_0018"
+              },
+              {
+                "time": 0.6333,
+                "name": "hit_ball_0019"
+              },
+              {
+                "time": 0.6667,
+                "name": "hit_ball_0020"
+              }
+            ]
+          }
+        }
+      },
+      "stand": {
+        "slots": {
+          "attack01_ball_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "stand_ball_0000"
+              },
+              {
+                "time": 0.0333,
+                "name": "stand_ball_0001"
+              },
+              {
+                "time": 0.0667,
+                "name": "stand_ball_0002"
+              },
+              {
+                "time": 0.1,
+                "name": "stand_ball_0003"
+              },
+              {
+                "time": 0.1333,
+                "name": "stand_ball_0004"
+              },
+              {
+                "time": 0.1667,
+                "name": "stand_ball_0005"
+              },
+              {
+                "time": 0.2,
+                "name": "stand_ball_0006"
+              },
+              {
+                "time": 0.2333,
+                "name": "stand_ball_0007"
+              },
+              {
+                "time": 0.2667,
+                "name": "stand_ball_0008"
+              },
+              {
+                "time": 0.3,
+                "name": "stand_ball_0009"
+              },
+              {
+                "time": 0.3333,
+                "name": "stand_ball_0010"
+              },
+              {
+                "time": 0.3667,
+                "name": "stand_ball_0011"
+              },
+              {
+                "time": 0.4,
+                "name": "stand_ball_0012"
+              },
+              {
+                "time": 0.4333,
+                "name": "stand_ball_0013"
+              },
+              {
+                "time": 0.4667,
+                "name": "stand_ball_0014"
+              },
+              {
+                "time": 0.5,
+                "name": "stand_ball_0015"
+              },
+              {
+                "time": 0.5333,
+                "name": "stand_ball_0016"
+              },
+              {
+                "time": 0.5667,
+                "name": "stand_ball_0017"
+              },
+              {
+                "time": 0.6,
+                "name": "stand_ball_0018"
+              },
+              {
+                "time": 0.6333,
+                "name": "stand_ball_0019"
+              },
+              {
+                "time": 0.6667,
+                "name": "stand_ball_0020"
+              },
+              {
+                "time": 0.7,
+                "name": "stand_ball_0021"
+              },
+              {
+                "time": 0.7333,
+                "name": "stand_ball_0022"
+              },
+              {
+                "time": 0.7667,
+                "name": "stand_ball_0023"
+              },
+              {
+                "time": 0.8,
+                "name": "stand_ball_0024"
+              },
+              {
+                "time": 0.8333,
+                "name": "stand_ball_0025"
+              },
+              {
+                "time": 0.8667,
+                "name": "stand_ball_0026"
+              },
+              {
+                "time": 0.9,
+                "name": "stand_ball_0027"
+              },
+              {
+                "time": 0.9333,
+                "name": "stand_ball_0028"
+              },
+              {
+                "time": 0.9667,
+                "name": "stand_ball_0029"
+              },
+              {
+                "time": 1,
+                "name": "stand_ball_0030"
+              },
+              {
+                "time": 1.0333,
+                "name": "stand_ball_0031"
+              },
+              {
+                "time": 1.0667,
+                "name": "stand_ball_0032"
+              },
+              {
+                "time": 1.1,
+                "name": "stand_ball_0033"
+              },
+              {
+                "time": 1.1333,
+                "name": "stand_ball_0034"
+              },
+              {
+                "time": 1.1667,
+                "name": "stand_ball_0035"
+              },
+              {
+                "time": 1.2,
+                "name": "stand_ball_0036"
+              },
+              {
+                "time": 1.2333,
+                "name": "stand_ball_0037"
+              },
+              {
+                "time": 1.2667,
+                "name": "stand_ball_0038"
+              },
+              {
+                "time": 1.3,
+                "name": "stand_ball_0039"
+              },
+              {
+                "time": 1.3333,
+                "name": "stand_ball_0040"
+              },
+              {
+                "time": 1.3667,
+                "name": "stand_ball_0041"
+              },
+              {
+                "time": 1.4,
+                "name": "stand_ball_0042"
+              },
+              {
+                "time": 1.4333,
+                "name": "stand_ball_0043"
+              },
+              {
+                "time": 1.4667,
+                "name": "stand_ball_0044"
+              },
+              {
+                "time": 1.5,
+                "name": "stand_ball_0045"
+              },
+              {
+                "time": 1.5333,
+                "name": "stand_ball_0046"
+              },
+              {
+                "time": 1.5667,
+                "name": "stand_ball_0047"
+              },
+              {
+                "time": 1.6,
+                "name": "stand_ball_0048"
+              },
+              {
+                "time": 1.6333,
+                "name": "stand_ball_0049"
+              },
+              {
+                "time": 1.6667,
+                "name": "stand_ball_0050"
+              },
+              {
+                "time": 1.7,
+                "name": "stand_ball_0051"
+              },
+              {
+                "time": 1.7333,
+                "name": "stand_ball_0052"
+              },
+              {
+                "time": 1.7667,
+                "name": "stand_ball_0053"
+              },
+              {
+                "time": 1.8,
+                "name": "stand_ball_0054"
+              },
+              {
+                "time": 1.8333,
+                "name": "stand_ball_0055"
+              },
+              {
+                "time": 1.8667,
+                "name": "stand_ball_0056"
+              },
+              {
+                "time": 1.9,
+                "name": "stand_ball_0057"
+              },
+              {
+                "time": 1.9333,
+                "name": "stand_ball_0058"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ncalamity spreader_ball.png\nsize: 836,148\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nenter01_ball_0000\n  rotate: false\n  xy: 794, 99\n  size: 19, 22\n  orig: 512, 512\n  offset: 280, 292\n  index: -1\nenter01_ball_0039\n  rotate: false\n  xy: 794, 99\n  size: 19, 22\n  orig: 512, 512\n  offset: 280, 292\n  index: -1\nenter01_ball_0001\n  rotate: false\n  xy: 763, 11\n  size: 19, 23\n  orig: 512, 512\n  offset: 280, 292\n  index: -1\nenter01_ball_0002\n  rotate: false\n  xy: 382, 2\n  size: 20, 24\n  orig: 512, 512\n  offset: 279, 292\n  index: -1\nenter01_ball_0003\n  rotate: false\n  xy: 404, 2\n  size: 20, 24\n  orig: 512, 512\n  offset: 279, 292\n  index: -1\nenter01_ball_0004\n  rotate: false\n  xy: 2, 74\n  size: 22, 72\n  orig: 512, 512\n  offset: 276, 244\n  index: -1\nenter01_ball_0005\n  rotate: false\n  xy: 448, 2\n  size: 19, 24\n  orig: 512, 512\n  offset: 279, 292\n  index: -1\nenter01_ball_0006\n  rotate: false\n  xy: 113, 10\n  size: 26, 67\n  orig: 512, 512\n  offset: 272, 249\n  index: -1\nenter01_ball_0007\n  rotate: false\n  xy: 52, 78\n  size: 22, 68\n  orig: 512, 512\n  offset: 276, 248\n  index: -1\nenter01_ball_0008\n  rotate: false\n  xy: 26, 77\n  size: 24, 69\n  orig: 512, 512\n  offset: 274, 246\n  index: -1\nenter01_ball_0009\n  rotate: false\n  xy: 2, 3\n  size: 26, 69\n  orig: 512, 512\n  offset: 272, 246\n  index: -1\nenter01_ball_0010\n  rotate: false\n  xy: 773, 93\n  size: 19, 25\n  orig: 512, 512\n  offset: 279, 290\n  index: -1\nenter01_ball_0011\n  rotate: false\n  xy: 141, 10\n  size: 26, 67\n  orig: 512, 512\n  offset: 272, 248\n  index: -1\nenter01_ball_0012\n  rotate: false\n  xy: 59, 8\n  size: 21, 68\n  orig: 512, 512\n  offset: 277, 246\n  index: -1\nenter01_ball_0013\n  rotate: false\n  xy: 142, 79\n  size: 22, 67\n  orig: 512, 512\n  offset: 276, 246\n  index: -1\nenter01_ball_0014\n  rotate: false\n  xy: 82, 10\n  size: 29, 67\n  orig: 512, 512\n  offset: 273, 246\n  index: -1\nenter01_ball_0015\n  rotate: false\n  xy: 76, 79\n  size: 35, 67\n  orig: 512, 512\n  offset: 269, 245\n  index: -1\nenter01_ball_0016\n  rotate: false\n  xy: 113, 79\n  size: 27, 67\n  orig: 512, 512\n  offset: 271, 244\n  index: -1\nenter01_ball_0017\n  rotate: false\n  xy: 30, 7\n  size: 27, 68\n  orig: 512, 512\n  offset: 271, 243\n  index: -1\nenter01_ball_0018\n  rotate: false\n  xy: 166, 80\n  size: 31, 66\n  orig: 512, 512\n  offset: 269, 244\n  index: -1\nenter01_ball_0019\n  rotate: false\n  xy: 169, 12\n  size: 30, 66\n  orig: 512, 512\n  offset: 269, 244\n  index: -1\nenter01_ball_0020\n  rotate: false\n  xy: 201, 13\n  size: 34, 65\n  orig: 512, 512\n  offset: 270, 244\n  index: -1\nenter01_ball_0021\n  rotate: false\n  xy: 341, 87\n  size: 23, 59\n  orig: 512, 512\n  offset: 276, 250\n  index: -1\nenter01_ball_0022\n  rotate: true\n  xy: 324, 2\n  size: 20, 56\n  orig: 512, 512\n  offset: 279, 252\n  index: -1\nenter01_ball_0023\n  rotate: false\n  xy: 347, 27\n  size: 21, 58\n  orig: 512, 512\n  offset: 279, 250\n  index: -1\nenter01_ball_0024\n  rotate: false\n  xy: 268, 22\n  size: 25, 61\n  orig: 512, 512\n  offset: 275, 248\n  index: -1\nenter01_ball_0025\n  rotate: false\n  xy: 295, 23\n  size: 25, 60\n  orig: 512, 512\n  offset: 275, 248\n  index: -1\nenter01_ball_0026\n  rotate: false\n  xy: 261, 85\n  size: 28, 61\n  orig: 512, 512\n  offset: 273, 248\n  index: -1\nenter01_ball_0027\n  rotate: false\n  xy: 314, 86\n  size: 25, 60\n  orig: 512, 512\n  offset: 276, 249\n  index: -1\nenter01_ball_0028\n  rotate: false\n  xy: 237, 15\n  size: 29, 64\n  orig: 512, 512\n  offset: 272, 246\n  index: -1\nenter01_ball_0029\n  rotate: false\n  xy: 291, 85\n  size: 21, 61\n  orig: 512, 512\n  offset: 280, 249\n  index: -1\nenter01_ball_0030\n  rotate: false\n  xy: 199, 80\n  size: 28, 66\n  orig: 512, 512\n  offset: 273, 245\n  index: -1\nenter01_ball_0031\n  rotate: false\n  xy: 229, 81\n  size: 30, 65\n  orig: 512, 512\n  offset: 271, 246\n  index: -1\nenter01_ball_0032\n  rotate: false\n  xy: 815, 124\n  size: 19, 22\n  orig: 512, 512\n  offset: 282, 289\n  index: -1\nenter01_ball_0033\n  rotate: false\n  xy: 322, 24\n  size: 23, 60\n  orig: 512, 512\n  offset: 278, 252\n  index: -1\nenter01_ball_0034\n  rotate: false\n  xy: 775, 40\n  size: 19, 23\n  orig: 512, 512\n  offset: 282, 289\n  index: -1\nenter01_ball_0035\n  rotate: false\n  xy: 777, 69\n  size: 20, 22\n  orig: 512, 512\n  offset: 281, 290\n  index: -1\nenter01_ball_0036\n  rotate: false\n  xy: 815, 100\n  size: 19, 22\n  orig: 512, 512\n  offset: 281, 290\n  index: -1\nenter01_ball_0037\n  rotate: false\n  xy: 815, 76\n  size: 19, 22\n  orig: 512, 512\n  offset: 281, 291\n  index: -1\nenter01_ball_0038\n  rotate: false\n  xy: 469, 3\n  size: 20, 23\n  orig: 512, 512\n  offset: 280, 291\n  index: -1\nenter02_ball_0000\n  rotate: true\n  xy: 799, 55\n  size: 19, 22\n  orig: 512, 512\n  offset: 280, 292\n  index: -1\nenter02_ball_0001\n  rotate: false\n  xy: 774, 123\n  size: 20, 23\n  orig: 512, 512\n  offset: 281, 291\n  index: -1\nenter02_ball_0002\n  rotate: false\n  xy: 426, 2\n  size: 20, 24\n  orig: 512, 512\n  offset: 282, 291\n  index: -1\nenter02_ball_0003\n  rotate: false\n  xy: 755, 65\n  size: 20, 25\n  orig: 512, 512\n  offset: 282, 292\n  index: -1\nenter02_ball_0004\n  rotate: false\n  xy: 754, 36\n  size: 19, 26\n  orig: 512, 512\n  offset: 283, 294\n  index: -1\nenter02_ball_0005\n  rotate: false\n  xy: 575, 61\n  size: 20, 27\n  orig: 512, 512\n  offset: 282, 296\n  index: -1\nenter02_ball_0006\n  rotate: true\n  xy: 295, 2\n  size: 19, 27\n  orig: 512, 512\n  offset: 282, 300\n  index: -1\nenter02_ball_0007\n  rotate: false\n  xy: 597, 32\n  size: 19, 27\n  orig: 512, 512\n  offset: 281, 303\n  index: -1\nenter02_ball_0008\n  rotate: false\n  xy: 593, 90\n  size: 20, 27\n  orig: 512, 512\n  offset: 280, 305\n  index: -1\nenter02_ball_0009\n  rotate: false\n  xy: 491, 2\n  size: 21, 26\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nenter02_ball_0010\n  rotate: false\n  xy: 697, 8\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0000\n  rotate: false\n  xy: 697, 8\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0058\n  rotate: false\n  xy: 697, 8\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nhit_ball_0000\n  rotate: false\n  xy: 605, 4\n  size: 21, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nhit_ball_0020\n  rotate: false\n  xy: 605, 4\n  size: 21, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nhit_ball_0001\n  rotate: false\n  xy: 618, 33\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 309\n  index: -1\nhit_ball_0002\n  rotate: false\n  xy: 619, 62\n  size: 21, 26\n  orig: 512, 512\n  offset: 276, 309\n  index: -1\nhit_ball_0003\n  rotate: false\n  xy: 637, 91\n  size: 21, 26\n  orig: 512, 512\n  offset: 273, 310\n  index: -1\nhit_ball_0004\n  rotate: false\n  xy: 710, 36\n  size: 20, 26\n  orig: 512, 512\n  offset: 271, 310\n  index: -1\nhit_ball_0005\n  rotate: false\n  xy: 594, 119\n  size: 20, 27\n  orig: 512, 512\n  offset: 269, 310\n  index: -1\nhit_ball_0006\n  rotate: false\n  xy: 483, 59\n  size: 21, 27\n  orig: 512, 512\n  offset: 268, 310\n  index: -1\nhit_ball_0007\n  rotate: false\n  xy: 501, 89\n  size: 21, 27\n  orig: 512, 512\n  offset: 268, 310\n  index: -1\nhit_ball_0008\n  rotate: false\n  xy: 502, 119\n  size: 21, 27\n  orig: 512, 512\n  offset: 269, 309\n  index: -1\nhit_ball_0009\n  rotate: false\n  xy: 638, 120\n  size: 21, 26\n  orig: 512, 512\n  offset: 270, 308\n  index: -1\nhit_ball_0010\n  rotate: false\n  xy: 628, 5\n  size: 21, 26\n  orig: 512, 512\n  offset: 271, 307\n  index: -1\nhit_ball_0011\n  rotate: false\n  xy: 711, 64\n  size: 20, 26\n  orig: 512, 512\n  offset: 273, 306\n  index: -1\nhit_ball_0012\n  rotate: false\n  xy: 641, 34\n  size: 21, 26\n  orig: 512, 512\n  offset: 274, 305\n  index: -1\nhit_ball_0013\n  rotate: false\n  xy: 483, 30\n  size: 21, 27\n  orig: 512, 512\n  offset: 275, 304\n  index: -1\nhit_ball_0014\n  rotate: false\n  xy: 575, 32\n  size: 20, 27\n  orig: 512, 512\n  offset: 276, 304\n  index: -1\nhit_ball_0015\n  rotate: false\n  xy: 729, 92\n  size: 20, 26\n  orig: 512, 512\n  offset: 277, 305\n  index: -1\nhit_ball_0016\n  rotate: false\n  xy: 642, 63\n  size: 21, 26\n  orig: 512, 512\n  offset: 277, 306\n  index: -1\nhit_ball_0017\n  rotate: false\n  xy: 660, 92\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 306\n  index: -1\nhit_ball_0018\n  rotate: false\n  xy: 661, 120\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 307\n  index: -1\nhit_ball_0019\n  rotate: false\n  xy: 730, 120\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0001\n  rotate: false\n  xy: 719, 8\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0002\n  rotate: false\n  xy: 583, 3\n  size: 20, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0003\n  rotate: false\n  xy: 597, 61\n  size: 20, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0004\n  rotate: false\n  xy: 732, 36\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0005\n  rotate: false\n  xy: 733, 64\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0006\n  rotate: false\n  xy: 751, 92\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0007\n  rotate: false\n  xy: 651, 6\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 306\n  index: -1\nstand_ball_0008\n  rotate: false\n  xy: 506, 60\n  size: 21, 27\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0009\n  rotate: false\n  xy: 664, 35\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0010\n  rotate: false\n  xy: 665, 64\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0011\n  rotate: false\n  xy: 683, 92\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0012\n  rotate: false\n  xy: 684, 120\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0013\n  rotate: false\n  xy: 674, 7\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0014\n  rotate: false\n  xy: 687, 36\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0015\n  rotate: false\n  xy: 688, 64\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0016\n  rotate: false\n  xy: 524, 90\n  size: 21, 27\n  orig: 512, 512\n  offset: 278, 305\n  index: -1\nstand_ball_0017\n  rotate: false\n  xy: 706, 92\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 306\n  index: -1\nstand_ball_0018\n  rotate: false\n  xy: 707, 120\n  size: 21, 26\n  orig: 512, 512\n  offset: 278, 306\n  index: -1\nstand_ball_0019\n  rotate: false\n  xy: 525, 119\n  size: 21, 27\n  orig: 512, 512\n  offset: 278, 306\n  index: -1\nstand_ball_0020\n  rotate: false\n  xy: 435, 88\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0021\n  rotate: false\n  xy: 615, 90\n  size: 20, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0022\n  rotate: false\n  xy: 439, 58\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0023\n  rotate: false\n  xy: 457, 88\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0024\n  rotate: false\n  xy: 458, 118\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0025\n  rotate: false\n  xy: 366, 118\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0026\n  rotate: false\n  xy: 439, 28\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0027\n  rotate: false\n  xy: 461, 58\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0028\n  rotate: false\n  xy: 479, 88\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0029\n  rotate: false\n  xy: 480, 118\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0030\n  rotate: false\n  xy: 461, 28\n  size: 20, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0031\n  rotate: false\n  xy: 366, 88\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0032\n  rotate: false\n  xy: 370, 58\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0033\n  rotate: false\n  xy: 370, 28\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0034\n  rotate: false\n  xy: 389, 118\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0035\n  rotate: false\n  xy: 389, 88\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0036\n  rotate: false\n  xy: 393, 58\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0037\n  rotate: false\n  xy: 393, 28\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0038\n  rotate: false\n  xy: 412, 118\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0039\n  rotate: false\n  xy: 412, 88\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0040\n  rotate: false\n  xy: 416, 58\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0041\n  rotate: false\n  xy: 416, 28\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0042\n  rotate: false\n  xy: 506, 31\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0043\n  rotate: false\n  xy: 514, 2\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0044\n  rotate: false\n  xy: 529, 61\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0045\n  rotate: false\n  xy: 547, 90\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0046\n  rotate: false\n  xy: 548, 119\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0047\n  rotate: false\n  xy: 435, 118\n  size: 21, 28\n  orig: 512, 512\n  offset: 279, 306\n  index: -1\nstand_ball_0048\n  rotate: false\n  xy: 529, 32\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0049\n  rotate: false\n  xy: 537, 3\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0050\n  rotate: false\n  xy: 552, 61\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0051\n  rotate: false\n  xy: 570, 90\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0052\n  rotate: false\n  xy: 571, 119\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0053\n  rotate: false\n  xy: 552, 32\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0054\n  rotate: false\n  xy: 560, 3\n  size: 21, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0055\n  rotate: false\n  xy: 616, 119\n  size: 20, 27\n  orig: 512, 512\n  offset: 279, 307\n  index: -1\nstand_ball_0056\n  rotate: false\n  xy: 752, 120\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\nstand_ball_0057\n  rotate: false\n  xy: 741, 8\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "c278c886-0a29-4023-81f4-7798e09d7fd7"
+  },
+  "textures": [
+    {
+      "__uuid__": "1b15ba50-0cd6-45fa-9a41-30c7c4ade9bf"
+    }
+  ],
+  "scale": 1
+}

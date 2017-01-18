@@ -1,0 +1,221 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton king_tech01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ELMuz2BgLKXwedJvD81puKMq4iQ",
+      "spine": "3.5.46",
+      "width": 982.24,
+      "height": 512,
+      "fps": 24,
+      "images": "./../../Skeleton King/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "y": 1.19
+      },
+      {
+        "name": "bone10",
+        "parent": "root",
+        "x": 416.04,
+        "y": 127.93
+      }
+    ],
+    "slots": [
+      {
+        "name": "kulouwang/xie_00",
+        "bone": "bone10"
+      }
+    ],
+    "skins": {
+      "default": {
+        "kulouwang/xie_00": {
+          "kulouwang/xie_00": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_02": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_04": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_06": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_08": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_10": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_12": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_14": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_16": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_18": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_20": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_22": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_24": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_26": {
+            "width": 300,
+            "height": 50
+          },
+          "kulouwang/xie_28": {
+            "width": 300,
+            "height": 50
+          }
+        }
+      }
+    },
+    "events": {
+      "skill_cast": {},
+      "skill_spell": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "kulouwang/xie_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "kulouwang/xie_00"
+              },
+              {
+                "time": 0.0417,
+                "name": "kulouwang/xie_02"
+              },
+              {
+                "time": 0.0833,
+                "name": "kulouwang/xie_04"
+              },
+              {
+                "time": 0.125,
+                "name": "kulouwang/xie_06"
+              },
+              {
+                "time": 0.1667,
+                "name": "kulouwang/xie_08"
+              },
+              {
+                "time": 0.2083,
+                "name": "kulouwang/xie_10"
+              },
+              {
+                "time": 0.25,
+                "name": "kulouwang/xie_12"
+              },
+              {
+                "time": 0.2917,
+                "name": "kulouwang/xie_14"
+              },
+              {
+                "time": 0.3333,
+                "name": "kulouwang/xie_16"
+              },
+              {
+                "time": 0.375,
+                "name": "kulouwang/xie_18"
+              },
+              {
+                "time": 0.4167,
+                "name": "kulouwang/xie_20"
+              },
+              {
+                "time": 0.4583,
+                "name": "kulouwang/xie_22"
+              },
+              {
+                "time": 0.5,
+                "name": "kulouwang/xie_24"
+              },
+              {
+                "time": 0.5417,
+                "name": "kulouwang/xie_26"
+              },
+              {
+                "time": 0.5833,
+                "name": "kulouwang/xie_28"
+              },
+              {
+                "time": 0.625,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone10": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -319.97,
+                "y": -125.93
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.652,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton king_tech01_b.png\nsize: 749,158\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nkulouwang/xie_00\n  rotate: false\n  xy: 669, 7\n  size: 48, 46\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_02\n  rotate: false\n  xy: 508, 2\n  size: 87, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_04\n  rotate: false\n  xy: 212, 2\n  size: 165, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_06\n  rotate: false\n  xy: 2, 54\n  size: 238, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_08\n  rotate: false\n  xy: 2, 106\n  size: 248, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_10\n  rotate: false\n  xy: 252, 106\n  size: 234, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_12\n  rotate: false\n  xy: 2, 2\n  size: 208, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_14\n  rotate: false\n  xy: 242, 54\n  size: 194, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_16\n  rotate: false\n  xy: 488, 106\n  size: 175, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_18\n  rotate: false\n  xy: 438, 54\n  size: 150, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_20\n  rotate: false\n  xy: 379, 2\n  size: 127, 50\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_22\n  rotate: false\n  xy: 590, 55\n  size: 115, 49\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_24\n  rotate: false\n  xy: 665, 110\n  size: 82, 46\n  orig: 300, 50\n  offset: 0, 0\n  index: -1\nkulouwang/xie_26\n  rotate: false\n  xy: 597, 16\n  size: 70, 37\n  orig: 300, 50\n  offset: 0, 2\n  index: -1\nkulouwang/xie_28\n  rotate: true\n  xy: 719, 54\n  size: 54, 21\n  orig: 300, 50\n  offset: 0, 11\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "874333a4-0093-45dc-870e-461eb925d13c"
+  },
+  "textures": [
+    {
+      "__uuid__": "a1a60f58-98db-4554-9bc5-54685b2af12d"
+    }
+  ],
+  "scale": 1
+}

@@ -1,0 +1,48 @@
+
+leisheguangxian_s.png
+size: 731,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leisheguangxian_2_a_00000
+  rotate: true
+  xy: 569, 130
+  size: 206, 160
+  orig: 208, 162
+  offset: 1, 1
+  index: -1
+leisheguangxian_2_a_00001
+  rotate: false
+  xy: 2, 158
+  size: 295, 178
+  orig: 297, 180
+  offset: 1, 1
+  index: -1
+leisheguangxian_2_a_00002
+  rotate: false
+  xy: 299, 172
+  size: 268, 164
+  orig: 270, 166
+  offset: 1, 1
+  index: -1
+leisheguangxian_2_a_00003
+  rotate: false
+  xy: 2, 2
+  size: 255, 154
+  orig: 257, 156
+  offset: 1, 1
+  index: -1
+leisheguangxian_2_a_00004
+  rotate: false
+  xy: 299, 32
+  size: 242, 138
+  orig: 244, 140
+  offset: 1, 1
+  index: -1
+leisheguangxian_2_a_00005
+  rotate: false
+  xy: 543, 29
+  size: 171, 99
+  orig: 173, 101
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+death reaper_active01_b02.png
+size: 729,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/kulouxian_00
+  rotate: false
+  xy: 2, 166
+  size: 283, 80
+  orig: 300, 80
+  offset: 17, 0
+  index: -1
+zhengyizhilian/kulouxian_02
+  rotate: false
+  xy: 2, 84
+  size: 280, 80
+  orig: 300, 80
+  offset: 20, 0
+  index: -1
+zhengyizhilian/kulouxian_04
+  rotate: false
+  xy: 287, 166
+  size: 278, 80
+  orig: 300, 80
+  offset: 22, 0
+  index: -1
+zhengyizhilian/kulouxian_06
+  rotate: false
+  xy: 2, 2
+  size: 270, 80
+  orig: 300, 80
+  offset: 30, 0
+  index: -1
+zhengyizhilian/kulouxian_08
+  rotate: false
+  xy: 284, 84
+  size: 248, 80
+  orig: 300, 80
+  offset: 52, 0
+  index: -1
+zhengyizhilian/kulouxian_10
+  rotate: false
+  xy: 274, 2
+  size: 244, 80
+  orig: 300, 80
+  offset: 56, 0
+  index: -1
+zhengyizhilian/kulouxian_12
+  rotate: true
+  xy: 567, 9
+  size: 237, 80
+  orig: 300, 80
+  offset: 63, 0
+  index: -1
+zhengyizhilian/kulouxian_14
+  rotate: true
+  xy: 649, 36
+  size: 210, 78
+  orig: 300, 80
+  offset: 84, 0
+  index: -1

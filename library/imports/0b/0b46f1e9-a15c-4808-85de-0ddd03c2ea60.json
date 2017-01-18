@@ -1,0 +1,331 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shadow  assassin_hit",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "yIZqDdIvFGf4R+jrM8KRZlVmXqQ",
+      "spine": "3.3.07",
+      "width": 0,
+      "height": 0,
+      "images": "./../shadow assassin/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "x": 159.64,
+        "y": -31.8
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "x": 351.08,
+        "y": 1.51
+      }
+    ],
+    "slots": [
+      {
+        "name": "cike/shouji_00",
+        "bone": "bone2"
+      },
+      {
+        "name": "cike/du_00",
+        "bone": "bone3"
+      }
+    ],
+    "skins": {
+      "default": {
+        "cike/du_00": {
+          "cike/du_00": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_02": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_04": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_06": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_08": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_10": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_12": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_14": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_16": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_18": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_20": {
+            "width": 150,
+            "height": 150
+          }
+        },
+        "cike/shouji_00": {
+          "cike/shouji_00": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_01": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_02": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_03": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_04": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_05": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_06": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_07": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_08": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/shouji_09": {
+            "width": 150,
+            "height": 150
+          }
+        }
+      }
+    },
+    "animations": {
+      "hit": {
+        "slots": {
+          "cike/du_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2,
+                "name": "cike/du_00"
+              },
+              {
+                "time": 0.2666,
+                "name": "cike/du_02"
+              },
+              {
+                "time": 0.3333,
+                "name": "cike/du_04"
+              },
+              {
+                "time": 0.4,
+                "name": "cike/du_06"
+              },
+              {
+                "time": 0.4666,
+                "name": "cike/du_08"
+              },
+              {
+                "time": 0.5333,
+                "name": "cike/du_10"
+              },
+              {
+                "time": 0.6,
+                "name": "cike/du_12"
+              },
+              {
+                "time": 0.6666,
+                "name": "cike/du_14"
+              },
+              {
+                "time": 0.7333,
+                "name": "cike/du_16"
+              },
+              {
+                "time": 0.8,
+                "name": "cike/du_18"
+              },
+              {
+                "time": 0.8666,
+                "name": "cike/du_20"
+              },
+              {
+                "time": 0.9333,
+                "name": null
+              }
+            ]
+          },
+          "cike/shouji_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "cike/shouji_00"
+              },
+              {
+                "time": 0.1666,
+                "name": "cike/shouji_01"
+              },
+              {
+                "time": 0.2,
+                "name": "cike/shouji_02"
+              },
+              {
+                "time": 0.2333,
+                "name": "cike/shouji_03"
+              },
+              {
+                "time": 0.2666,
+                "name": "cike/shouji_04"
+              },
+              {
+                "time": 0.3333,
+                "name": "cike/shouji_05"
+              },
+              {
+                "time": 0.4,
+                "name": "cike/shouji_06"
+              },
+              {
+                "time": 0.4666,
+                "name": "cike/shouji_07"
+              },
+              {
+                "time": 0.5333,
+                "name": "cike/shouji_08"
+              },
+              {
+                "time": 0.6,
+                "name": "cike/shouji_09"
+              },
+              {
+                "time": 0.6666,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -162.45,
+                "y": 114.37
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.8,
+                "y": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 350.4
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -345.86,
+                "y": 45.09
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.7,
+                "y": 0.7
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0.2,
+            "offsets": [
+              {
+                "slot": "cike/shouji_00",
+                "offset": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nshadow  assassin_hit.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncike/du_00\n  rotate: false\n  xy: 2, 762\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_02\n  rotate: false\n  xy: 2, 610\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_04\n  rotate: false\n  xy: 154, 762\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_06\n  rotate: false\n  xy: 2, 458\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_08\n  rotate: false\n  xy: 154, 610\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_10\n  rotate: false\n  xy: 306, 762\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_12\n  rotate: false\n  xy: 2, 306\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_14\n  rotate: false\n  xy: 154, 458\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_16\n  rotate: false\n  xy: 306, 610\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_18\n  rotate: false\n  xy: 458, 762\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_20\n  rotate: false\n  xy: 2, 154\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_00\n  rotate: false\n  xy: 154, 306\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_01\n  rotate: false\n  xy: 306, 458\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_02\n  rotate: false\n  xy: 458, 610\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_03\n  rotate: false\n  xy: 610, 762\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_04\n  rotate: false\n  xy: 2, 2\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_05\n  rotate: false\n  xy: 154, 154\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_06\n  rotate: false\n  xy: 306, 306\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_07\n  rotate: false\n  xy: 458, 458\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_08\n  rotate: false\n  xy: 610, 610\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/shouji_09\n  rotate: false\n  xy: 762, 762\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "0fe96e92-501b-49d1-8fbc-0860547b2668"
+  },
+  "textures": [
+    {
+      "__uuid__": "81142384-0a4c-4ed9-8fb7-e9934391914b"
+    }
+  ],
+  "scale": 1
+}

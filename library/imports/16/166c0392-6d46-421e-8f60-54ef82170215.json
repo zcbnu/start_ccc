@@ -1,0 +1,170 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_tech03_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "VBwqK/OtQ9W3OHVvK3++9zZCtmQ",
+      "spine": "3.5.46",
+      "width": 400,
+      "height": 743.33,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone6",
+        "parent": "root",
+        "x": 510.84,
+        "y": -354.1
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/guangshu_01",
+        "bone": "bone6",
+        "attachment": "zhengyizhilian/guangshu_15"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/guangshu_01": {
+          "zhengyizhilian/guangshu_01": {
+            "width": 160,
+            "height": 500
+          },
+          "zhengyizhilian/guangshu_03": {
+            "width": 160,
+            "height": 500
+          },
+          "zhengyizhilian/guangshu_05": {
+            "width": 160,
+            "height": 500
+          },
+          "zhengyizhilian/guangshu_07": {
+            "width": 160,
+            "height": 500
+          },
+          "zhengyizhilian/guangshu_09": {
+            "width": 160,
+            "height": 500
+          },
+          "zhengyizhilian/guangshu_11": {
+            "width": 160,
+            "height": 500
+          },
+          "zhengyizhilian/guangshu_13": {
+            "width": 160,
+            "height": 500
+          },
+          "zhengyizhilian/guangshu_15": {
+            "width": 160,
+            "height": 500
+          }
+        }
+      }
+    },
+    "events": {
+      "next": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "zhengyizhilian/guangshu_01": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/guangshu_01"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/guangshu_03"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/guangshu_05"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/guangshu_07"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/guangshu_09"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/guangshu_11"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/guangshu_13"
+              },
+              {
+                "time": 0.5833,
+                "name": "zhengyizhilian/guangshu_15"
+              },
+              {
+                "time": 0.6667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone6": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -510.84,
+                "y": 604.1
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.1,
+                "y": 1.1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0,
+            "name": "next"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_tech03_b.png\nsize: 959,588\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/guangshu_01\n  rotate: true\n  xy: 2, 2\n  size: 82, 291\n  orig: 160, 500\n  offset: 40, 202\n  index: -1\nzhengyizhilian/guangshu_03\n  rotate: true\n  xy: 457, 5\n  size: 102, 500\n  orig: 160, 500\n  offset: 26, 0\n  index: -1\nzhengyizhilian/guangshu_05\n  rotate: false\n  xy: 164, 86\n  size: 129, 500\n  orig: 160, 500\n  offset: 16, 0\n  index: -1\nzhengyizhilian/guangshu_07\n  rotate: true\n  xy: 457, 109\n  size: 153, 500\n  orig: 160, 500\n  offset: 3, 0\n  index: -1\nzhengyizhilian/guangshu_09\n  rotate: false\n  xy: 2, 86\n  size: 160, 500\n  orig: 160, 500\n  offset: 0, 0\n  index: -1\nzhengyizhilian/guangshu_11\n  rotate: false\n  xy: 295, 86\n  size: 160, 500\n  orig: 160, 500\n  offset: 0, 0\n  index: -1\nzhengyizhilian/guangshu_13\n  rotate: true\n  xy: 457, 426\n  size: 160, 500\n  orig: 160, 500\n  offset: 0, 0\n  index: -1\nzhengyizhilian/guangshu_15\n  rotate: true\n  xy: 457, 264\n  size: 160, 500\n  orig: 160, 500\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "470b36eb-6531-451a-9d39-52f4fa7b3fd2"
+  },
+  "textures": [
+    {
+      "__uuid__": "176c1494-4453-4716-9e33-b8c405156d5b"
+    }
+  ],
+  "scale": 1
+}

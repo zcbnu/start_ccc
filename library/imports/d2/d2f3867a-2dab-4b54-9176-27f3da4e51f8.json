@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "border-toast",
+    "texture": "64729a3e-1f9f-4a17-8d46-3688704535d5",
+    "atlas": "",
+    "rect": [
+      5,
+      3,
+      56,
+      129
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      65,
+      134
+    ]
+  }
+}

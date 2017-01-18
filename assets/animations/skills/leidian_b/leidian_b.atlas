@@ -1,0 +1,41 @@
+
+leidian_b.png
+size: 235,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leidian_1_a_00000
+  rotate: true
+  xy: 2, 59
+  size: 55, 155
+  orig: 57, 157
+  offset: 1, 1
+  index: -1
+leidian_1_a_00001
+  rotate: true
+  xy: 2, 116
+  size: 59, 179
+  orig: 61, 181
+  offset: 1, 1
+  index: -1
+leidian_1_a_00003
+  rotate: true
+  xy: 2, 116
+  size: 59, 179
+  orig: 61, 181
+  offset: 1, 1
+  index: -1
+leidian_1_a_00002
+  rotate: false
+  xy: 183, 27
+  size: 50, 148
+  orig: 52, 150
+  offset: 1, 1
+  index: -1
+leidian_1_a_00004
+  rotate: true
+  xy: 2, 2
+  size: 55, 154
+  orig: 57, 156
+  offset: 1, 1
+  index: -1

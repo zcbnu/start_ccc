@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "death reaper_hit_h",
+    "texture": "ca5a0b79-f385-4a4a-8092-df26fa24f5f7",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      964,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      968,
+      168
+    ]
+  }
+}

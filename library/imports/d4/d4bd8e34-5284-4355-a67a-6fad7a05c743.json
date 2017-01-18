@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skeleton minion_enter_h",
+    "texture": "609f7c15-9779-4c5e-b8ac-277433fc9f47",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      630,
+      289
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      634,
+      293
+    ]
+  }
+}

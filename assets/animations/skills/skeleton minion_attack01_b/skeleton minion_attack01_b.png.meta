@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "380f744f-821d-471e-b3c0-ad2955257703",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "skeleton minion_attack01_b": {
+      "ver": "1.0.3",
+      "uuid": "390caa0b-fb94-47d5-b80c-62e35614c89f",
+      "rawTextureUuid": "380f744f-821d-471e-b3c0-ad2955257703",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 711,
+      "height": 100,
+      "rawWidth": 715,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

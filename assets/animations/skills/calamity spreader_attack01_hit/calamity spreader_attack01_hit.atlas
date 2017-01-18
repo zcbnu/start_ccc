@@ -1,0 +1,160 @@
+
+calamity spreader_attack01_hit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi/dufang_00
+  rotate: false
+  xy: 2, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_01
+  rotate: false
+  xy: 2, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_02
+  rotate: false
+  xy: 204, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_03
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_04
+  rotate: false
+  xy: 204, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_05
+  rotate: false
+  xy: 406, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_06
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_07
+  rotate: false
+  xy: 204, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_08
+  rotate: false
+  xy: 406, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_09
+  rotate: false
+  xy: 608, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/dufang_10
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_00
+  rotate: false
+  xy: 204, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_02
+  rotate: false
+  xy: 406, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_04
+  rotate: false
+  xy: 608, 708
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_06
+  rotate: false
+  xy: 810, 910
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_08
+  rotate: false
+  xy: 204, 202
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_10
+  rotate: false
+  xy: 912, 910
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_12
+  rotate: false
+  xy: 204, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_14
+  rotate: false
+  xy: 306, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_16
+  rotate: false
+  xy: 306, 202
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_18
+  rotate: false
+  xy: 306, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fashi/shoujidu_20
+  rotate: false
+  xy: 508, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "86be5872-f951-4c89-9987-0e4ebb92b71c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shadow  assassin_attack01_h": {
+      "ver": "1.0.3",
+      "uuid": "d48e4d58-b3e7-4b3f-8196-e51f6b7914c0",
+      "rawTextureUuid": "86be5872-f951-4c89-9987-0e4ebb92b71c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 976,
+      "height": 829,
+      "rawWidth": 980,
+      "rawHeight": 833,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_tech04_s_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "erqAHC4ecu1hUTLPvWj5GYDCoqo",
+      "spine": "3.5.46",
+      "width": 0,
+      "height": 0,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone14",
+        "parent": "root",
+        "x": 1181.91,
+        "y": -417.93
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/xinhao_00",
+        "bone": "bone14"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/xinhao_00": {
+          "zhengyizhilian/xinhao_00": {
+            "width": 300,
+            "height": 300
+          },
+          "zhengyizhilian/xinhao_04": {
+            "width": 300,
+            "height": 300
+          },
+          "zhengyizhilian/xinhao_08": {
+            "width": 300,
+            "height": 300
+          },
+          "zhengyizhilian/xinhao_12": {
+            "width": 300,
+            "height": 300
+          },
+          "zhengyizhilian/xinhao_16": {
+            "width": 300,
+            "height": 300
+          },
+          "zhengyizhilian/xinhao_20": {
+            "width": 300,
+            "height": 300
+          },
+          "zhengyizhilian/xinhao_24": {
+            "width": 300,
+            "height": 300
+          },
+          "zhengyizhilian/xinhao_28": {
+            "width": 300,
+            "height": 300
+          }
+        }
+      }
+    },
+    "events": {
+      "fire": {}
+    },
+    "animations": {
+      "spellAni": {
+        "slots": {
+          "zhengyizhilian/xinhao_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/xinhao_00"
+              },
+              {
+                "time": 0.125,
+                "name": "zhengyizhilian/xinhao_04"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/xinhao_08"
+              },
+              {
+                "time": 0.375,
+                "name": "zhengyizhilian/xinhao_12"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/xinhao_16"
+              },
+              {
+                "time": 0.625,
+                "name": "zhengyizhilian/xinhao_20"
+              },
+              {
+                "time": 0.75,
+                "name": "zhengyizhilian/xinhao_24"
+              },
+              {
+                "time": 0.875,
+                "name": "zhengyizhilian/xinhao_28"
+              },
+              {
+                "time": 1,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone14": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -1181.91,
+                "y": 416.12
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 0.55
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0,
+            "name": "fire"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_tech04_s_b.png\nsize: 971,516\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/xinhao_00\n  rotate: true\n  xy: 2, 3\n  size: 221, 244\n  orig: 300, 300\n  offset: 48, 37\n  index: -1\nzhengyizhilian/xinhao_04\n  rotate: false\n  xy: 501, 257\n  size: 232, 257\n  orig: 300, 300\n  offset: 43, 16\n  index: -1\nzhengyizhilian/xinhao_08\n  rotate: false\n  xy: 737, 23\n  size: 232, 233\n  orig: 300, 300\n  offset: 22, 37\n  index: -1\nzhengyizhilian/xinhao_12\n  rotate: false\n  xy: 735, 258\n  size: 229, 256\n  orig: 300, 300\n  offset: 39, 6\n  index: -1\nzhengyizhilian/xinhao_16\n  rotate: false\n  xy: 2, 226\n  size: 261, 288\n  orig: 300, 300\n  offset: 35, 4\n  index: -1\nzhengyizhilian/xinhao_20\n  rotate: false\n  xy: 265, 255\n  size: 234, 259\n  orig: 300, 300\n  offset: 39, 16\n  index: -1\nzhengyizhilian/xinhao_24\n  rotate: true\n  xy: 504, 12\n  size: 243, 231\n  orig: 300, 300\n  offset: 15, 26\n  index: -1\nzhengyizhilian/xinhao_28\n  rotate: false\n  xy: 265, 2\n  size: 237, 251\n  orig: 300, 300\n  offset: 39, 16\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "8d632da2-77d3-4ec9-ad8b-6ee50324fe5e"
+  },
+  "textures": [
+    {
+      "__uuid__": "7efb901a-5c16-4f4a-af89-dff784590194"
+    }
+  ],
+  "scale": 1
+}

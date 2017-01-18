@@ -1,0 +1,234 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_active01_b01",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "41gJ1ZEQKUHJAAWZFNJlZC9/2k8",
+      "spine": "3.5.46",
+      "width": 1099.98,
+      "height": 1620.23,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone8",
+        "parent": "root",
+        "x": 928.23,
+        "y": -352.92
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/kukuku_00",
+        "bone": "bone8",
+        "attachment": "zhengyizhilian/kukuku_30"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/kukuku_00": {
+          "zhengyizhilian/kukuku_00": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_02": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_04": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_06": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_08": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_10": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_12": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_14": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_16": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_18": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_20": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_22": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_24": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_26": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_28": {
+            "width": 150,
+            "height": 150
+          },
+          "zhengyizhilian/kukuku_30": {
+            "width": 150,
+            "height": 150
+          }
+        }
+      }
+    },
+    "events": {
+      "next": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "zhengyizhilian/kukuku_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/kukuku_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/kukuku_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/kukuku_04"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/kukuku_06"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/kukuku_08"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/kukuku_10"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/kukuku_12"
+              },
+              {
+                "time": 0.5833,
+                "name": "zhengyizhilian/kukuku_14"
+              },
+              {
+                "time": 0.6667,
+                "name": "zhengyizhilian/kukuku_16"
+              },
+              {
+                "time": 0.75,
+                "name": "zhengyizhilian/kukuku_18"
+              },
+              {
+                "time": 0.8333,
+                "name": "zhengyizhilian/kukuku_20"
+              },
+              {
+                "time": 0.9167,
+                "name": "zhengyizhilian/kukuku_22"
+              },
+              {
+                "time": 1,
+                "name": "zhengyizhilian/kukuku_24"
+              },
+              {
+                "time": 1.0833,
+                "name": "zhengyizhilian/kukuku_26"
+              },
+              {
+                "time": 1.1667,
+                "name": "zhengyizhilian/kukuku_28"
+              },
+              {
+                "time": 1.25,
+                "name": "zhengyizhilian/kukuku_30"
+              },
+              {
+                "time": 1.2917,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone8": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -928.23,
+                "y": 352.92
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.7,
+                "y": 0.7
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.6667,
+            "name": "next"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_active01_b01.png\nsize: 737,225\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/kukuku_00\n  rotate: false\n  xy: 672, 177\n  size: 63, 46\n  orig: 150, 150\n  offset: 43, 20\n  index: -1\nzhengyizhilian/kukuku_02\n  rotate: false\n  xy: 663, 41\n  size: 69, 87\n  orig: 150, 150\n  offset: 40, 6\n  index: -1\nzhengyizhilian/kukuku_04\n  rotate: false\n  xy: 592, 130\n  size: 78, 93\n  orig: 150, 150\n  offset: 36, 10\n  index: -1\nzhengyizhilian/kukuku_06\n  rotate: false\n  xy: 411, 125\n  size: 91, 98\n  orig: 150, 150\n  offset: 29, 16\n  index: -1\nzhengyizhilian/kukuku_08\n  rotate: false\n  xy: 2, 114\n  size: 103, 109\n  orig: 150, 150\n  offset: 21, 11\n  index: -1\nzhengyizhilian/kukuku_10\n  rotate: false\n  xy: 2, 2\n  size: 102, 110\n  orig: 150, 150\n  offset: 21, 19\n  index: -1\nzhengyizhilian/kukuku_12\n  rotate: false\n  xy: 106, 3\n  size: 102, 109\n  orig: 150, 150\n  offset: 21, 21\n  index: -1\nzhengyizhilian/kukuku_14\n  rotate: false\n  xy: 107, 118\n  size: 101, 105\n  orig: 150, 150\n  offset: 20, 34\n  index: -1\nzhengyizhilian/kukuku_16\n  rotate: true\n  xy: 210, 5\n  size: 109, 94\n  orig: 150, 150\n  offset: 18, 39\n  index: -1\nzhengyizhilian/kukuku_18\n  rotate: true\n  xy: 210, 116\n  size: 107, 99\n  orig: 150, 150\n  offset: 21, 36\n  index: -1\nzhengyizhilian/kukuku_20\n  rotate: false\n  xy: 306, 11\n  size: 98, 103\n  orig: 150, 150\n  offset: 29, 38\n  index: -1\nzhengyizhilian/kukuku_22\n  rotate: true\n  xy: 311, 123\n  size: 100, 98\n  orig: 150, 150\n  offset: 30, 46\n  index: -1\nzhengyizhilian/kukuku_24\n  rotate: true\n  xy: 406, 21\n  size: 100, 96\n  orig: 150, 150\n  offset: 30, 51\n  index: -1\nzhengyizhilian/kukuku_26\n  rotate: true\n  xy: 504, 120\n  size: 103, 86\n  orig: 150, 150\n  offset: 28, 64\n  index: -1\nzhengyizhilian/kukuku_28\n  rotate: true\n  xy: 504, 17\n  size: 101, 84\n  orig: 150, 150\n  offset: 32, 66\n  index: -1\nzhengyizhilian/kukuku_30\n  rotate: true\n  xy: 590, 15\n  size: 103, 71\n  orig: 150, 150\n  offset: 30, 78\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "4a875367-b753-4ef2-b757-c50ad4698ba4"
+  },
+  "textures": [
+    {
+      "__uuid__": "0e4bf27b-9df2-4944-89d4-1a0d0cbecd56"
+    }
+  ],
+  "scale": 1
+}

@@ -1,0 +1,111 @@
+
+death reaper_tech03_s_b.png
+size: 985,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/dimian_00
+  rotate: false
+  xy: 814, 170
+  size: 140, 63
+  orig: 400, 150
+  offset: 131, 44
+  index: -1
+zhengyizhilian/dimian_02
+  rotate: true
+  xy: 731, 287
+  size: 168, 75
+  orig: 400, 150
+  offset: 117, 37
+  index: -1
+zhengyizhilian/dimian_04
+  rotate: false
+  xy: 631, 161
+  size: 181, 76
+  orig: 400, 150
+  offset: 110, 37
+  index: -1
+zhengyizhilian/dimian_06
+  rotate: false
+  xy: 541, 50
+  size: 203, 85
+  orig: 400, 150
+  offset: 99, 32
+  index: -1
+zhengyizhilian/dimian_08
+  rotate: false
+  xy: 2, 10
+  size: 243, 101
+  orig: 400, 150
+  offset: 79, 23
+  index: -1
+zhengyizhilian/dimian_10
+  rotate: false
+  xy: 247, 2
+  size: 292, 111
+  orig: 400, 150
+  offset: 53, 17
+  index: -1
+zhengyizhilian/dimian_12
+  rotate: false
+  xy: 137, 115
+  size: 310, 122
+  orig: 400, 150
+  offset: 45, 10
+  index: -1
+zhengyizhilian/dimian_14
+  rotate: true
+  xy: 2, 113
+  size: 342, 133
+  orig: 400, 150
+  offset: 29, 3
+  index: -1
+zhengyizhilian/yan_1_00
+  rotate: false
+  xy: 541, 4
+  size: 170, 44
+  orig: 220, 200
+  offset: 25, 8
+  index: -1
+zhengyizhilian/yan_1_02
+  rotate: false
+  xy: 449, 137
+  size: 180, 100
+  orig: 220, 200
+  offset: 24, 9
+  index: -1
+zhengyizhilian/yan_1_04
+  rotate: false
+  xy: 746, 4
+  size: 204, 155
+  orig: 220, 200
+  offset: 8, 1
+  index: -1
+zhengyizhilian/yan_1_06
+  rotate: true
+  xy: 814, 235
+  size: 220, 169
+  orig: 220, 200
+  offset: 0, 4
+  index: -1
+zhengyizhilian/yan_1_08
+  rotate: true
+  xy: 541, 239
+  size: 216, 188
+  orig: 220, 200
+  offset: 2, 1
+  index: -1
+zhengyizhilian/yan_1_10
+  rotate: true
+  xy: 137, 239
+  size: 216, 200
+  orig: 220, 200
+  offset: 2, 0
+  index: -1
+zhengyizhilian/yan_1_12
+  rotate: true
+  xy: 339, 239
+  size: 216, 200
+  orig: 220, 200
+  offset: 2, 0
+  index: -1

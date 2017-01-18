@@ -1,0 +1,145 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shadow  assassin_attack01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ZV5TQ5WDhkOS7CVOMspCGEHl/ek",
+      "spine": "3.5.46",
+      "width": 200,
+      "height": 100,
+      "images": "./../../shadow assassin(1)/shadow assassin/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "x": -95.84,
+        "y": 95.33
+      }
+    ],
+    "slots": [
+      {
+        "name": "cike/daoguang_00",
+        "bone": "bone2",
+        "attachment": "cike/daoguang_04"
+      }
+    ],
+    "skins": {
+      "default": {
+        "cike/daoguang_00": {
+          "cike/daoguang_00": {
+            "width": 200,
+            "height": 100
+          },
+          "cike/daoguang_01": {
+            "width": 200,
+            "height": 100
+          },
+          "cike/daoguang_02": {
+            "width": 200,
+            "height": 100
+          },
+          "cike/daoguang_03": {
+            "width": 200,
+            "height": 100
+          },
+          "cike/daoguang_04": {
+            "width": 200,
+            "height": 100
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "cike/daoguang_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "cike/daoguang_00"
+              },
+              {
+                "time": 0.0333,
+                "name": "cike/daoguang_01"
+              },
+              {
+                "time": 0.1333,
+                "name": "cike/daoguang_02"
+              },
+              {
+                "time": 0.2,
+                "name": "cike/daoguang_03"
+              },
+              {
+                "time": 0.2667,
+                "name": "cike/daoguang_04"
+              },
+              {
+                "time": 0.3,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 134.2,
+                "y": -35.61
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.1333,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nshadow  assassin_attack01_b.png\nsize: 386,170\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncike/daoguang_00\n  rotate: false\n  xy: 2, 7\n  size: 179, 66\n  orig: 200, 100\n  offset: 0, 5\n  index: -1\ncike/daoguang_01\n  rotate: false\n  xy: 2, 75\n  size: 178, 93\n  orig: 200, 100\n  offset: 12, 2\n  index: -1\ncike/daoguang_02\n  rotate: true\n  xy: 289, 2\n  size: 166, 95\n  orig: 200, 100\n  offset: 32, 0\n  index: -1\ncike/daoguang_03\n  rotate: false\n  xy: 182, 104\n  size: 105, 64\n  orig: 200, 100\n  offset: 91, 31\n  index: -1\ncike/daoguang_04\n  rotate: true\n  xy: 183, 3\n  size: 99, 48\n  orig: 200, 100\n  offset: 97, 47\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "26ef210b-bc60-4bed-8f12-1518907dc644"
+  },
+  "textures": [
+    {
+      "__uuid__": "1ea1dfd6-c1d1-47fe-93ca-35fe2b624df3"
+    }
+  ],
+  "scale": 1
+}

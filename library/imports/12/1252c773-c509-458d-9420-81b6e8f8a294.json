@@ -1,0 +1,174 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_active01_b02",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "9MSRp3eP017peT6Qm/TfF//BEd0",
+      "spine": "3.5.46",
+      "width": 1741.9,
+      "height": 639,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone10",
+        "parent": "root",
+        "x": 927.86,
+        "y": 224.22
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/kulouxian_00",
+        "bone": "bone10",
+        "attachment": "zhengyizhilian/kulouxian_14"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/kulouxian_00": {
+          "zhengyizhilian/kulouxian_00": {
+            "width": 300,
+            "height": 80
+          },
+          "zhengyizhilian/kulouxian_02": {
+            "width": 300,
+            "height": 80
+          },
+          "zhengyizhilian/kulouxian_04": {
+            "width": 300,
+            "height": 80
+          },
+          "zhengyizhilian/kulouxian_06": {
+            "width": 300,
+            "height": 80
+          },
+          "zhengyizhilian/kulouxian_08": {
+            "width": 300,
+            "height": 80
+          },
+          "zhengyizhilian/kulouxian_10": {
+            "width": 300,
+            "height": 80
+          },
+          "zhengyizhilian/kulouxian_12": {
+            "width": 300,
+            "height": 80
+          },
+          "zhengyizhilian/kulouxian_14": {
+            "width": 300,
+            "height": 80
+          }
+        }
+      }
+    },
+    "events": {
+      "next": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "zhengyizhilian/kulouxian_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0417,
+                "name": "zhengyizhilian/kulouxian_00"
+              },
+              {
+                "time": 0.125,
+                "name": "zhengyizhilian/kulouxian_02"
+              },
+              {
+                "time": 0.2083,
+                "name": "zhengyizhilian/kulouxian_04"
+              },
+              {
+                "time": 0.2917,
+                "name": "zhengyizhilian/kulouxian_06"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/kulouxian_08"
+              },
+              {
+                "time": 0.375,
+                "name": "zhengyizhilian/kulouxian_10"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/kulouxian_12"
+              },
+              {
+                "time": 0.4583,
+                "name": "zhengyizhilian/kulouxian_14"
+              },
+              {
+                "time": 0.5417,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone10": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -879.58,
+                "y": -221.81
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.125,
+            "name": "next"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_active01_b02.png\nsize: 729,248\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/kulouxian_00\n  rotate: false\n  xy: 2, 166\n  size: 283, 80\n  orig: 300, 80\n  offset: 17, 0\n  index: -1\nzhengyizhilian/kulouxian_02\n  rotate: false\n  xy: 2, 84\n  size: 280, 80\n  orig: 300, 80\n  offset: 20, 0\n  index: -1\nzhengyizhilian/kulouxian_04\n  rotate: false\n  xy: 287, 166\n  size: 278, 80\n  orig: 300, 80\n  offset: 22, 0\n  index: -1\nzhengyizhilian/kulouxian_06\n  rotate: false\n  xy: 2, 2\n  size: 270, 80\n  orig: 300, 80\n  offset: 30, 0\n  index: -1\nzhengyizhilian/kulouxian_08\n  rotate: false\n  xy: 284, 84\n  size: 248, 80\n  orig: 300, 80\n  offset: 52, 0\n  index: -1\nzhengyizhilian/kulouxian_10\n  rotate: false\n  xy: 274, 2\n  size: 244, 80\n  orig: 300, 80\n  offset: 56, 0\n  index: -1\nzhengyizhilian/kulouxian_12\n  rotate: true\n  xy: 567, 9\n  size: 237, 80\n  orig: 300, 80\n  offset: 63, 0\n  index: -1\nzhengyizhilian/kulouxian_14\n  rotate: true\n  xy: 649, 36\n  size: 210, 78\n  orig: 300, 80\n  offset: 84, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "0c672bc2-956d-4628-a0bb-2c8c67483d2e"
+  },
+  "textures": [
+    {
+      "__uuid__": "d1a2118b-0122-415e-983a-df83c5ea7833"
+    }
+  ],
+  "scale": 1
+}

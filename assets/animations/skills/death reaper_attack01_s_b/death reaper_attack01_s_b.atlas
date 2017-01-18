@@ -1,0 +1,20 @@
+
+death reaper_attack01_s_b.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/daoguang_02
+  rotate: false
+  xy: 2, 2
+  size: 371, 360
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+zhengyizhilian/daoguang_04
+  rotate: false
+  xy: 375, 167
+  size: 162, 195
+  orig: 400, 400
+  offset: 203, 194
+  index: -1

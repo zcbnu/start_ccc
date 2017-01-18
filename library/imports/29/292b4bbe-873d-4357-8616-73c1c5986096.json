@@ -1,0 +1,183 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shadow  assassin_active01_h",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "O8rMTg7MSEEmcvOJJG2YM1a8DAo",
+      "spine": "3.5.46",
+      "width": 498.76,
+      "height": 447.62,
+      "images": "./../../shadow assassin(1)/shadow assassin/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "x": -96.68,
+        "y": -95.65
+      }
+    ],
+    "slots": [
+      {
+        "name": "cike/du_00",
+        "bone": "bone3"
+      }
+    ],
+    "skins": {
+      "default": {
+        "cike/du_00": {
+          "cike/du_00": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_02": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_04": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_06": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_08": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_10": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_12": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_14": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_16": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_18": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/du_20": {
+            "width": 150,
+            "height": 150
+          }
+        }
+      }
+    },
+    "animations": {
+      "hitAni": {
+        "slots": {
+          "cike/du_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "cike/du_00"
+              },
+              {
+                "time": 0.0667,
+                "name": "cike/du_02"
+              },
+              {
+                "time": 0.1333,
+                "name": "cike/du_04"
+              },
+              {
+                "time": 0.2,
+                "name": "cike/du_06"
+              },
+              {
+                "time": 0.2667,
+                "name": "cike/du_08"
+              },
+              {
+                "time": 0.3333,
+                "name": "cike/du_10"
+              },
+              {
+                "time": 0.4,
+                "name": "cike/du_12"
+              },
+              {
+                "time": 0.4667,
+                "name": "cike/du_14"
+              },
+              {
+                "time": 0.5333,
+                "name": "cike/du_16"
+              },
+              {
+                "time": 0.6,
+                "name": "cike/du_18"
+              },
+              {
+                "time": 0.6667,
+                "name": "cike/du_20"
+              },
+              {
+                "time": 0.7333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 98.25,
+                "y": 150.48
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nshadow  assassin_active01_h.png\nsize: 886,304\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncike/du_00\n  rotate: false\n  xy: 298, 157\n  size: 147, 145\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_02\n  rotate: false\n  xy: 299, 9\n  size: 145, 146\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_04\n  rotate: false\n  xy: 447, 13\n  size: 146, 143\n  orig: 150, 150\n  offset: 2, 7\n  index: -1\ncike/du_06\n  rotate: false\n  xy: 152, 152\n  size: 144, 150\n  orig: 150, 150\n  offset: 1, 0\n  index: -1\ncike/du_08\n  rotate: true\n  xy: 2, 2\n  size: 148, 147\n  orig: 150, 150\n  offset: 2, 0\n  index: -1\ncike/du_10\n  rotate: false\n  xy: 447, 158\n  size: 148, 144\n  orig: 150, 150\n  offset: 2, 0\n  index: -1\ncike/du_12\n  rotate: true\n  xy: 595, 15\n  size: 140, 145\n  orig: 150, 150\n  offset: 3, 0\n  index: -1\ncike/du_14\n  rotate: true\n  xy: 597, 157\n  size: 145, 147\n  orig: 150, 150\n  offset: 1, 0\n  index: -1\ncike/du_16\n  rotate: false\n  xy: 151, 2\n  size: 146, 148\n  orig: 150, 150\n  offset: 2, 2\n  index: -1\ncike/du_18\n  rotate: false\n  xy: 2, 152\n  size: 148, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\ncike/du_20\n  rotate: true\n  xy: 746, 153\n  size: 149, 138\n  orig: 150, 150\n  offset: 1, 3\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "8ad8ff30-92f7-49d0-b56e-f18ad00f8ecb"
+  },
+  "textures": [
+    {
+      "__uuid__": "a65d7fc5-2791-4905-9f4a-9af7175fb3ad"
+    }
+  ],
+  "scale": 1
+}

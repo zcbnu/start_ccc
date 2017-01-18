@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "defender",
+    "texture": "333e3ff1-2e4e-42d2-a0f4-cc2fe8bf495b",
+    "atlas": "",
+    "rect": [
+      8,
+      4,
+      31,
+      42
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_active01_b03",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "CDkKOi9upURRyOE1xRXHN/eT2OQ",
+      "spine": "3.5.46",
+      "width": 180,
+      "height": 180,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone11",
+        "parent": "root",
+        "x": 832.23,
+        "y": 447.67
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/qiuqiu_01",
+        "bone": "bone11",
+        "attachment": "zhengyizhilian/qiuqiu_29"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/qiuqiu_01": {
+          "zhengyizhilian/qiuqiu_01": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_05": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_09": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_13": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_15": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_17": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_19": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_21": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_23": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_25": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_27": {
+            "width": 180,
+            "height": 180
+          },
+          "zhengyizhilian/qiuqiu_29": {
+            "width": 180,
+            "height": 180
+          }
+        }
+      }
+    },
+    "events": {
+      "next": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "zhengyizhilian/qiuqiu_01": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/qiuqiu_01"
+              },
+              {
+                "time": 0.0417,
+                "name": "zhengyizhilian/qiuqiu_05"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/qiuqiu_09"
+              },
+              {
+                "time": 0.125,
+                "name": "zhengyizhilian/qiuqiu_13"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/qiuqiu_15"
+              },
+              {
+                "time": 0.2083,
+                "name": "zhengyizhilian/qiuqiu_17"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/qiuqiu_19"
+              },
+              {
+                "time": 0.2917,
+                "name": "zhengyizhilian/qiuqiu_21"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/qiuqiu_23"
+              },
+              {
+                "time": 0.375,
+                "name": "zhengyizhilian/qiuqiu_25"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/qiuqiu_27"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/qiuqiu_29"
+              },
+              {
+                "time": 0.5833,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone11": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -707.69,
+                "y": -311.89
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.7,
+                "y": 0.7
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.5,
+            "name": "next"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_active01_b03.png\nsize: 725,513\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/qiuqiu_01\n  rotate: false\n  xy: 2, 119\n  size: 25, 33\n  orig: 180, 180\n  offset: 111, 63\n  index: -1\nzhengyizhilian/qiuqiu_05\n  rotate: false\n  xy: 184, 172\n  size: 180, 164\n  orig: 180, 180\n  offset: 0, 3\n  index: -1\nzhengyizhilian/qiuqiu_09\n  rotate: false\n  xy: 366, 342\n  size: 180, 169\n  orig: 180, 180\n  offset: 0, 0\n  index: -1\nzhengyizhilian/qiuqiu_13\n  rotate: false\n  xy: 366, 171\n  size: 178, 169\n  orig: 180, 180\n  offset: 1, 0\n  index: -1\nzhengyizhilian/qiuqiu_15\n  rotate: false\n  xy: 181, 2\n  size: 180, 168\n  orig: 180, 180\n  offset: 0, 0\n  index: -1\nzhengyizhilian/qiuqiu_17\n  rotate: false\n  xy: 538, 4\n  size: 166, 165\n  orig: 180, 180\n  offset: 6, 1\n  index: -1\nzhengyizhilian/qiuqiu_19\n  rotate: true\n  xy: 548, 171\n  size: 171, 168\n  orig: 180, 180\n  offset: 6, 0\n  index: -1\nzhengyizhilian/qiuqiu_21\n  rotate: true\n  xy: 548, 344\n  size: 167, 175\n  orig: 180, 180\n  offset: 11, 0\n  index: -1\nzhengyizhilian/qiuqiu_23\n  rotate: true\n  xy: 363, 4\n  size: 165, 173\n  orig: 180, 180\n  offset: 8, 0\n  index: -1\nzhengyizhilian/qiuqiu_25\n  rotate: false\n  xy: 184, 338\n  size: 180, 173\n  orig: 180, 180\n  offset: 0, 0\n  index: -1\nzhengyizhilian/qiuqiu_27\n  rotate: false\n  xy: 2, 333\n  size: 180, 178\n  orig: 180, 180\n  offset: 0, 0\n  index: -1\nzhengyizhilian/qiuqiu_29\n  rotate: false\n  xy: 2, 154\n  size: 177, 177\n  orig: 180, 180\n  offset: 2, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "401f2002-3c59-4728-8cf8-59b75dc1c917"
+  },
+  "textures": [
+    {
+      "__uuid__": "7b7ad642-ae06-4128-a194-01b1d00a264d"
+    }
+  ],
+  "scale": 1
+}

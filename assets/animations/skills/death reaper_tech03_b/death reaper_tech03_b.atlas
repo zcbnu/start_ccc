@@ -1,0 +1,62 @@
+
+death reaper_tech03_b.png
+size: 959,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/guangshu_01
+  rotate: true
+  xy: 2, 2
+  size: 82, 291
+  orig: 160, 500
+  offset: 40, 202
+  index: -1
+zhengyizhilian/guangshu_03
+  rotate: true
+  xy: 457, 5
+  size: 102, 500
+  orig: 160, 500
+  offset: 26, 0
+  index: -1
+zhengyizhilian/guangshu_05
+  rotate: false
+  xy: 164, 86
+  size: 129, 500
+  orig: 160, 500
+  offset: 16, 0
+  index: -1
+zhengyizhilian/guangshu_07
+  rotate: true
+  xy: 457, 109
+  size: 153, 500
+  orig: 160, 500
+  offset: 3, 0
+  index: -1
+zhengyizhilian/guangshu_09
+  rotate: false
+  xy: 2, 86
+  size: 160, 500
+  orig: 160, 500
+  offset: 0, 0
+  index: -1
+zhengyizhilian/guangshu_11
+  rotate: false
+  xy: 295, 86
+  size: 160, 500
+  orig: 160, 500
+  offset: 0, 0
+  index: -1
+zhengyizhilian/guangshu_13
+  rotate: true
+  xy: 457, 426
+  size: 160, 500
+  orig: 160, 500
+  offset: 0, 0
+  index: -1
+zhengyizhilian/guangshu_15
+  rotate: true
+  xy: 457, 264
+  size: 160, 500
+  orig: 160, 500
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "223615b8-6f70-4e0c-bbf7-4fdbebb98cff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "skeleton minion_active01_b": {
+      "ver": "1.0.3",
+      "uuid": "b863098c-2476-4bb2-896e-b9dbf4851c02",
+      "rawTextureUuid": "223615b8-6f70-4e0c-bbf7-4fdbebb98cff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 675,
+      "height": 174,
+      "rawWidth": 679,
+      "rawHeight": 178,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

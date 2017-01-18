@@ -1,0 +1,90 @@
+
+qiege_h.png
+size: 611,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a00000
+  rotate: true
+  xy: 280, 12
+  size: 133, 132
+  orig: 135, 134
+  offset: 1, 1
+  index: -1
+a00001
+  rotate: false
+  xy: 2, 141
+  size: 133, 149
+  orig: 135, 151
+  offset: 1, 1
+  index: -1
+a00002
+  rotate: false
+  xy: 137, 141
+  size: 133, 149
+  orig: 135, 151
+  offset: 1, 1
+  index: -1
+a00003
+  rotate: false
+  xy: 145, 2
+  size: 133, 137
+  orig: 135, 139
+  offset: 1, 1
+  index: -1
+a00004
+  rotate: true
+  xy: 2, 2
+  size: 137, 141
+  orig: 139, 143
+  offset: 1, 1
+  index: -1
+a00005
+  rotate: false
+  xy: 272, 147
+  size: 129, 143
+  orig: 131, 145
+  offset: 1, 1
+  index: -1
+a00006
+  rotate: false
+  xy: 403, 148
+  size: 130, 142
+  orig: 132, 144
+  offset: 1, 1
+  index: -1
+a00007
+  rotate: true
+  xy: 414, 18
+  size: 128, 118
+  orig: 130, 120
+  offset: 1, 1
+  index: -1
+a00008
+  rotate: true
+  xy: 535, 201
+  size: 89, 69
+  orig: 91, 71
+  offset: 1, 1
+  index: -1
+a00009
+  rotate: false
+  xy: 534, 86
+  size: 75, 60
+  orig: 77, 62
+  offset: 1, 1
+  index: -1
+a00010
+  rotate: true
+  xy: 534, 8
+  size: 76, 45
+  orig: 78, 47
+  offset: 1, 1
+  index: -1
+a00011
+  rotate: false
+  xy: 535, 158
+  size: 48, 41
+  orig: 50, 43
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "death reaper_tech04_b_b2",
+    "texture": "a9027b65-2d31-434f-b0f0-9a3c44895e1f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      670,
+      347
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      674,
+      351
+    ]
+  }
+}

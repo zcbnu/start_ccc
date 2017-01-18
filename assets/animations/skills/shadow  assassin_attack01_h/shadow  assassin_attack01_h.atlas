@@ -1,0 +1,153 @@
+
+shadow  assassin_attack01_h.png
+size: 980,833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cike/du_00
+  rotate: false
+  xy: 688, 686
+  size: 147, 145
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cike/du_02
+  rotate: true
+  xy: 826, 240
+  size: 145, 146
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cike/du_04
+  rotate: true
+  xy: 835, 538
+  size: 146, 143
+  orig: 150, 150
+  offset: 2, 7
+  index: -1
+cike/du_06
+  rotate: false
+  xy: 680, 138
+  size: 144, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+cike/du_08
+  rotate: false
+  xy: 538, 532
+  size: 148, 147
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+cike/du_10
+  rotate: true
+  xy: 704, 387
+  size: 148, 144
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+cike/du_12
+  rotate: false
+  xy: 837, 686
+  size: 140, 145
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+cike/du_14
+  rotate: false
+  xy: 688, 537
+  size: 145, 147
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+cike/du_16
+  rotate: false
+  xy: 556, 382
+  size: 146, 148
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+cike/du_18
+  rotate: false
+  xy: 538, 681
+  size: 148, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cike/du_20
+  rotate: true
+  xy: 833, 89
+  size: 149, 138
+  orig: 150, 150
+  offset: 1, 3
+  index: -1
+cike/shouji_00
+  rotate: true
+  xy: 271, 564
+  size: 267, 265
+  orig: 350, 350
+  offset: 50, 49
+  index: -1
+cike/shouji_02
+  rotate: false
+  xy: 2, 532
+  size: 267, 299
+  orig: 350, 350
+  offset: 50, 49
+  index: -1
+cike/shouji_03
+  rotate: true
+  xy: 401, 2
+  size: 267, 277
+  orig: 350, 350
+  offset: 50, 49
+  index: -1
+cike/shouji_05
+  rotate: true
+  xy: 266, 271
+  size: 259, 288
+  orig: 350, 350
+  offset: 54, 55
+  index: -1
+cike/shouji_06
+  rotate: false
+  xy: 2, 245
+  size: 262, 285
+  orig: 350, 350
+  offset: 51, 55
+  index: -1
+cike/shouji_07
+  rotate: false
+  xy: 2, 6
+  size: 258, 237
+  orig: 350, 350
+  offset: 49, 63
+  index: -1
+cike/shouji_08
+  rotate: true
+  xy: 262, 64
+  size: 179, 137
+  orig: 350, 350
+  offset: 87, 88
+  index: -1
+cike/shouji_09
+  rotate: false
+  xy: 680, 16
+  size: 151, 120
+  orig: 350, 350
+  offset: 111, 100
+  index: -1
+cike/shouji_10
+  rotate: false
+  xy: 556, 290
+  size: 152, 90
+  orig: 350, 350
+  offset: 111, 108
+  index: -1
+cike/shouji_11
+  rotate: false
+  xy: 710, 302
+  size: 97, 83
+  orig: 350, 350
+  offset: 142, 113
+  index: -1

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadow  assassin2",
+    "texture": "6f2038a6-3b73-45fa-a109-2e0a0bafae34",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2037,
+      2044
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2041,
+      2048
+    ]
+  }
+}

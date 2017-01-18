@@ -1,0 +1,99 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "calamity spreader_attack01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "iL4AUjs21DWTp0QrxQQv4opRBck",
+      "spine": "3.5.46",
+      "width": 0,
+      "height": 0,
+      "images": "./../../calamity spreader_ball/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "attack01_ball_0000",
+        "bone": "bone"
+      }
+    ],
+    "skins": {
+      "default": {
+        "attack01_ball_0000": {
+          "attack01_ball_0010": {
+            "width": 512,
+            "height": 512
+          },
+          "attack01_ball_0011": {
+            "width": 512,
+            "height": 512
+          },
+          "attack01_ball_0012": {
+            "width": 512,
+            "height": 512
+          },
+          "attack01_ball_0027": {
+            "width": 512,
+            "height": 512
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "hitAni": {
+        "slots": {
+          "attack01_ball_0000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "attack01_ball_0010"
+              },
+              {
+                "time": 0.1,
+                "name": "attack01_ball_0011"
+              },
+              {
+                "time": 0.1333,
+                "name": "attack01_ball_0012"
+              },
+              {
+                "time": 0.1667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.1667,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ncalamity spreader_attack01_b.png\nsize: 54,56\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nattack01_ball_0010\n  rotate: false\n  xy: 2, 29\n  size: 26, 25\n  orig: 512, 512\n  offset: 146, 336\n  index: -1\nattack01_ball_0011\n  rotate: false\n  xy: 30, 30\n  size: 22, 24\n  orig: 512, 512\n  offset: 214, 332\n  index: -1\nattack01_ball_0012\n  rotate: true\n  xy: 2, 6\n  size: 21, 26\n  orig: 512, 512\n  offset: 337, 322\n  index: -1\nattack01_ball_0027\n  rotate: false\n  xy: 30, 2\n  size: 20, 26\n  orig: 512, 512\n  offset: 279, 308\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "f19c2d53-41d4-4fa2-a157-c0c21404ad15"
+  },
+  "textures": [
+    {
+      "__uuid__": "e302ab51-90b0-4c15-a2b5-88516cacd5da"
+    }
+  ],
+  "scale": 1
+}

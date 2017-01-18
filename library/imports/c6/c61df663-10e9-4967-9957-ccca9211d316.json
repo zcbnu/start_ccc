@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaokulou_attack01_b",
+    "texture": "f7c022fe-8982-4ebc-93e2-b6355d622f1d",
+    "atlas": "",
+    "rect": [
+      2,
+      5,
+      806,
+      181
+    ],
+    "offset": [
+      -107,
+      32.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ]
+  }
+}

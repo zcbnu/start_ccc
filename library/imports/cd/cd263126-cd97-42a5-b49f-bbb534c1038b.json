@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadow  assassin_hit",
+    "texture": "81142384-0a4c-4ed9-8fb7-e9934391914b",
+    "atlas": "",
+    "rect": [
+      2,
+      11,
+      882,
+      901
+    ],
+    "offset": [
+      -69,
+      50.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

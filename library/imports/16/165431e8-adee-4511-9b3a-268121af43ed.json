@@ -1,0 +1,137 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton minion_attack01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "G0hZnfTKtguOeCoupFxOBq2FT/0",
+      "spine": "3.5.46",
+      "width": 200,
+      "height": 100,
+      "images": "./../../images/skeleton minion/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "x": 127.52,
+        "y": 31.62
+      }
+    ],
+    "slots": [
+      {
+        "name": "sucai/daoguang_1_00",
+        "bone": "bone2",
+        "attachment": "sucai/daoguang_1_03"
+      }
+    ],
+    "skins": {
+      "default": {
+        "sucai/daoguang_1_00": {
+          "sucai/daoguang_1_00": {
+            "width": 200,
+            "height": 100
+          },
+          "sucai/daoguang_1_01": {
+            "width": 200,
+            "height": 100
+          },
+          "sucai/daoguang_1_02": {
+            "width": 200,
+            "height": 100
+          },
+          "sucai/daoguang_1_03": {
+            "width": 200,
+            "height": 100
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "sucai/daoguang_1_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "sucai/daoguang_1_00"
+              },
+              {
+                "time": 0.0667,
+                "name": "sucai/daoguang_1_01"
+              },
+              {
+                "time": 0.1667,
+                "name": "sucai/daoguang_1_02"
+              },
+              {
+                "time": 0.2333,
+                "name": "sucai/daoguang_1_03"
+              },
+              {
+                "time": 0.3,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -55.82,
+                "y": 24.5
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.1,
+                "y": 0.795
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.1667,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nskeleton minion_attack01_b.png\nsize: 715,104\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nsucai/daoguang_1_00\n  rotate: false\n  xy: 2, 2\n  size: 200, 100\n  orig: 200, 100\n  offset: 0, 0\n  index: -1\nsucai/daoguang_1_01\n  rotate: false\n  xy: 204, 2\n  size: 183, 100\n  orig: 200, 100\n  offset: 17, 0\n  index: -1\nsucai/daoguang_1_02\n  rotate: false\n  xy: 389, 6\n  size: 161, 96\n  orig: 200, 100\n  offset: 39, 0\n  index: -1\nsucai/daoguang_1_03\n  rotate: false\n  xy: 552, 63\n  size: 161, 39\n  orig: 200, 100\n  offset: 39, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "654adfe7-48c1-438e-aafc-39c64c3fa5b7"
+  },
+  "textures": [
+    {
+      "__uuid__": "380f744f-821d-471e-b3c0-ad2955257703"
+    }
+  ],
+  "scale": 1
+}

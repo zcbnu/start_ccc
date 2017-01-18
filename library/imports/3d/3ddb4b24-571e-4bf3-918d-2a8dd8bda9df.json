@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "calamity spreader_attack02_hit_shang",
+    "texture": "f6754b04-6794-4ef4-8bf1-b44b3a82383c",
+    "atlas": "",
+    "rect": [
+      2,
+      6,
+      606,
+      198
+    ],
+    "offset": [
+      -207,
+      23
+    ],
+    "originalSize": [
+      1024,
+      256
+    ]
+  }
+}

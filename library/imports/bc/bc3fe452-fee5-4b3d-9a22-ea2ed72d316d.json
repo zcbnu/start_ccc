@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "calamity spreader_ball",
+    "texture": "1b15ba50-0cd6-45fa-9a41-30c7c4ade9bf",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      832,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      836,
+      148
+    ]
+  }
+}

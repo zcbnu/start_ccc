@@ -1,0 +1,110 @@
+
+death reaper_tech03_s.png
+size: 993,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/huangshu_2_03
+  rotate: false
+  xy: 2, 66
+  size: 173, 362
+  orig: 250, 600
+  offset: 39, 14
+  index: -1
+zhengyizhilian/huangshu_2_05
+  rotate: false
+  xy: 530, 571
+  size: 173, 447
+  orig: 250, 600
+  offset: 39, 15
+  index: -1
+zhengyizhilian/huangshu_2_07
+  rotate: false
+  xy: 179, 433
+  size: 175, 585
+  orig: 250, 600
+  offset: 38, 15
+  index: -1
+zhengyizhilian/huangshu_2_09
+  rotate: false
+  xy: 2, 430
+  size: 175, 588
+  orig: 250, 600
+  offset: 38, 12
+  index: -1
+zhengyizhilian/huangshu_2_11
+  rotate: false
+  xy: 356, 512
+  size: 172, 506
+  orig: 250, 600
+  offset: 40, 94
+  index: -1
+zhengyizhilian/yan_00
+  rotate: false
+  xy: 425, 25
+  size: 266, 203
+  orig: 300, 300
+  offset: 19, 12
+  index: -1
+zhengyizhilian/yan_02
+  rotate: false
+  xy: 705, 532
+  size: 286, 221
+  orig: 300, 300
+  offset: 9, 16
+  index: -1
+zhengyizhilian/yan_04
+  rotate: true
+  xy: 177, 146
+  size: 282, 246
+  orig: 300, 300
+  offset: 11, 12
+  index: -1
+zhengyizhilian/yan_06
+  rotate: true
+  xy: 425, 230
+  size: 280, 262
+  orig: 300, 300
+  offset: 12, 10
+  index: -1
+zhengyizhilian/yan_08
+  rotate: false
+  xy: 705, 755
+  size: 280, 263
+  orig: 300, 300
+  offset: 12, 10
+  index: -1
+zhengyizhilian/yan_10
+  rotate: false
+  xy: 689, 267
+  size: 277, 263
+  orig: 300, 300
+  offset: 13, 10
+  index: -1
+zhengyizhilian/yan_12
+  rotate: false
+  xy: 693, 2
+  size: 272, 263
+  orig: 300, 300
+  offset: 16, 10
+  index: -1
+
+death reaper_tech03_s2.png
+size: 367,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengyizhilian/huangshu_2_01
+  rotate: false
+  xy: 197, 2
+  size: 168, 236
+  orig: 250, 600
+  offset: 41, 14
+  index: -1
+zhengyizhilian/yan_14
+  rotate: false
+  xy: 2, 14
+  size: 193, 224
+  orig: 300, 300
+  offset: 56, 32
+  index: -1

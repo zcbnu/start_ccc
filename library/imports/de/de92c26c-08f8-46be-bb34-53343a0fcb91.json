@@ -1,0 +1,169 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shadow  assassin_active01_b",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ZWo/34CDOWrw70dwkzByswRQkjI",
+      "spine": "3.5.46",
+      "width": 498.76,
+      "height": 447.62,
+      "images": "./../../shadow assassin(1)/shadow assassin/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": 128.47,
+        "y": 32
+      }
+    ],
+    "slots": [
+      {
+        "name": "cike/ciji_16",
+        "bone": "bone",
+        "attachment": "cike/ciji_23"
+      }
+    ],
+    "skins": {
+      "default": {
+        "cike/ciji_16": {
+          "cike/ciji_16": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/ciji_17": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/ciji_18": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/ciji_19": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/ciji_20": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/ciji_21": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/ciji_22": {
+            "width": 150,
+            "height": 150
+          },
+          "cike/ciji_23": {
+            "width": 150,
+            "height": 150
+          }
+        }
+      }
+    },
+    "events": {
+      "hit": {}
+    },
+    "animations": {
+      "bulletAni": {
+        "slots": {
+          "cike/ciji_16": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "cike/ciji_16"
+              },
+              {
+                "time": 0.0333,
+                "name": "cike/ciji_17"
+              },
+              {
+                "time": 0.0667,
+                "name": "cike/ciji_18"
+              },
+              {
+                "time": 0.1667,
+                "name": "cike/ciji_19"
+              },
+              {
+                "time": 0.2667,
+                "name": "cike/ciji_20"
+              },
+              {
+                "time": 0.3,
+                "name": "cike/ciji_21"
+              },
+              {
+                "time": 0.3667,
+                "name": "cike/ciji_22"
+              },
+              {
+                "time": 0.4,
+                "name": "cike/ciji_23"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -97.55,
+                "y": 29.14
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": -1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.2667,
+            "name": "hit"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nshadow  assassin_active01_b.png\nsize: 816,85\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncike/ciji_16\n  rotate: false\n  xy: 343, 6\n  size: 111, 77\n  orig: 150, 150\n  offset: 22, 35\n  index: -1\ncike/ciji_17\n  rotate: false\n  xy: 116, 5\n  size: 111, 78\n  orig: 150, 150\n  offset: 22, 34\n  index: -1\ncike/ciji_18\n  rotate: false\n  xy: 229, 6\n  size: 112, 77\n  orig: 150, 150\n  offset: 22, 34\n  index: -1\ncike/ciji_19\n  rotate: false\n  xy: 2, 2\n  size: 112, 81\n  orig: 150, 150\n  offset: 22, 34\n  index: -1\ncike/ciji_20\n  rotate: false\n  xy: 456, 6\n  size: 108, 77\n  orig: 150, 150\n  offset: 26, 42\n  index: -1\ncike/ciji_21\n  rotate: true\n  xy: 741, 6\n  size: 77, 73\n  orig: 150, 150\n  offset: 23, 36\n  index: -1\ncike/ciji_22\n  rotate: false\n  xy: 658, 4\n  size: 81, 79\n  orig: 150, 150\n  offset: 19, 30\n  index: -1\ncike/ciji_23\n  rotate: false\n  xy: 566, 2\n  size: 90, 81\n  orig: 150, 150\n  offset: 15, 24\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "5a0474c6-4241-4338-a91f-09a8234b378f"
+  },
+  "textures": [
+    {
+      "__uuid__": "c5bbf441-029c-41a5-821b-4261ed13691d"
+    }
+  ],
+  "scale": 1
+}

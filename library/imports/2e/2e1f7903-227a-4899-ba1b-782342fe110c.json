@@ -1,0 +1,274 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "xiaokulou_enter_01",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ANXg2E32/KBglLEYXJsG1gshrfs",
+      "spine": "3.3.07",
+      "width": 0,
+      "height": 0,
+      "images": "./../skeleton minion/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "x": -128.25,
+        "y": 64.84
+      },
+      {
+        "name": "bone5",
+        "parent": "root",
+        "x": -127.87,
+        "y": 0.36
+      }
+    ],
+    "slots": [
+      {
+        "name": "texiaosucai/yan_1_00",
+        "bone": "bone5"
+      },
+      {
+        "name": "texiaosucai/yan_00",
+        "bone": "bone2"
+      }
+    ],
+    "skins": {
+      "default": {
+        "texiaosucai/yan_00": {
+          "texiaosucai/yan_00": {
+            "width": 100,
+            "height": 100
+          },
+          "texiaosucai/yan_01": {
+            "width": 100,
+            "height": 100
+          },
+          "texiaosucai/yan_02": {
+            "width": 100,
+            "height": 100
+          },
+          "texiaosucai/yan_03": {
+            "width": 100,
+            "height": 100
+          },
+          "texiaosucai/yan_04": {
+            "width": 100,
+            "height": 100
+          },
+          "texiaosucai/yan_05": {
+            "width": 100,
+            "height": 100
+          },
+          "texiaosucai/yan_06": {
+            "width": 100,
+            "height": 100
+          }
+        },
+        "texiaosucai/yan_1_00": {
+          "texiaosucai/yan_1_00": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_01": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_02": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_03": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_04": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_05": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_06": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_07": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_08": {
+            "width": 200,
+            "height": 200
+          },
+          "texiaosucai/yan_1_09": {
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    },
+    "animations": {
+      "skillAni": {
+        "slots": {
+          "texiaosucai/yan_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "texiaosucai/yan_00"
+              },
+              {
+                "time": 0.1666,
+                "name": "texiaosucai/yan_01"
+              },
+              {
+                "time": 0.2333,
+                "name": "texiaosucai/yan_02"
+              },
+              {
+                "time": 0.3,
+                "name": "texiaosucai/yan_03"
+              },
+              {
+                "time": 0.3666,
+                "name": "texiaosucai/yan_04"
+              },
+              {
+                "time": 0.4333,
+                "name": "texiaosucai/yan_05"
+              },
+              {
+                "time": 0.5,
+                "name": "texiaosucai/yan_06"
+              },
+              {
+                "time": 0.5666,
+                "name": null
+              }
+            ]
+          },
+          "texiaosucai/yan_1_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "texiaosucai/yan_1_00"
+              },
+              {
+                "time": 0.1666,
+                "name": "texiaosucai/yan_1_01"
+              },
+              {
+                "time": 0.2333,
+                "name": "texiaosucai/yan_1_02"
+              },
+              {
+                "time": 0.3,
+                "name": "texiaosucai/yan_1_03"
+              },
+              {
+                "time": 0.3666,
+                "name": "texiaosucai/yan_1_04"
+              },
+              {
+                "time": 0.4333,
+                "name": "texiaosucai/yan_1_05"
+              },
+              {
+                "time": 0.5,
+                "name": "texiaosucai/yan_1_06"
+              },
+              {
+                "time": 0.5666,
+                "name": "texiaosucai/yan_1_07"
+              },
+              {
+                "time": 0.6333,
+                "name": "texiaosucai/yan_1_08"
+              },
+              {
+                "time": 0.7,
+                "name": "texiaosucai/yan_1_09"
+              },
+              {
+                "time": 0.7666,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 123.78,
+                "y": -43.28
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 123.33,
+                "y": 31.06
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nxiaokulou_enter_01.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ntexiaosucai/yan_00\n  rotate: false\n  xy: 2, 2\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_01\n  rotate: false\n  xy: 104, 2\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_02\n  rotate: false\n  xy: 206, 2\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_03\n  rotate: false\n  xy: 308, 2\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_04\n  rotate: false\n  xy: 410, 2\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_05\n  rotate: false\n  xy: 512, 2\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_06\n  rotate: false\n  xy: 614, 2\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_00\n  rotate: false\n  xy: 2, 306\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_01\n  rotate: false\n  xy: 2, 104\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_02\n  rotate: false\n  xy: 204, 306\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_03\n  rotate: false\n  xy: 204, 104\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_04\n  rotate: false\n  xy: 406, 306\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_05\n  rotate: false\n  xy: 406, 104\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_06\n  rotate: false\n  xy: 608, 306\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_07\n  rotate: false\n  xy: 608, 104\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_08\n  rotate: false\n  xy: 810, 306\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\ntexiaosucai/yan_1_09\n  rotate: false\n  xy: 810, 104\n  size: 200, 200\n  orig: 200, 200\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "3c4f0d36-c3b3-425d-8721-ac2d2932cf29"
+  },
+  "textures": [
+    {
+      "__uuid__": "1d11b8ac-aead-43c2-a3c0-e48ea8b15b1b"
+    }
+  ],
+  "scale": 1
+}

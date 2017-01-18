@@ -1,0 +1,286 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "calamity spreader_attack01_h",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "IVBPoBCXk8hG1q30nMn7yqbpG4s",
+      "spine": "3.5.46",
+      "width": 200,
+      "height": 200,
+      "fps": 24,
+      "images": "./../calamity spreader/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "x": 160.01,
+        "y": -96.34
+      },
+      {
+        "name": "bone5",
+        "parent": "root",
+        "x": 511.88,
+        "y": 64.63
+      }
+    ],
+    "slots": [
+      {
+        "name": "fashi/shoujidu_00",
+        "bone": "bone5"
+      },
+      {
+        "name": "fashi/dufang_00",
+        "bone": "bone3",
+        "attachment": "fashi/dufang_10"
+      }
+    ],
+    "skins": {
+      "default": {
+        "fashi/dufang_00": {
+          "fashi/dufang_00": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_02": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_04": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_06": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_08": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/dufang_10": {
+            "width": 200,
+            "height": 200
+          }
+        },
+        "fashi/shoujidu_00": {
+          "fashi/shoujidu_00": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_02": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_04": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_06": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_08": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_10": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_12": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_14": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_16": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_18": {
+            "width": 100,
+            "height": 100
+          },
+          "fashi/shoujidu_20": {
+            "width": 100,
+            "height": 100
+          }
+        }
+      }
+    },
+    "animations": {
+      "hitAni": {
+        "slots": {
+          "fashi/dufang_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "fashi/dufang_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "fashi/dufang_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "fashi/dufang_04"
+              },
+              {
+                "time": 0.25,
+                "name": "fashi/dufang_06"
+              },
+              {
+                "time": 0.3333,
+                "name": "fashi/dufang_08"
+              },
+              {
+                "time": 0.4167,
+                "name": "fashi/dufang_10"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "fashi/shoujidu_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "fashi/shoujidu_00"
+              },
+              {
+                "time": 0.25,
+                "name": "fashi/shoujidu_02"
+              },
+              {
+                "time": 0.3333,
+                "name": "fashi/shoujidu_04"
+              },
+              {
+                "time": 0.4167,
+                "name": "fashi/shoujidu_06"
+              },
+              {
+                "time": 0.5,
+                "name": "fashi/shoujidu_08"
+              },
+              {
+                "time": 0.5833,
+                "name": "fashi/shoujidu_10"
+              },
+              {
+                "time": 0.6667,
+                "name": "fashi/shoujidu_12"
+              },
+              {
+                "time": 0.75,
+                "name": "fashi/shoujidu_14"
+              },
+              {
+                "time": 0.8333,
+                "name": "fashi/shoujidu_16"
+              },
+              {
+                "time": 0.9167,
+                "name": "fashi/shoujidu_18"
+              },
+              {
+                "time": 1,
+                "name": "fashi/shoujidu_20"
+              },
+              {
+                "time": 1.0833,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 345.6
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -159.01,
+                "y": 161.34
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 12
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -510.59,
+                "y": -3.14
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ncalamity spreader_attack01_h.png\nsize: 951,249\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfashi/dufang_00\n  rotate: false\n  xy: 720, 152\n  size: 102, 95\n  orig: 200, 200\n  offset: 41, 52\n  index: -1\nfashi/dufang_02\n  rotate: false\n  xy: 598, 141\n  size: 120, 106\n  orig: 200, 200\n  offset: 35, 46\n  index: -1\nfashi/dufang_04\n  rotate: false\n  xy: 462, 127\n  size: 134, 120\n  orig: 200, 200\n  offset: 31, 37\n  index: -1\nfashi/dufang_06\n  rotate: false\n  xy: 322, 115\n  size: 138, 132\n  orig: 200, 200\n  offset: 29, 34\n  index: -1\nfashi/dufang_08\n  rotate: false\n  xy: 169, 111\n  size: 151, 136\n  orig: 200, 200\n  offset: 23, 30\n  index: -1\nfashi/dufang_10\n  rotate: false\n  xy: 2, 98\n  size: 165, 149\n  orig: 200, 200\n  offset: 13, 24\n  index: -1\nfashi/shoujidu_00\n  rotate: true\n  xy: 294, 9\n  size: 100, 91\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_02\n  rotate: true\n  xy: 387, 16\n  size: 97, 92\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_04\n  rotate: false\n  xy: 481, 30\n  size: 96, 95\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_06\n  rotate: false\n  xy: 196, 13\n  size: 96, 96\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_08\n  rotate: true\n  xy: 579, 30\n  size: 95, 92\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_10\n  rotate: false\n  xy: 764, 59\n  size: 95, 90\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_12\n  rotate: true\n  xy: 102, 2\n  size: 94, 92\n  orig: 100, 100\n  offset: 1, 0\n  index: -1\nfashi/shoujidu_14\n  rotate: true\n  xy: 673, 43\n  size: 96, 89\n  orig: 100, 100\n  offset: 0, 3\n  index: -1\nfashi/shoujidu_16\n  rotate: false\n  xy: 824, 151\n  size: 99, 96\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_18\n  rotate: false\n  xy: 2, 2\n  size: 98, 94\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nfashi/shoujidu_20\n  rotate: true\n  xy: 861, 53\n  size: 96, 88\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "649c5b98-5b38-4bd0-9ddf-2ee318c5d818"
+  },
+  "textures": [
+    {
+      "__uuid__": "a9829407-9705-4e9a-a8c0-75ba583de768"
+    }
+  ],
+  "scale": 1
+}

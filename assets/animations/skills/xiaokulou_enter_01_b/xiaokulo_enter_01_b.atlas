@@ -1,0 +1,139 @@
+
+xiaokulo_enter_01_b.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiaosucai/baopo_00
+  rotate: false
+  xy: 2, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_01
+  rotate: false
+  xy: 2, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_02
+  rotate: false
+  xy: 254, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_03
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_04
+  rotate: false
+  xy: 254, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_05
+  rotate: false
+  xy: 506, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_06
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_07
+  rotate: false
+  xy: 254, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_08
+  rotate: false
+  xy: 506, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_09
+  rotate: false
+  xy: 758, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_10
+  rotate: false
+  xy: 254, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/baopo_11
+  rotate: false
+  xy: 506, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_00
+  rotate: false
+  xy: 758, 656
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_01
+  rotate: false
+  xy: 506, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_02
+  rotate: false
+  xy: 758, 554
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_03
+  rotate: false
+  xy: 860, 656
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_04
+  rotate: false
+  xy: 506, 50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_05
+  rotate: false
+  xy: 608, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_06
+  rotate: false
+  xy: 758, 452
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,208 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "death reaper_tech04_h",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "A7qUiCD9nirTXI6QndKAF5ZpUD8",
+      "spine": "3.5.46",
+      "width": 795.46,
+      "height": 583.87,
+      "fps": 24,
+      "images": "./../death reaper(1)/death reaper/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "x": 606.73,
+        "y": -32.3
+      }
+    ],
+    "slots": [
+      {
+        "name": "zhengyizhilian/xin_00",
+        "bone": "bone2"
+      }
+    ],
+    "skins": {
+      "default": {
+        "zhengyizhilian/xin_00": {
+          "zhengyizhilian/xin_00": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_02": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_06": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_10": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_12": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_14": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_16": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_18": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_20": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_22": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_24": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_26": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_28": {
+            "width": 250,
+            "height": 400
+          },
+          "zhengyizhilian/xin_30": {
+            "width": 250,
+            "height": 400
+          }
+        }
+      }
+    },
+    "animations": {
+      "hitAni": {
+        "slots": {
+          "zhengyizhilian/xin_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhengyizhilian/xin_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "zhengyizhilian/xin_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "zhengyizhilian/xin_06"
+              },
+              {
+                "time": 0.25,
+                "name": "zhengyizhilian/xin_10"
+              },
+              {
+                "time": 0.3333,
+                "name": "zhengyizhilian/xin_12"
+              },
+              {
+                "time": 0.4167,
+                "name": "zhengyizhilian/xin_14"
+              },
+              {
+                "time": 0.5,
+                "name": "zhengyizhilian/xin_16"
+              },
+              {
+                "time": 0.5833,
+                "name": "zhengyizhilian/xin_18"
+              },
+              {
+                "time": 0.6667,
+                "name": "zhengyizhilian/xin_20"
+              },
+              {
+                "time": 0.75,
+                "name": "zhengyizhilian/xin_22"
+              },
+              {
+                "time": 0.8333,
+                "name": "zhengyizhilian/xin_24"
+              },
+              {
+                "time": 0.9167,
+                "name": "zhengyizhilian/xin_26"
+              },
+              {
+                "time": 1,
+                "name": "zhengyizhilian/xin_28"
+              },
+              {
+                "time": 1.0833,
+                "name": "zhengyizhilian/xin_30"
+              },
+              {
+                "time": 1.1667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -606.73,
+                "y": 32.3
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ndeath reaper_tech04_h.png\nsize: 946,918\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhengyizhilian/xin_00\n  rotate: true\n  xy: 765, 494\n  size: 194, 179\n  orig: 250, 400\n  offset: 28, 181\n  index: -1\nzhengyizhilian/xin_02\n  rotate: false\n  xy: 486, 224\n  size: 200, 238\n  orig: 250, 400\n  offset: 24, 125\n  index: -1\nzhengyizhilian/xin_06\n  rotate: false\n  xy: 2, 104\n  size: 209, 274\n  orig: 250, 400\n  offset: 18, 86\n  index: -1\nzhengyizhilian/xin_10\n  rotate: true\n  xy: 515, 690\n  size: 226, 262\n  orig: 250, 400\n  offset: 14, 87\n  index: -1\nzhengyizhilian/xin_12\n  rotate: true\n  xy: 515, 471\n  size: 217, 248\n  orig: 250, 400\n  offset: 13, 94\n  index: -1\nzhengyizhilian/xin_14\n  rotate: true\n  xy: 246, 464\n  size: 219, 257\n  orig: 250, 400\n  offset: 12, 79\n  index: -1\nzhengyizhilian/xin_16\n  rotate: true\n  xy: 688, 239\n  size: 230, 226\n  orig: 250, 400\n  offset: 2, 103\n  index: -1\nzhengyizhilian/xin_18\n  rotate: false\n  xy: 2, 380\n  size: 223, 275\n  orig: 250, 400\n  offset: 9, 46\n  index: -1\nzhengyizhilian/xin_20\n  rotate: true\n  xy: 213, 4\n  size: 226, 252\n  orig: 250, 400\n  offset: 7, 62\n  index: -1\nzhengyizhilian/xin_22\n  rotate: true\n  xy: 227, 232\n  size: 230, 257\n  orig: 250, 400\n  offset: 7, 49\n  index: -1\nzhengyizhilian/xin_24\n  rotate: true\n  xy: 246, 685\n  size: 231, 267\n  orig: 250, 400\n  offset: 1, 29\n  index: -1\nzhengyizhilian/xin_26\n  rotate: false\n  xy: 2, 657\n  size: 242, 259\n  orig: 250, 400\n  offset: 0, 20\n  index: -1\nzhengyizhilian/xin_28\n  rotate: true\n  xy: 467, 2\n  size: 220, 243\n  orig: 250, 400\n  offset: 6, 18\n  index: -1\nzhengyizhilian/xin_30\n  rotate: false\n  xy: 712, 11\n  size: 225, 226\n  orig: 250, 400\n  offset: 1, 6\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "21e44abb-d223-474f-a223-4e10a6e9d6d8"
+  },
+  "textures": [
+    {
+      "__uuid__": "b433ced5-7bc3-4aa6-91b1-40685991814e"
+    }
+  ],
+  "scale": 1
+}

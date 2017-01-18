@@ -1,0 +1,125 @@
+
+xiaokulou_enter_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiaosucai/yan_00
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_01
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_02
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_03
+  rotate: false
+  xy: 308, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_04
+  rotate: false
+  xy: 410, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_05
+  rotate: false
+  xy: 512, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_06
+  rotate: false
+  xy: 614, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_00
+  rotate: false
+  xy: 2, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_01
+  rotate: false
+  xy: 2, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_02
+  rotate: false
+  xy: 204, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_03
+  rotate: false
+  xy: 204, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_04
+  rotate: false
+  xy: 406, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_05
+  rotate: false
+  xy: 406, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_06
+  rotate: false
+  xy: 608, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_07
+  rotate: false
+  xy: 608, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_08
+  rotate: false
+  xy: 810, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+texiaosucai/yan_1_09
+  rotate: false
+  xy: 810, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

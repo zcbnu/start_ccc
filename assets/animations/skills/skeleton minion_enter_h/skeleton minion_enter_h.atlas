@@ -1,0 +1,76 @@
+
+skeleton minion_enter_h.png
+size: 634,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sucai/suishi0000
+  rotate: false
+  xy: 422, 7
+  size: 178, 65
+  orig: 250, 180
+  offset: 19, 12
+  index: -1
+sucai/suishi0006
+  rotate: true
+  xy: 2, 58
+  size: 233, 135
+  orig: 250, 180
+  offset: 9, 15
+  index: -1
+sucai/suishi0008
+  rotate: true
+  xy: 139, 62
+  size: 229, 147
+  orig: 250, 180
+  offset: 10, 14
+  index: -1
+sucai/suishi0012
+  rotate: true
+  xy: 288, 74
+  size: 217, 141
+  orig: 250, 180
+  offset: 15, 14
+  index: -1
+sucai/suishi0015
+  rotate: true
+  xy: 431, 148
+  size: 143, 145
+  orig: 250, 180
+  offset: 53, 14
+  index: -1
+sucai/suishi0018
+  rotate: false
+  xy: 2, 2
+  size: 138, 54
+  orig: 250, 180
+  offset: 53, 14
+  index: -1
+sucai/suishi0022
+  rotate: false
+  xy: 142, 6
+  size: 138, 54
+  orig: 250, 180
+  offset: 53, 14
+  index: -1
+sucai/suishi0026
+  rotate: false
+  xy: 282, 6
+  size: 138, 54
+  orig: 250, 180
+  offset: 53, 14
+  index: -1
+sucai/suishi0029
+  rotate: true
+  xy: 578, 153
+  size: 138, 54
+  orig: 250, 180
+  offset: 53, 14
+  index: -1
+sucai/suishi0030
+  rotate: false
+  xy: 431, 92
+  size: 137, 54
+  orig: 250, 180
+  offset: 54, 14
+  index: -1

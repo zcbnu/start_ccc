@@ -1,0 +1,193 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "calamity spreader_active01_h_01",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "u8cKtyMSodx8Y/GE6xqYz5RK+PU",
+      "spine": "3.5.46",
+      "width": 0,
+      "height": 0,
+      "fps": 24,
+      "images": "./../calamity spreader/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone6",
+        "parent": "root",
+        "x": 383.96,
+        "y": -193.17
+      }
+    ],
+    "slots": [
+      {
+        "name": "fashi/toudu_00",
+        "bone": "bone6"
+      }
+    ],
+    "skins": {
+      "default": {
+        "fashi/toudu_00": {
+          "fashi/toudu_00": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_02": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_04": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_06": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_08": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_10": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_12": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_14": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_16": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_18": {
+            "width": 200,
+            "height": 200
+          },
+          "fashi/toudu_20": {
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    },
+    "events": {
+      "next": {}
+    },
+    "animations": {
+      "hitAni": {
+        "slots": {
+          "fashi/toudu_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "fashi/toudu_00"
+              },
+              {
+                "time": 0.0833,
+                "name": "fashi/toudu_02"
+              },
+              {
+                "time": 0.1667,
+                "name": "fashi/toudu_04"
+              },
+              {
+                "time": 0.25,
+                "name": "fashi/toudu_06"
+              },
+              {
+                "time": 0.3333,
+                "name": "fashi/toudu_08"
+              },
+              {
+                "time": 0.4167,
+                "name": "fashi/toudu_10"
+              },
+              {
+                "time": 0.5,
+                "name": "fashi/toudu_12"
+              },
+              {
+                "time": 0.5833,
+                "name": "fashi/toudu_14"
+              },
+              {
+                "time": 0.6667,
+                "name": "fashi/toudu_16"
+              },
+              {
+                "time": 0.75,
+                "name": "fashi/toudu_18"
+              },
+              {
+                "time": 0.8333,
+                "name": "fashi/toudu_20"
+              },
+              {
+                "time": 0.9167,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone6": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -392.63,
+                "y": 367.22
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.5833,
+            "name": "next"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ncalamity spreader_active01_h_01.png\nsize: 710,536\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfashi/toudu_00\n  rotate: false\n  xy: 385, 358\n  size: 186, 176\n  orig: 200, 200\n  offset: 0, 5\n  index: -1\nfashi/toudu_02\n  rotate: false\n  xy: 2, 358\n  size: 193, 176\n  orig: 200, 200\n  offset: 0, 5\n  index: -1\nfashi/toudu_04\n  rotate: true\n  xy: 192, 2\n  size: 174, 176\n  orig: 200, 200\n  offset: 4, 5\n  index: -1\nfashi/toudu_06\n  rotate: false\n  xy: 377, 177\n  size: 170, 176\n  orig: 200, 200\n  offset: 0, 5\n  index: -1\nfashi/toudu_08\n  rotate: false\n  xy: 549, 179\n  size: 156, 177\n  orig: 200, 200\n  offset: 19, 7\n  index: -1\nfashi/toudu_10\n  rotate: false\n  xy: 546, 3\n  size: 162, 172\n  orig: 200, 200\n  offset: 18, 9\n  index: -1\nfashi/toudu_12\n  rotate: true\n  xy: 370, 9\n  size: 166, 174\n  orig: 200, 200\n  offset: 12, 7\n  index: -1\nfashi/toudu_14\n  rotate: false\n  xy: 197, 178\n  size: 178, 175\n  orig: 200, 200\n  offset: 4, 6\n  index: -1\nfashi/toudu_16\n  rotate: false\n  xy: 2, 3\n  size: 188, 175\n  orig: 200, 200\n  offset: 0, 5\n  index: -1\nfashi/toudu_18\n  rotate: false\n  xy: 2, 180\n  size: 193, 176\n  orig: 200, 200\n  offset: 0, 5\n  index: -1\nfashi/toudu_20\n  rotate: false\n  xy: 197, 355\n  size: 186, 179\n  orig: 200, 200\n  offset: 0, 6\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "9fd4039c-156f-449d-822c-df08ffed542a"
+  },
+  "textures": [
+    {
+      "__uuid__": "cab4cb30-277c-4f51-a844-f235189bd79f"
+    }
+  ],
+  "scale": 1
+}
