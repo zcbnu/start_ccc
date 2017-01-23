@@ -63,7 +63,7 @@ cc.Class({
         this.node.addChild(newStar);
         // 为星星设置一个随机位置
         newStar.setPosition(this.getNewStarPosition());
-        newStar.getComponent('Star').game = this;
+        newStar.getComponent('skeleton').game = this;
         // 重置计时器，根据消失时间范围随机取一个值
         this.starDuration = this.minStarDuration + cc.random0To1() * (this.maxStarDuration - this.minStarDuration);
         this.timer = 0;

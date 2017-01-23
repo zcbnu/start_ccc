@@ -12,6 +12,15 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
+        names : {
+            default: [],
+            type: [cc.String]
+        },
+        
+        enemies: {
+            default: [],
+            type: [cc.Node]
+        }
     },
 
     // use this for initialization

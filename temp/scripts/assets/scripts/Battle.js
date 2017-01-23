@@ -1,5 +1,5 @@
 "use strict";
-cc._RFpush(module, 'f452crsBSBIFKc4ZHwzFXFu', 'Battle');
+cc._RFpush(module, '6e28fawVt5Bl6ta+Td0slph', 'Battle');
 // scripts/Battle.js
 
 cc.Class({
@@ -16,6 +16,15 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
+        names: {
+            "default": [],
+            type: [cc.String]
+        },
+
+        enemies: {
+            "default": [],
+            type: [cc.Node]
+        }
     },
 
     // use this for initialization

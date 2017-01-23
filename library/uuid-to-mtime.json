@@ -275,13 +275,13 @@
     "relativePath": "textures/star.png"
   },
   "42caaec2-53ae-4734-9145-3916c2686380": {
-    "asset": 1484724545000,
-    "meta": 1484724545000,
+    "asset": 1484904053000,
+    "meta": 1484904053000,
     "relativePath": "game.fire"
   },
   "44296862-389f-4663-a45d-0e4d45964633": {
-    "asset": 1484730427000,
-    "meta": 1484743412000,
+    "asset": 1484905612000,
+    "meta": 1485162820000,
     "relativePath": "scripts"
   },
   "24273bbe-b45a-4222-a5b0-56a5a81161d8": {
@@ -300,8 +300,8 @@
     "relativePath": "star.prefab"
   },
   "54d606b0-8dfe-4549-9874-03011071ecb5": {
-    "asset": 1484724526000,
-    "meta": 1484724526000,
+    "asset": 1484888529000,
+    "meta": 1484888529000,
     "relativePath": "scripts/Game.js"
   },
   "1385a242-1c43-405f-8450-e8239cb4e959": {
@@ -330,8 +330,8 @@
     "relativePath": "textures/skeleton minion/skeleton minion.json"
   },
   "813cdf81-32ee-45fe-9d58-cef1d51bfdc1": {
-    "asset": 1484746479000,
-    "meta": 1484746479000,
+    "asset": 1484888088000,
+    "meta": 1484888088000,
     "relativePath": "battledemo.fire"
   },
   "996ac4c4-910f-4d99-8139-d51af7a47651": {
@@ -2024,19 +2024,39 @@
     "meta": 1484724915000,
     "relativePath": "images/tomb.png"
   },
-  "f452caec-0520-4814-a738-647c3315716e": {
-    "asset": 1484730419000,
-    "meta": 1484730427000,
-    "relativePath": "scripts/Battle.js"
-  },
   "2a31aeda-ad86-4df9-b766-f721f59eb03f": {
     "asset": 1484746194000,
     "meta": 1484746194000,
     "relativePath": "MoveAttack.anim"
   },
   "0d7515b0-5114-4568-858e-3f8b2323ee43": {
-    "asset": 1484746186000,
-    "meta": 1484746186000,
+    "asset": 1485165719000,
+    "meta": 1485165719000,
     "relativePath": "scripts/skeleton.js"
+  },
+  "6e28f6b0-56de-4197-ab5a-f93774b25a61": {
+    "asset": 1484885491000,
+    "meta": 1484885491000,
+    "relativePath": "scripts/Battle.js"
+  },
+  "a7400bd2-6b79-4645-8498-4bebe0e61223": {
+    "asset": 1485165743000,
+    "meta": 1485165743000,
+    "relativePath": "Role.fire"
+  },
+  "0ed45022-d892-4216-bf2b-19ca34fc3d0b": {
+    "asset": 1484905148000,
+    "meta": 1484905148000,
+    "relativePath": "scripts/Role.js"
+  },
+  "d87e8ffb-c0c8-42f6-92f4-cd01993f363a": {
+    "asset": 1484905598000,
+    "meta": 1484905598000,
+    "relativePath": "scripts/action"
+  },
+  "830319a6-3546-4e64-89f0-40f3782452c2": {
+    "asset": 1484909125000,
+    "meta": 1484909125000,
+    "relativePath": "skeleton minion 4.prefab"
   }
 }
