@@ -12,12 +12,53 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
+        targets: {
+            default: [],
+            type: cc.Node,
+        }
     },
 
     // use this for initialization
     onLoad: function () {
         var animation = this.node.getComponent(cc.Animation);
         animation.on('stop', this.onStopMove, this);
+        animation.on('mousedown', this.onStopMove, this);
+        cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this.onStopMove, this);
+    },
+    
+    destory: function () {
+        cc.systemEvent.off(cc.SystemEvent.EventType.KEY_DOWN, this.onStopMove, this);  
+    },
+    
+    animationStateEvent: function(obj, trackIndex, type, event, loopCount) {
+        var entry = this.node.getComponent(sp.Skeleton).getCurrent(0);
+        var animationName = (entry && entry.animation) ? entry.animation.name : 0;
+
+        switch(type)
+        {
+            // case ANIMATION_TYPE.ANIMATION_START:
+            //     cc.log(trackIndex + " start: " + animationName);
+            //     break;
+            // case ANIMATION_TYPE.ANIMATION_END:
+            //     cc.log(trackIndex + " end:" + animationName);
+            //     break;
+            case 3:
+                cc.log(trackIndex + " event: " + animationName);
+                break;
+            // case ANIMATION_TYPE.ANIMATION_COMPLETE:
+            //     cc.log(trackIndex + " complete: " + animationName + "," + loopCount);
+            //     if(this._flipped){
+            //         this._flipped = false;
+            //         this._spineboy.setScaleX(0.5);
+            //     }else{
+            //         this._flipped = true;
+            //         this._spineboy.setScaleX(-0.5);
+            //     }
+            //     break;
+            default :
+                cc.log("default event log");
+                break;
+        }
     },
     
     attackEnemy: function () {
@@ -31,15 +72,13 @@ cc.Class({
         // this.node.setScale(2);
         var spine = this.node.getComponent(sp.Skeleton);
         spine.setAnimation (0, "active01", false, 0);
+        
         // spine.setEndListener(()=>{this.node.getComponent(sp.Skeleton).setAnimation(0, "stand", true); });
         spine.setEndListener(()=>{
-            // var spined = this.node.getComponent(sp.Skeleton);
-            // spined.setAnimation(0, "stand", true);
-            this.count = this.count || 0;
-            this.count = this.count + 1;
-            console.log("stand!!!" + this.count);
             if (this.state === "start") this.state = "finish";
         });
+        spine.setAnimationListener(this, this.animationStateEvent);
+        // spine.addListener(()=>{console.log("Doing");});
         this.state = "start";
     },
     
