@@ -22,7 +22,6 @@ cc.Class({
     onLoad: function () {
         var animation = this.node.getComponent(cc.Animation);
         animation.on('stop', this.onStopMove, this);
-        animation.on('mousedown', this.onStopMove, this);
         cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this.onStopMove, this);
     },
     
@@ -42,8 +41,12 @@ cc.Class({
             // case ANIMATION_TYPE.ANIMATION_END:
             //     cc.log(trackIndex + " end:" + animationName);
             //     break;
-            case 3:
+            case 3: // case ANIMATION_TYPE.ANIMATION_EVENT:
                 cc.log(trackIndex + " event: " + animationName);
+                break;
+            case 2: // case ANIMATION_TYPE.ANIMATION_COMPLETE:
+                cc.log(trackIndex + " event: " + animationName + " type: complete");
+                if (this.state === "start") this.state = "finish";
                 break;
             // case ANIMATION_TYPE.ANIMATION_COMPLETE:
             //     cc.log(trackIndex + " complete: " + animationName + "," + loopCount);
@@ -72,13 +75,8 @@ cc.Class({
         // this.node.setScale(2);
         var spine = this.node.getComponent(sp.Skeleton);
         spine.setAnimation (0, "active01", false, 0);
-        
-        // spine.setEndListener(()=>{this.node.getComponent(sp.Skeleton).setAnimation(0, "stand", true); });
-        spine.setEndListener(()=>{
-            if (this.state === "start") this.state = "finish";
-        });
+
         spine.setAnimationListener(this, this.animationStateEvent);
-        // spine.addListener(()=>{console.log("Doing");});
         this.state = "start";
     },
     
@@ -108,4 +106,4 @@ cc.Class({
         // this.node.opacity = minOpacity + Math.floor(opacityRatio * (255 - minOpacity));
 
     },
-});
+});;
