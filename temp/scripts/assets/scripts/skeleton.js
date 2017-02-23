@@ -2,8 +2,15 @@
 cc._RFpush(module, '0d751WwURRFaIWOP4sjI+5D', 'skeleton');
 // scripts/skeleton.js
 
-cc.Class({
-    'extends': cc.Component,
+var ANIMATION_TYPE = cc.Enum({
+    ANIMATION_START: 0,
+    ANIMATION_END: 1,
+    ANIMATION_COMPLETE: 2,
+    ANIMATION_EVENT: 3
+});
+
+module.exports = cc.Class({
+    "extends": cc.Component,
 
     properties: {
         // foo: {
@@ -17,8 +24,12 @@ cc.Class({
         // },
         // ...
         targets: {
-            'default': [],
+            "default": [],
             type: cc.Node
+        },
+        animstate: {
+            "default": ANIMATION_TYPE.ANIMATION_END,
+            type: ANIMATION_TYPE
         }
     },
 
@@ -26,7 +37,6 @@ cc.Class({
     onLoad: function onLoad() {
         var animation = this.node.getComponent(cc.Animation);
         animation.on('stop', this.onStopMove, this);
-        animation.on('mousedown', this.onStopMove, this);
         cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this.onStopMove, this);
     },
 
@@ -39,14 +49,18 @@ cc.Class({
         var animationName = entry && entry.animation ? entry.animation.name : 0;
 
         switch (type) {
-            // case ANIMATION_TYPE.ANIMATION_START:
-            //     cc.log(trackIndex + " start: " + animationName);
-            //     break;
+            case ANIMATION_TYPE.ANIMATION_START:
+                cc.log(trackIndex + " start: " + animationName);
+                break;
             // case ANIMATION_TYPE.ANIMATION_END:
             //     cc.log(trackIndex + " end:" + animationName);
             //     break;
-            case 3:
+            case ANIMATION_TYPE.ANIMATION_EVENT:
                 cc.log(trackIndex + " event: " + animationName);
+                break;
+            case ANIMATION_TYPE.ANIMATION_COMPLETE:
+                cc.log(trackIndex + " event: " + animationName + " type: complete");
+                if (this.state === "start") this.state = "finish";
                 break;
             // case ANIMATION_TYPE.ANIMATION_COMPLETE:
             //     cc.log(trackIndex + " complete: " + animationName + "," + loopCount);
@@ -72,18 +86,11 @@ cc.Class({
     },
 
     onStopMove: function onStopMove() {
-        var _this = this;
-
         // this.node.setScale(2);
         var spine = this.node.getComponent(sp.Skeleton);
         spine.setAnimation(0, "active01", false, 0);
 
-        // spine.setEndListener(()=>{this.node.getComponent(sp.Skeleton).setAnimation(0, "stand", true); });
-        spine.setEndListener(function () {
-            if (_this.state === "start") _this.state = "finish";
-        });
         spine.setAnimationListener(this, this.animationStateEvent);
-        // spine.addListener(()=>{console.log("Doing");});
         this.state = "start";
     },
 
@@ -95,10 +102,11 @@ cc.Class({
     // called every frame, uncomment this function to activate update callback
     update: function update(dt) {
 
-        if (this.state === "finish") {
-            this.node.getComponent(sp.Skeleton).setAnimation(0, "stand", true, 0);
-            this.state = "stop";
-        }
+        // if (this.state === "finish")
+        // {
+        //     this.node.getComponent(sp.Skeleton).setAnimation(0, "stand", true, 0);
+        //     this.state = "stop";
+        // }
         // 每帧判断和主角之间的距离是否小于收集距离
         // if (this.getPlayerDistance() < this.pickRadius) {
         //     // 调用收集行为
@@ -107,10 +115,11 @@ cc.Class({
         // }
 
         // 根据 Game 脚本中的计时器更新星星的透明度
-        // var opacityRatio = 1 - this.game.timer/this.game.starDuration;
-        // var minOpacity = 50;
+        // let opacityRatio = 1 - this.game.timer/this.game.starDuration;
+        // let minOpacity = 50;
         // this.node.opacity = minOpacity + Math.floor(opacityRatio * (255 - minOpacity));
+
     }
-});
+});;
 
 cc._RFpop();

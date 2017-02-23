@@ -39,8 +39,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 137,
-      "y": -55
+      "x": 0,
+      "y": 0
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -94,7 +94,8 @@
       "__id__": 1
     },
     "_enabled": true,
-    "targets": []
+    "targets": [],
+    "animstate": 1
   },
   {
     "__type__": "cc.Animation",

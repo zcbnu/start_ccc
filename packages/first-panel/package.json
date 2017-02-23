@@ -1,0 +1,19 @@
+{
+  "name": "first-panel",
+  "version": "0.0.1",
+  "description": "-可以打开一个面板窗口Org",
+  "author": "Org",
+  "main": "main.js",
+  "main-menu": {
+    "Panel/First Panel": {
+      "message":"first-panel:open"
+    }
+  },
+  "panel": {
+    "main": "panel.js",
+    "title": "First Panel",
+  	"type": "dockable",
+  	"width": 500,
+  	"height": 500
+  }
+}

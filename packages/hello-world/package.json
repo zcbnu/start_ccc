@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "-份简单的扩展sssOrg",
+  "author": "Org",
+  "main": "main.js",
+  "main-menu": {
+    "Examples/Hello World": {
+      "message": "hello-world:say-hello"
+    }
+  }
+}

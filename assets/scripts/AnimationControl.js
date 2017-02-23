@@ -1,7 +1,5 @@
-var Skill = require("Skill");
-
 cc.Class({
-    extends: cc.Component,
+    extends: require("Skill"),
 
     properties: {
         // foo: {
@@ -14,27 +12,19 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
-        hp: 1000,
-        hpMax: 1000,
-        attack: 200,
-        defence: 100,
-        passiveSkill: [Skill],
-        activeSkill: 0,
+        发动条件:0,
+        发动参数:0,
+        起始位置:0,
+        _目标位置:0,
     },
 
     // use this for initialization
     onLoad: function () {
-        this._minionRole = this.node.getChildByName("skeleton minion 4");
-        this._hpBar = this.node.getChildByName("progressBar").getComponent(cc.ProgressBar);
-        this.updateBar();
+
     },
 
-    updateBar: function () {
-        // this._hpBar.mode = cc.ProgressBar.Mode.HORIZONTAL;
-        this._hpBar.progress = parseFloat( this.hp / this.hpMax);
-    },
     // called every frame, uncomment this function to activate update callback
-    update: function (dt) {
-        this.updateBar();
-    },
+    // update: function (dt) {
+
+    // },
 });

@@ -1,5 +1,7 @@
-var Skill = require("Skill");
-
+var SKILLTYPE = cc.Enum({
+    PASSIVE_SKILL:1,
+    ACTIVE_SKILL:2,
+});
 cc.Class({
     extends: cc.Component,
 
@@ -14,27 +16,18 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
-        hp: 1000,
-        hpMax: 1000,
-        attack: 200,
-        defence: 100,
-        passiveSkill: [Skill],
-        activeSkill: 0,
+        // beidongjineng: [cc.Integer],
+        // zhudongjineng: cc.Integer,
+        类型: {default: SKILLTYPE.ACTIVE_SKILL, type:SKILLTYPE, tooltip:"技能类型。。"}
     },
 
     // use this for initialization
     onLoad: function () {
-        this._minionRole = this.node.getChildByName("skeleton minion 4");
-        this._hpBar = this.node.getChildByName("progressBar").getComponent(cc.ProgressBar);
-        this.updateBar();
+        cc.log("汉子类型"+this.类型);
     },
 
-    updateBar: function () {
-        // this._hpBar.mode = cc.ProgressBar.Mode.HORIZONTAL;
-        this._hpBar.progress = parseFloat( this.hp / this.hpMax);
-    },
     // called every frame, uncomment this function to activate update callback
-    update: function (dt) {
-        this.updateBar();
-    },
+    // update: function (dt) {
+
+    // },
 });

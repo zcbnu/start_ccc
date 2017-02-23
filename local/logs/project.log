@@ -1,100 +1,55 @@
-2017-02-03T12:17:23.403Z - normal: Load ~/.CocosCreator/settings.json
-2017-02-03T12:17:23.410Z - normal: checking language setting...
-2017-02-03T12:17:23.410Z - normal: Language: zh
-2017-02-03T12:17:23.441Z - success: protocol editor-framework registered
-2017-02-03T12:17:23.442Z - success: protocol app registered
-2017-02-03T12:17:23.442Z - success: protocol packages registered
-2017-02-03T12:17:23.442Z - success: protocol theme registered
-2017-02-03T12:17:23.443Z - success: protocol unpack registerred
-2017-02-03T12:17:23.723Z - normal: connected!
-2017-02-03T12:17:23.728Z - normal: Check project /Users/huangbaoying/workspace/start_ccc
-2017-02-03T12:17:23.730Z - normal: Initializing Cocos Creator Editor
-2017-02-03T12:17:24.101Z - normal: Initializing Cocos2d
-2017-02-03T12:17:24.297Z - normal: Initializing Asset Database
-2017-02-03T12:17:24.319Z - success: protocol uuid registerred
-2017-02-03T12:17:24.319Z - success: protocol db registerred
-2017-02-03T12:17:24.319Z - success: protocol thumbnail registerred
-2017-02-03T12:17:24.319Z - normal: Loading editor/builtin packages
-2017-02-03T12:17:24.452Z - success: assets loaded
-2017-02-03T12:17:24.456Z - success: builder loaded
-2017-02-03T12:17:24.461Z - success: hierarchy loaded
-2017-02-03T12:17:24.466Z - success: inspector loaded
-2017-02-03T12:17:24.468Z - success: keystore loaded
-2017-02-03T12:17:24.473Z - success: node-library loaded
-2017-02-03T12:17:24.477Z - success: preferences loaded
-2017-02-03T12:17:24.494Z - success: project-importer loaded
-2017-02-03T12:17:24.499Z - success: project-settings loaded
-2017-02-03T12:17:24.503Z - success: ui-kit loaded
-2017-02-03T12:17:24.508Z - success: ui-grid loaded
-2017-02-03T12:17:24.514Z - success: scene loaded
-2017-02-03T12:17:24.515Z - success: sprite-editor loaded
-2017-02-03T12:17:24.520Z - success: timeline loaded
-2017-02-03T12:17:24.521Z - normal: Loading builtin packages
-2017-02-03T12:17:24.526Z - success: asset-db-debugger loaded
-2017-02-03T12:17:24.527Z - success: code-editor loaded
-2017-02-03T12:17:24.528Z - success: color-picker loaded
-2017-02-03T12:17:24.533Z - success: console loaded
-2017-02-03T12:17:24.537Z - success: package-manager loaded
-2017-02-03T12:17:24.541Z - success: tester loaded
-2017-02-03T12:17:24.544Z - success: ui-kit-preview-extra loaded
-2017-02-03T12:17:24.547Z - success: ui-kit-preview loaded
-2017-02-03T12:17:24.550Z - success: ui-tree loaded
-2017-02-03T12:17:24.584Z - normal: Initializing project /Users/huangbaoying/workspace/start_ccc
-2017-02-03T12:17:24.587Z - normal: Loading packages
-2017-02-03T12:17:24.591Z - normal: Watching packages
-2017-02-03T12:17:24.611Z - normal: Run Application
-2017-02-03T12:17:25.560Z - success: preview server running at http://localhost:7456
-2017-02-03T12:17:29.125Z - normal: 1.3.3
-2017-02-03T12:29:43.282Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
-2017-02-03T12:29:43.287Z - normal: Simulator: FRAME SCALE = 1.00
-2017-02-03T12:29:43.297Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2017-02-03T12:29:43.298Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2017-02-03T12:29:43.298Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2017-02-03T12:29:43.356Z - normal: Simulator: 
-2017-02-03T12:29:43.357Z - normal: Simulator: {
-2017-02-03T12:29:43.357Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2017-02-03T12:29:43.357Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2017-02-03T12:29:43.357Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2017-02-03T12:29:43.358Z - normal: Simulator: 	gl.vendor: Intel Inc.
-2017-02-03T12:29:43.359Z - normal: Simulator: 	gl.supports_PVRTC: false
-2017-02-03T12:29:43.365Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
-2017-02-03T12:29:43.365Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2017-02-03T12:29:43.366Z - normal: Simulator: 	gl.max_texture_size: 16384
-2017-02-03T12:29:43.366Z - normal: Simulator: 	gl.supports_ETC1: false
-2017-02-03T12:29:43.367Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2017-02-03T12:29:43.367Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2017-02-03T12:29:43.368Z - normal: Simulator: 	gl.max_texture_units: 16
-2017-02-03T12:29:43.368Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2017-02-03T12:29:43.368Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2017-02-03T12:29:43.369Z - normal: Simulator: 	gl.supports_NPOT: true
-2017-02-03T12:29:43.369Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.58
-2017-02-03T12:29:43.369Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2017-02-03T12:29:43.369Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2017-02-03T12:29:43.370Z - normal: Simulator: }
-2017-02-03T12:29:43.370Z - normal: Simulator: 
-2017-02-03T12:29:43.370Z - normal: Simulator: 
-2017-02-03T12:29:43.371Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2017-02-03T12:29:43.407Z - normal: Simulator: Project Config:
-2017-02-03T12:29:43.408Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
-2017-02-03T12:29:43.408Z - normal: Simulator:     writable path: $(PROJDIR)/
-2017-02-03T12:29:43.408Z - normal: Simulator:     script file: $(PROJDIR)/main.js
-2017-02-03T12:29:43.408Z - normal: Simulator:     frame size: 960 x 640
-2017-02-03T12:29:43.409Z - normal: Simulator:     frame scale: 1.00
-2017-02-03T12:29:43.409Z - normal: Simulator:     show console: NO
-2017-02-03T12:29:43.409Z - normal: Simulator:     write debug log: NO ()
-2017-02-03T12:29:43.409Z - normal: Simulator:     listen: 
-2017-02-03T12:29:43.410Z - normal: Simulator:     debugger: none
-2017-02-03T12:29:43.410Z - normal: Simulator:     add searching path:
-2017-02-03T12:29:43.410Z - normal: Simulator: 
-2017-02-03T12:29:43.411Z - normal: Simulator: 
-2017-02-03T12:29:43.411Z - normal: Simulator: 
-2017-02-03T12:29:43.411Z - normal: Simulator: ------------------------------------------------
-2017-02-03T12:29:43.411Z - normal: Simulator: LOAD Js FILE: main.js
-2017-02-03T12:29:43.413Z - normal: Simulator: ------------------------------------------------
-2017-02-03T12:29:43.697Z - normal: Simulator: Cocos2d-JS v3.13
-2017-02-03T12:29:43.755Z - normal: Simulator: iShow!
-2017-02-03T12:29:48.374Z - normal: Simulator: basic_object_finalize 0x163428e0 ...
-2017-02-03T12:29:48.374Z - normal: Simulator: jsbindings: finalizing JS object 0x16342910 (WebSocket)
-2017-02-03T12:29:48.374Z - normal: Simulator: jsbindings: finalizing JS object 0x16342940 (SocketIO)
-2017-02-03T12:29:48.375Z - normal: Simulator: basic_object_finalize 0x163429a0 ...
-2017-02-03T12:29:48.375Z - normal: Simulator: basic_object_finalize 0x16342ca0 ...
+2017-02-23T12:26:07.561Z - normal: Load ~/.CocosCreator/settings.json
+2017-02-23T12:26:07.566Z - normal: checking language setting...
+2017-02-23T12:26:07.566Z - normal: Language: zh
+2017-02-23T12:26:08.015Z - success: protocol editor-framework registered
+2017-02-23T12:26:08.015Z - success: protocol app registered
+2017-02-23T12:26:08.015Z - success: protocol theme registered
+2017-02-23T12:26:08.015Z - success: protocol profile registered
+2017-02-23T12:26:08.016Z - success: protocol packages registered
+2017-02-23T12:26:08.019Z - success: protocol unpack registerred
+2017-02-23T12:26:08.020Z - success: protocol disable-commonjs registerred
+2017-02-23T12:26:08.267Z - normal: connected!
+2017-02-23T12:26:08.270Z - normal: Check project /Users/huangbaoying/workspace/start_ccc
+2017-02-23T12:26:08.272Z - normal: Initializing Cocos2d
+2017-02-23T12:26:08.501Z - normal: Initializing Asset Database
+2017-02-23T12:26:08.527Z - success: protocol uuid registerred
+2017-02-23T12:26:08.527Z - success: protocol db registerred
+2017-02-23T12:26:08.527Z - success: protocol thumbnail registerred
+2017-02-23T12:26:08.528Z - normal: Loading editor/builtin packages
+2017-02-23T12:26:08.671Z - success: assets loaded
+2017-02-23T12:26:08.675Z - success: builder loaded
+2017-02-23T12:26:08.682Z - success: hierarchy loaded
+2017-02-23T12:26:08.691Z - success: inspector loaded
+2017-02-23T12:26:08.695Z - success: keystore loaded
+2017-02-23T12:26:08.700Z - success: node-library loaded
+2017-02-23T12:26:08.706Z - success: preferences loaded
+2017-02-23T12:26:08.727Z - success: project-importer loaded
+2017-02-23T12:26:08.731Z - success: project-settings loaded
+2017-02-23T12:26:08.737Z - success: ui-kit loaded
+2017-02-23T12:26:08.742Z - success: ui-grid loaded
+2017-02-23T12:26:08.748Z - success: scene loaded
+2017-02-23T12:26:08.750Z - success: sprite-editor loaded
+2017-02-23T12:26:08.806Z - success: store loaded
+2017-02-23T12:26:08.813Z - success: timeline loaded
+2017-02-23T12:26:08.813Z - normal: Loading builtin packages
+2017-02-23T12:26:08.820Z - success: anysdk loaded
+2017-02-23T12:26:08.824Z - success: asset-db-debugger loaded
+2017-02-23T12:26:08.825Z - success: code-editor loaded
+2017-02-23T12:26:08.826Z - success: color-picker loaded
+2017-02-23T12:26:08.832Z - success: console loaded
+2017-02-23T12:26:08.837Z - success: package-manager loaded
+2017-02-23T12:26:08.842Z - success: tester loaded
+2017-02-23T12:26:08.845Z - success: ui-kit-preview-extra loaded
+2017-02-23T12:26:08.849Z - success: ui-kit-preview loaded
+2017-02-23T12:26:08.856Z - success: ui-tree loaded
+2017-02-23T12:26:08.917Z - normal: Initializing project /Users/huangbaoying/workspace/start_ccc
+2017-02-23T12:26:08.920Z - normal: Loading packages
+2017-02-23T12:26:08.930Z - success: first-panel loaded
+2017-02-23T12:26:08.935Z - success: hello-world loaded
+2017-02-23T12:26:08.935Z - normal: Watching packages
+2017-02-23T12:26:08.954Z - normal: Run Application
+2017-02-23T12:26:09.950Z - success: preview server running at http://localhost:7456
+2017-02-23T12:26:13.939Z - normal: 1.4.0
+2017-02-23T12:37:53.323Z - normal: Compiled project javascript file successfully
+2017-02-23T12:57:54.143Z - normal: Compiled project javascript file successfully
+2017-02-23T13:09:27.309Z - info: shutdown preview server
