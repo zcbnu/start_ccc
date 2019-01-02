@@ -8,10 +8,6 @@ cc.Class({
     // Player.js
     //...
     properties: {
-        // 主角跳跃高度
-        jumpHeight: 0,
-        // 主角跳跃持续时间
-        jumpDuration: 0,
         // 最大移动速度
     },
     //...
