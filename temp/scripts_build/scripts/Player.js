@@ -55,6 +55,14 @@ cc.Class({
         // 调用声音引擎播放声音
         cc.audioEngine.playEffect(this.jumpAudio, false);
     },
+    playJumpSound: function playJumpSound() {
+        // 调用声音引擎播放声音
+        cc.audioEngine.playEffect(this.jumpAudio, false);
+    },
+    playJumpSound: function playJumpSound() {
+        // 调用声音引擎播放声音
+        cc.audioEngine.playEffect(this.jumpAudio, false);
+    },
 
     setInputControl: function setInputControl() {
         var self = this;
