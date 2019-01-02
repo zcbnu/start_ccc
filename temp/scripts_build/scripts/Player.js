@@ -13,6 +13,7 @@ cc.Class({
     //...
 
     setJumpAction: function setJumpAction() {
+        aaaaaaaaa
                 var jumpUp = cc.moveBy(this.jumpDuration, cc.p(0, this.jumpHeight)).easing(cc.easeCubicActionOut());
         var jumpUp = cc.moveBy(this.jumpDuration, cc.p(0, this.jumpHeight)).easing(cc.easeCubicActionOut());
         var jumpUp = cc.moveBy(this.jumpDuration, cc.p(0, this.jumpHeight)).easing(cc.easeCubicActionOut());
@@ -42,6 +43,7 @@ cc.Class({
         // 添加一个回调函数，用于在动作结束时调用我们定义的其他方法
         var callback = cc.callFunc(this.playJumpSound, this);
         // 不断重复
+        ddddddd
         return cc.repeatForever(cc.sequence(jumpUp, jumpDown, callback));
     },
 
